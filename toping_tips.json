@@ -314,7 +314,7 @@
                     "fixture": "Paderborn Vs Dusseldorf",
                     "prediction": "Over 2.5",
                     "odds": "1.71",
-                    "results": "WIN"
+                    "results": "LOSS"
                 },
                 {
                     "fixture": "Lillestrom Vs Stabaek",
@@ -372,7 +372,7 @@
                     "fixture": "Al Hazm VS Al Riyadh SC",
                     "prediction": "CS 2-1",
                     "odds": "6.27",
-                    "results": "WIN"
+                    "results": "LOSS"
                 },
                 {
                     "fixture": "Samartex VS Great Olympics",
@@ -407,7 +407,7 @@
                     "fixture": "Al Hazm VS Al Riyadh SC",
                     "prediction": "CS 2-1",
                     "odds": "6.27",
-                    "results": "WIN"
+                    "results": "LOSS"
                 },
                 {
                     "fixture": "Samartex VS Great Olympics",
@@ -419,7 +419,7 @@
                     "fixture": "Tamale City VS Real Tamale United",
                     "prediction": "HT/FT X/X",
                     "odds": "5.28",
-                    "results": "WIN"
+                    "results": "LOSS"
                 },
                 {
                     "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
