@@ -358,6 +358,76 @@
                     "results": "Odds 6.29 (WIN)"
                 }
             ]
+        },
+        {
+            "date": "Wednesday, 7th June 2023",
+            "gamesList": [
+                {
+                    "fixture": "NK Krsko VS ND Ilirija",
+                    "prediction": "Over 3.5 & NG",
+                    "odds": "5.07",
+                    "results": "Odds 5.07 (WIN)"
+                },
+                {
+                    "fixture": "Al Hazm VS Al Riyadh SC",
+                    "prediction": "CS 2-1",
+                    "odds": "6.27",
+                    "results": "6.27 (WIN)"
+                },
+                {
+                    "fixture": "Samartex VS Great Olympics",
+                    "prediction": "Under 0.5 Goals",
+                    "odds": "7.11",
+                    "results": "Odds 7.11 (WIN)"
+                },
+                {
+                    "fixture": "Tamale City VS Real Tamale United",
+                    "prediction": "HT/FT X/X",
+                    "odds": "5.28",
+                    "results": "Odds 5.28 (WIN)"
+                },
+                {
+                    "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
+                    "prediction": "HT/FT 2/1",
+                    "odds": "6.29",
+                    "results": "Odds 6.29 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Wednesday, 7th June 2023",
+            "gamesList": [
+                {
+                    "fixture": "NK Krsko VS ND Ilirija",
+                    "prediction": "Over 3.5 & NG",
+                    "odds": "5.07",
+                    "results": "Odds 5.07 (WIN)"
+                },
+                {
+                    "fixture": "Al Hazm VS Al Riyadh SC",
+                    "prediction": "CS 2-1",
+                    "odds": "6.27",
+                    "results": "6.27 (WIN)"
+                },
+                {
+                    "fixture": "Samartex VS Great Olympics",
+                    "prediction": "Under 0.5 Goals",
+                    "odds": "7.11",
+                    "results": "Odds 7.11 (WIN)"
+                },
+                {
+                    "fixture": "Tamale City VS Real Tamale United",
+                    "prediction": "HT/FT X/X",
+                    "odds": "5.28",
+                    "results": "Odds 5.28 (WIN)"
+                },
+                {
+                    "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
+                    "prediction": "HT/FT 2/1",
+                    "odds": "6.29",
+                    "results": "Odds 6.29 (WIN)"
+                }
+            ]
         }   
     ]
 }
