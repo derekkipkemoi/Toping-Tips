@@ -17,7 +17,7 @@
         },
         {
             "name": "Premium Tips",
-            "amount": "$10",
+            "amount": "Ksh1000",
             "ticketNumber": "Ticket 1",
             "ticketDate": "Monday, 19th June 2023",
             "odds": "Total Standard Tips = 25.45 + Odds",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Standard Tips",
-            "amount": "$8",
+            "amount": "Ksh400",
             "ticketNumber": "Ticket 2",
             "ticketDate": "Monday, 19th June 2023",
             "odds": "Total Standard Tips = 25.45 + Odds",
@@ -35,7 +35,7 @@
         },
         {
             "name": "Basic Tips",
-            "amount": "$6",
+            "amount": "Ksh100",
             "ticketNumber": "Ticket 3",
             "ticketDate": "Monday, 19th June 2023",
             "odds": "Total Basic Tips = 15.95 + Odds",
@@ -44,8 +44,8 @@
         },
       {
             "name": "Jackpot Tips",
-            "amount": "$6",
-            "ticketNumber": "Ticket 3",
+            "amount": "Ksh400",
+            "ticketNumber": "Ticket 4",
             "ticketDate": "Monday, 19th June 2023",
             "odds": "Total Basic Tips = 15.95 + Odds",
             "id": "id_basic_sub",
