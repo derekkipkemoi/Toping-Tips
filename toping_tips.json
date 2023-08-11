@@ -43,6 +43,15 @@
             "id": "id_basic_sub",
             "length": 6
         },
+                {
+            "name": "Correct Score",
+            "amount": "Ksh400",
+            "ticketNumber": "Ticket 2",
+            "ticketDate": "Monday, 19th June 2023",
+            "odds": "Total Standard Tips = 25.45 + Odds",
+            "id": "id_correct_sub",
+            "length": 10
+        },
       {
             "name": "Jackpot Tips",
             "amount": "Ksh400",
