@@ -320,19 +320,14 @@
                     "fixture": "Paderborn Vs Dusseldorf",
                     "prediction": "Over 2.5",
                     "odds": "1.71",
-                    "results": "LOSS"
+                    "results": "WIN"
                 },
                 {
                     "fixture": "Lillestrom Vs Stabaek",
                     "prediction": "Over 2.5",
                     "odds": "1.38",
                     "results": "WIN"
-                }
-            ]
-        },
-        {
-            "date": "Sunday, 1st October 2023",
-            "gamesList": [
+                },
                 {
                     "fixture": "NK Krsko VS ND Ilirija",
                     "prediction": "Over 3.5 & NG",
@@ -344,41 +339,6 @@
                     "prediction": "CS 2-1",
                     "odds": "6.27",
                     "results": "WIN"
-                },
-                {
-                    "fixture": "Samartex VS Great Olympics",
-                    "prediction": "Under 0.5 Goals",
-                    "odds": "7.11",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Tamale City VS Real Tamale United",
-                    "prediction": "HT/FT X/X",
-                    "odds": "5.28",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
-                    "prediction": "HT/FT 2/1",
-                    "odds": "6.29",
-                    "results": "WIN"
-                }
-            ]
-        },
-        {
-            "date": "Saturday, 30th September 2023",
-            "gamesList": [
-                {
-                    "fixture": "NK Krsko VS ND Ilirija",
-                    "prediction": "Over 3.5 & NG",
-                    "odds": "5.07",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Al Hazm VS Al Riyadh SC",
-                    "prediction": "CS 2-1",
-                    "odds": "6.27",
-                    "results": "LOSS"
                 },
                 {
                     "fixture": "Samartex VS Great Olympics",
