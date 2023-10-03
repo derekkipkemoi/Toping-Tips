@@ -11,7 +11,7 @@
             "amount": "0",
             "ticketNumber": "Ticket 0",
             "ticketDate": "Monday, 19th September 2023",
-            "odds": "3 to 10 Odds Daily",
+            "odds": "5 to 10 Odds Daily",
             "id": "id_free_sub",
             "length": 1
         },
@@ -29,7 +29,7 @@
             "amount": "Ksh400",
             "ticketNumber": "Ticket 2",
             "ticketDate": "Monday, 19th September 2023",
-            "odds": "Total Standard Tips = 25.45 + Odds",
+            "odds": "Total Standard Tips = 15.45 + Odds",
             "id": "id_standard_sub",
             "length": 10
         },
@@ -39,7 +39,7 @@
             "amount": "Ksh100",
             "ticketNumber": "Ticket 3",
             "ticketDate": "Monday, 19th September 2023",
-            "odds": "Total Basic Tips = 15.95 + Odds",
+            "odds": "Total Basic Tips = 10.95 + Odds",
             "id": "id_basic_sub",
             "length": 6
         },
