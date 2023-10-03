@@ -43,15 +43,6 @@
             "id": "id_basic_sub",
             "length": 6
         },
-                {
-            "name": "Correct Score",
-            "amount": "Ksh400",
-            "ticketNumber": "Ticket 2",
-            "ticketDate": "Monday, 19th September 2023",
-            "odds": "Total Standard Tips = 25.45 + Odds",
-            "id": "id_correct_sub",
-            "length": 10
-        },
       {
             "name": "Jackpot Tips",
             "amount": "Ksh400",
@@ -59,7 +50,7 @@
             "ticketDate": "Monday, 19th September 2023",
             "odds": "Total Basic Tips = 15.95 + Odds",
             "id": "id_jackpot_sub",
-            "length": 6
+            "length": 17
         }
     ],
     "jackpotPredictions": [
