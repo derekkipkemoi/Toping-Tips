@@ -22,16 +22,16 @@
             "ticketDate": "Wednesday, 11th October 2023",
             "odds": "Total Standard Tips = 25.45 + Odds",
             "id": "id_premium_sub",
-            "length": 15
+            "length": 19
         },
         {
             "name": "Standard Tips",
             "amount": "Ksh400",
             "ticketNumber": "Ticket 2",
             "ticketDate": "Wednesday, 11th October 2023",
-            "odds": "Total Standard Tips = 15.45 + Odds",
+            "odds": "Total Standard Tips = 17.45 + Odds",
             "id": "id_standard_sub",
-            "length": 10
+            "length": 12
         },
 
         {
@@ -41,7 +41,7 @@
             "ticketDate": "Wednesday, 11th October 2023",
             "odds": "Total Basic Tips = 10.95 + Odds",
             "id": "id_basic_sub",
-            "length": 6
+            "length": 7
         },
       {
             "name": "Jackpot Tips",
@@ -55,126 +55,126 @@
     ],
     "jackpotPredictions": [
         {
-            "fixture": "Werder Bremen vs TSG Hoffenheim",
-            "prediction": "1",
-            "date": "07/10/2023"
+            "fixture": "FC Cartagena vs Racing Santander",
+            "prediction": "2",
+            "date": "14/10/2023"
         },
         {
-            "fixture": "RCD Mallorca vs Valencia CF",
-            "prediction": "X",
-            "date": "07/10/2023"
-        },
-        {
-            "fixture": "Stade Reims vs AS Monaco",
-            "prediction": "1",
-            "date": "07/10/2023"
-        },
-        {
-            "fixture": "FC Lugano vs Servette Geneva",
+            "fixture": "Sporting Gijon vs Real Zaragoza",
             "prediction": "1X",
-            "date": "08/10/2023"
+            "date": "14/10/2023"
         },
         {
-            "fixture": "West Ham United vs Newcastle United",
+            "fixture": "Hungary vs Serbia",
+            "prediction": "1",
+            "date": "14/10/2023"
+        },
+        {
+            "fixture": "Detroit City FC vs Pittsburgh Riverhounds",
             "prediction": "X",
-            "date": "08/10/2023"
+            "date": "14/10/2023"
         },
         {
-            "fixture": "GIF Sundsvall vs IK Brage",
-            "prediction": "2",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "Wolverhampton Wanderers vs Aston Villa",
+            "fixture": "Ituano FC SP vs CR Brasil AL",
             "prediction": "1",
-            "date": "08/10/2023"
+            "date": "14/10/2023"
         },
         {
-            "fixture": "Brighton & Hove Albion vs Liverpool FC",
-            "prediction": "2",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "Lazio Rome vs Atalanta BC",
-            "prediction": "2",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "Frosinone Calcio vs Hellas Verona",
-            "prediction": "1",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "FC Famalicao vs Vitoria SC Guimaraes",
-            "prediction": "1",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "Lausanne-Sport vs FC Luzern",
-            "prediction": "2",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "FK Haugesund vs Stroemsgodset IF",
-            "prediction": "1",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "RC Lens vs Lille OSC",
-            "prediction": "1",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "Arsenal FC vs Manchester City",
-            "prediction": "X",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "Hammarby IF vs Hacken Gothenburg",
-            "prediction": "X",
-            "date": "08/10/2023"
-        },
-        {
-            "fixture": "Deportivo Alaves vs Real Betis Seville",
+            "fixture": "CS Deportivo Pereira vs CD La Equidad",
             "prediction": "1X",
-            "date": "08/10/2023"
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Alebrijes de Oaxaca FC vs Cancun FC",
+            "prediction": "1",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Atletico Nacional Medellin vs Independiente Medellin",
+            "prediction": "1",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Cuiaba Esporte Clube MT vs Cruzeiro EC MG",
+            "prediction": "1",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Monterey Bay FC vs Orange County SC",
+            "prediction": "1X",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Las Vegas Lights vs San Diego Loyal SC",
+            "prediction": "2",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Los Angeles Galaxy vs Real Salt Lake",
+            "prediction": "2",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "FC Osaka vs FC Gifu",
+            "prediction": "1",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Club Deportivo Eldense vs Elche CF",
+            "prediction": "2",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "SC Preussen 06 Munster vs TSV 1860 Munich",
+            "prediction": "1",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "CA Estudiantes vs Tristan Suarez",
+            "prediction": "1",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "AA Ponte Preta SP vs AC Goianiense GO",
+            "prediction": "2",
+            "date": "15/10/2023"
         }
     ],
     "freePredictions": [
         {
-            "fixture": "Avranches vs FC Martigues",
-            "prediction": "GG",
-            "date": "11/10/2023"
-        },
-        {
-            "fixture": "Le Mans vs Rouen",
-            "prediction": "Home Win",
-            "date": "11/10/2023"
-        },
-        {
-            "fixture": "Nancy vs Red Star",
+            "fixture": "Myanmar vs Macau",
             "prediction": "Over 2.5",
-            "date": "11/10/2023"
+            "date": "12/10/2023"
         },
         {
-            "fixture": "Avispa Fukuoka vs Nagoya Grampus",
-            "prediction": "Away Win",
-            "date": "11/10/2023"
+            "fixture": "Latvia vs Armenia",
+            "prediction": "GG & Over 2.5",
+            "date": "12/10/2023"
         },
         {
-              "fixture": "Yokohama Marinos vs Urawa Red Diamonds",
-              "prediction": "Over 2.5",
-              "date": "11/10/2023"
+            "fixture": "Magdeburg vs Eintracht Braunschweig",
+            "prediction": "Over 2.5",
+            "date": "12/10/2023"
+        },
+        {
+            "fixture": "Azerbaijan U21 vs Northern Ireland U21",
+            "prediction": "Under 2.5",
+            "date": "12/10/2023"
+        },
+        {
+              "fixture": "Chaco For Ever vs Defensa y Justicia",
+              "prediction": "Under 2.5",
+              "date": "12/10/2023"
           },
           {
-              "fixture": "Niort vs Versailles 78",
-              "prediction": "1X",
-              "date": "11/10/2023"
+              "fixture": "Marianske Lazne vs Viktoria Plzen",
+              "prediction": "2",
+              "date": "12/10/2023"
           },
           {
-              "fixture": "England U19 vs Montenegro U19",
-              "prediction": "Home Win",
-              "date": "11/10/2023"
+              "fixture": "Deportivo Cali vs Deportes Tolima",
+              "prediction": "Away Win & Over 2.5",
+              "date": "12/10/2023"
           }
     ],
     "correctScore": [
@@ -206,84 +206,104 @@
     ],
     "paidPredictions": [
         {
-            "fixture": "FC Red Bull Salzburg vs Real Sociedad",
+            "fixture": "Maldives vs Bangladesh",
             "prediction": "Over 2.5" ,
-            "date": "03/10/2023"
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Napoli vs Real Madrid",
-            "prediction": "GG & Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Manchester United vs Galatasaray",
-            "prediction": "1 & Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Ipswich Town vs Hull City",
+            "fixture": "Chinese Taipei vs East Timor",
             "prediction": "Home Win",
-            "date": "03/10/2023"
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Middlesbrough vs Cardiff City",
+            "fixture": "Singapore vs Guam",
             "prediction": "Over 2.5",
-            "date": "03/10/2023"
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Luton Town vs Burnley",
-            "prediction": "Under 2.5",
-            "date": "03/10/2023"
+            "fixture": "Nepal vs Laos",
+            "prediction": "Home Win",
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Notts County vs Swindon",
-            "prediction": "Over 2.5",
-            "date": "03/10/2023"
+            "fixture": "Indonesia vs Brunei",
+            "prediction": "Over 3.5",
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Morecambe vs Accrington Stanley",
-            "prediction": "Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Doncaster Rovers vs Crawley Town",
-            "prediction": "Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Harrogate Town vs Wimbledon",
-            "prediction": "GG & Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Belasitsa vs Montana",
-            "prediction": "Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Levante UD vs Villarreal II",
-            "prediction": "Home Win & GG & Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Willem II vs Top Oss",
-            "prediction": "Home Win & Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Charlton Athletic vs Exeter City",
-            "prediction": "Home Win & Over 2.5",
-            "date": "03/10/2023"
-        },
-        {
-            "fixture": "Lokomotiv Moscow vs Rostov",
+            "fixture": "Andorra vs Kosovo",
             "prediction": "GG",
-            "date": "03/10/2023"
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Ural vs Rubin Kazan",
+            "fixture": "Faroe Islands vs Poland",
             "prediction": "Over 2.5",
-            "date": "03/10/2023"
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Cyprus vs Norway",
+            "prediction": "HT/FT 2",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Croatia vs Turkey",
+            "prediction": "GG",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Spain vs Scotland",
+            "prediction": "HT/FT 1",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Augsburg vs Nürnberg",
+            "prediction": "Over 2.5",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Stuttgart vs Wehen Wiesbaden",
+            "prediction": "GG & Over 2.5",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Deportes Pereira vs Rionegro Aguilas",
+            "prediction": "GG & Over 2.5",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "England U21 vs Serbia U21",
+            "prediction": "Home Win",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Luxembourg U21 vs Ukraine U21",
+            "prediction": "Over 2.5",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Georgia U21 vs Netherlands U21",
+            "prediction": "GG",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Sweden vs Moldova",
+            "prediction": "Under 3.5",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Georgia vs Thailand",
+            "prediction": "Home Win",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Stuttgart vs Wehen Wiesbaden",
+            "prediction": "GG or Over 2.5",
+            "date": "11/10/2023"
+        },
+        {
+            "fixture": "Georgia vs Thailand",
+            "prediction": "Home Win",
+            "date": "11/10/2023"
         }
     ],
     "predictionResults": [
