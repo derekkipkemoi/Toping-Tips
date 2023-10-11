@@ -10,7 +10,7 @@
             "name": "Free Tips",
             "amount": "0",
             "ticketNumber": "Ticket 0",
-            "ticketDate": "Wednesday, 11th October 2023",
+            "ticketDate": "Thursday, 12th October 2023",
             "odds": "5 to 10 Odds Daily",
             "id": "id_free_sub",
             "length": 1
@@ -19,7 +19,7 @@
             "name": "Premium Tips",
             "amount": "Ksh1000",
             "ticketNumber": "Ticket 1",
-            "ticketDate": "Wednesday, 11th October 2023",
+            "ticketDate": "Thursday, 12th October 2023",
             "odds": "Total Standard Tips = 25.45 + Odds",
             "id": "id_premium_sub",
             "length": 19
@@ -28,7 +28,7 @@
             "name": "Standard Tips",
             "amount": "Ksh400",
             "ticketNumber": "Ticket 2",
-            "ticketDate": "Wednesday, 11th October 2023",
+            "ticketDate": "Thursday, 12th October 2023",
             "odds": "Total Standard Tips = 17.45 + Odds",
             "id": "id_standard_sub",
             "length": 12
@@ -38,7 +38,7 @@
             "name": "Basic Tips",
             "amount": "Ksh100",
             "ticketNumber": "Ticket 3",
-            "ticketDate": "Wednesday, 11th October 2023",
+            "ticketDate": "Thursday, 12th October 2023",
             "odds": "Total Basic Tips = 10.95 + Odds",
             "id": "id_basic_sub",
             "length": 7
@@ -47,7 +47,7 @@
             "name": "Jackpot Tips",
             "amount": "Ksh400",
             "ticketNumber": "Ticket 4",
-            "ticketDate": "Wednesday, 11th October 2023",
+            "ticketDate": "Thursday, 12th October 2023",
             "odds": "Guaranteed Jackpot Bonus Win",
             "id": "id_jackpot_sub",
             "length": 17
