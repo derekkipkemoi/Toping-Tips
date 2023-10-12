@@ -10,7 +10,7 @@
             "name": "Free Tips",
             "amount": "0",
             "ticketNumber": "Ticket 0",
-            "ticketDate": "Thursday, 12th October 2023",
+            "ticketDate": "Friday, 13th October 2023",
             "odds": "5 to 10 Odds Daily",
             "id": "id_free_sub",
             "length": 1
@@ -20,7 +20,7 @@
             "name": "Basic Tips",
             "amount": "Ksh100",
             "ticketNumber": "Ticket 3",
-            "ticketDate": "Thursday, 12th October 2023",
+            "ticketDate": "Friday, 13th October 2023",
             "odds": "Total Basic Tips = 10.95 + Odds",
             "id": "id_basic_sub",
             "length": 7
@@ -29,7 +29,7 @@
             "name": "Standard Tips",
             "amount": "Ksh300",
             "ticketNumber": "Ticket 2",
-            "ticketDate": "Thursday, 12th October 2023",
+            "ticketDate": "Friday, 13th October 2023",
             "odds": "Total Standard Tips = 15.45 + Odds",
             "id": "id_standard_sub",
             "length": 12
@@ -38,7 +38,7 @@
             "name": "Premium Tips",
             "amount": "Ksh500",
             "ticketNumber": "Ticket 1",
-            "ticketDate": "Thursday, 12th October 2023",
+            "ticketDate": "Friday, 13th October 2023",
             "odds": "Total Standard Tips = 25.45 + Odds",
             "id": "id_premium_sub",
             "length": 19
@@ -47,7 +47,7 @@
             "name": "Jackpot Tips",
             "amount": "Ksh200",
             "ticketNumber": "Ticket 4",
-            "ticketDate": "Thursday, 12th October 2023",
+            "ticketDate": "Friday, 13th October 2023",
             "odds": "Guaranteed Jackpot Bonus Win",
             "id": "id_jackpot_sub",
             "length": 17
@@ -142,39 +142,29 @@
     ],
     "freePredictions": [
         {
-            "fixture": "Myanmar vs Macau",
-            "prediction": "Over 2.5",
-            "date": "12/10/2023"
+            "fixture": "bolivia vs ecuador",
+            "prediction": "away Win & Over 2.5",
+            "date": "13/10/2023"
         },
         {
-            "fixture": "Latvia vs Armenia",
+            "fixture": "Estonia vs Azerbaijan",
+            "prediction": "Under 2.5",
+            "date": "13/10/2023"
+        },
+        {
+            "fixture": "Palestine vs Tajikstan",
             "prediction": "GG & Over 2.5",
             "date": "12/10/2023"
         },
         {
-            "fixture": "Magdeburg vs Eintracht Braunschweig",
-            "prediction": "Over 2.5",
-            "date": "12/10/2023"
-        },
-        {
-            "fixture": "Azerbaijan U21 vs Northern Ireland U21",
+            "fixture": "Real Oviedo vs Albacete",
             "prediction": "Under 2.5",
-            "date": "12/10/2023"
+            "date": "13/10/2023"
         },
         {
-              "fixture": "Chaco For Ever vs Defensa y Justicia",
-              "prediction": "Under 2.5",
-              "date": "12/10/2023"
-          },
-          {
-              "fixture": "Marianske Lazne vs Viktoria Plzen",
-              "prediction": "2",
-              "date": "12/10/2023"
-          },
-          {
-              "fixture": "Deportivo Cali vs Deportes Tolima",
-              "prediction": "Away Win & Over 2.5",
-              "date": "12/10/2023"
+              "fixture": "CA Fenix Pilar vs Plaza Colonia CD",
+              "prediction": "Home Win & Under 2.5",
+              "date": "13/10/2023"
           }
     ],
     "correctScore": [
@@ -206,24 +196,24 @@
     ],
     "paidPredictions": [
         {
-            "fixture": "Maldives vs Bangladesh",
-            "prediction": "Over 2.5" ,
-            "date": "11/10/2023"
+            "fixture": "Chile vs Peru",
+            "prediction": "under 2.5" ,
+            "date": "13/10/2023"
         },
         {
-            "fixture": "Chinese Taipei vs East Timor",
+            "fixture": "Brazil vs Venezuela",
             "prediction": "Home Win",
-            "date": "11/10/2023"
+            "date": "13/10/2023"
         },
         {
-            "fixture": "Singapore vs Guam",
+            "fixture": "Iceland vs Luxembourg",
             "prediction": "Over 2.5",
-            "date": "11/10/2023"
+            "date": "13/10/2023"
         },
         {
-            "fixture": "Nepal vs Laos",
+            "fixture": "Austria vs Belgium",
             "prediction": "Home Win",
-            "date": "11/10/2023"
+            "date": "13/10/2023"
         },
         {
             "fixture": "Indonesia vs Brunei",
@@ -307,6 +297,41 @@
         }
     ],
     "predictionResults": [
+        {
+            "date": "Thursday, 12th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "Chapelton VS Arnett Gardens",
+                    "prediction": "No GG & Over 4.5",
+                    "odds": "7.04",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Wellington Phoenix W VS WS Wanderers W",
+                    "prediction": "Darw",
+                    "odds": "3.45",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Wellington Phoenix VS Melbourne City",
+                    "prediction": "HT/FT X/2",
+                    "odds": "4.29",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Adelaide United VS Perth Glory",
+                    "prediction": "CS 4.25",
+                    "odds": "4.25",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Al Qaisoma VS Al Akhdood",
+                    "prediction": "GG & Draw",
+                    "odds": "3.97",
+                    "results": "WIN"
+                }
+            ]
+        },
         {
             "date": "Wednesday, 11th May 2023",
             "gamesList": [
@@ -641,43 +666,7 @@
                     "results": "WIN"
                 }
             ]
-        },
-        {
-            "date": "Monday, 2nd October 2023",
-            "gamesList": [
-                {
-                    "fixture": "Chapelton VS Arnett Gardens",
-                    "prediction": "No GG & Over 4.5",
-                    "odds": "7.04",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Wellington Phoenix W VS WS Wanderers W",
-                    "prediction": "Darw",
-                    "odds": "3.45",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Wellington Phoenix VS Melbourne City",
-                    "prediction": "HT/FT X/2",
-                    "odds": "4.29",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Adelaide United VS Perth Glory",
-                    "prediction": "CS 4.25",
-                    "odds": "4.25",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Al Qaisoma VS Al Akhdood",
-                    "prediction": "GG & Draw",
-                    "odds": "3.97",
-                    "results": "WIN"
-                }
-            ]
         }
-
     ]
         
 }
