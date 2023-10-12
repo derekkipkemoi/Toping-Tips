@@ -410,7 +410,9 @@
                     "prediction": "Over 4.5 & GG",
                     "odds": "5.47",
                     "results": "Odds 5.47 (WIN)"
-                },
+                }
+            ]
+        },
         
         {
             "date": "Sunday 8th October 2023",
@@ -679,3 +681,4 @@
     ]
         
 }
+    
