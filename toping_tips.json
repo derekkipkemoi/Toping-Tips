@@ -307,6 +307,7 @@
         }
     ],
     "predictionResults": [
+        
         {
             "date": "Tuesday 10th October 2023",
             "gamesList": [
@@ -387,6 +388,388 @@
                     "prediction": "HT/FT 2/1",
                     "odds": "6.29",
                     "results": "WIN"
+                }
+            ]
+        },
+        {
+            "date": "Monday 9th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "Kr Reykjavik Vs Breidablik",
+                    "prediction": "Over 2.5",
+                    "odds": "1.45",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "alur R Vs Hafnarfjordur",
+                    "prediction": "Over 2.5",
+                    "odds": "2.30",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Basel Vs Stade Ls Ouchy",
+                    "prediction": "Over 2.5",
+                    "odds": "1.42",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Darmstadt Vs Bremen",
+                    "prediction": "Over 1.5 & GG",
+                    "odds": "1.54",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Fredrikstad Vs Raufoss",
+                    "prediction": "Over 1.5",
+                    "odds": "1.20",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Konyaspor Vs Besiktas",
+                    "prediction": "Over 1.5",
+                    "odds": "1.31",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Roma Vs Frosinone",
+                    "prediction": "Over 2.5",
+                    "odds": "1.71",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Videoton Vs Kisvarda",
+                    "prediction": "Over 2.5",
+                    "odds": "1.38",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Sandefjord Vs Valerenga",
+                    "prediction": "Over 3.5 & NG",
+                    "odds": "5.07",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Al Hazm VS Al Riyadh SC",
+                    "prediction": "CS 2-1",
+                    "odds": "6.27",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Samartex VS Great Olympics",
+                    "prediction": "Under 0.5 Goals",
+                    "odds": "7.11",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Tamale City VS Real Tamale United",
+                    "prediction": "HT/FT X/X",
+                    "odds": "5.28",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
+                    "prediction": "HT/FT 2/1",
+                    "odds": "6.29",
+                    "results": "WIN"
+                }
+            ]
+        },
+        
+        {
+            "date": "Sunday 8th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "Heracles Vs Jong Fc Utrecht",
+                    "prediction": "Over 2.5",
+                    "odds": "1.45",
+                    "results": "6-1 (WIN)"
+                },
+                {
+                    "fixture": "Willem Ii Vs Helmond",
+                    "prediction": "Over 1.5",
+                    "odds": "1.30",
+                    "results": "5-1 (WIN)"
+                },
+                {
+                    "fixture": "Bilbao Vs. Cadiz",
+                    "prediction": "Home Win",
+                    "odds": "1.42",
+                    "results": "4-1 (WIN)"
+                },
+                {
+                    "fixture": "Lausanne-sport Vs Aarau",
+                    "prediction": "Over 2.5 & GG",
+                    "odds": "1.54",
+                    "results": "4-1 (WIN)"
+                },
+                {
+                    "fixture": "Queens Park Vs Ayr",
+                    "prediction": "Over 1.5",
+                    "odds": "1.20",
+                    "results": "2-0 (WIN)"
+                },
+                {
+                    "fixture": "Sandhausen Vs Darmstadt",
+                    "prediction": "Over 1.5",
+                    "odds": "1.31",
+                    "results": "0-4 (WIN)"
+                },
+                {
+                    "fixture": "Paderborn Vs Dusseldorf",
+                    "prediction": "Over 2.5",
+                    "odds": "1.71",
+                    "results": "4-1 (WIN)"
+                },
+                {
+                    "fixture": "Lillestrom Vs Stabaek",
+                    "prediction": "Over 2.5",
+                    "odds": "1.38",
+                    "results": "2-2 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Saturday 7th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "NK Krsko VS ND Ilirija",
+                    "prediction": "Over 3.5 & NG",
+                    "odds": "5.07",
+                    "results": "Odds 5.07 (WIN)"
+                },
+                {
+                    "fixture": "Al Hazm VS Al Riyadh SC",
+                    "prediction": "CS 2-1",
+                    "odds": "6.27",
+                    "results": "6.27 (WIN)"
+                },
+                {
+                    "fixture": "Samartex VS Great Olympics",
+                    "prediction": "Under 0.5 Goals",
+                    "odds": "7.11",
+                    "results": "Odds 7.11 (WIN)"
+                },
+                {
+                    "fixture": "Tamale City VS Real Tamale United",
+                    "prediction": "HT/FT X/X",
+                    "odds": "5.28",
+                    "results": "Odds 5.28 (WIN)"
+                },
+                {
+                    "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
+                    "prediction": "HT/FT 2/1",
+                    "odds": "6.29",
+                    "results": "Odds 6.29 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Friday, 6th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "UB Conquense VS CD Torrijos",
+                    "prediction": "Under 0.5 Goals",
+                    "odds": "5.07",
+                    "results": "Odds 5.07 (WIN)"
+                },
+                {
+                    "fixture": "CF Intercity VS UD Logrones",
+                    "prediction": "Draw 2-2",
+                    "odds": "3.62",
+                    "results": "3.62 (WIN)"
+                },
+                {
+                    "fixture": "Real Sociedad B VS Atl莨�tico Baleares",
+                    "prediction": "HT/FT X/1 ",
+                    "odds": "4.28",
+                    "results": "Odds 4.28 (WIN)"
+                },
+                {
+                    "fixture": "Levante Las Planas W VS Huelva W",
+                    "prediction": "Correct Score 1-2",
+                    "odds": "4.39",
+                    "results": "Odds 4.39 (WIN)"
+                },
+                {
+                    "fixture": "Terranuova Traiana VS Poggibonsi ",
+                    "prediction": "Correct Score 0-3",
+                    "odds": "7.29",
+                    "results": "Odds 7.29 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Thursday, 5th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "Bnei Sakhnin VS Hapoel Hadera",
+                    "prediction": "Over 4.5",
+                    "odds": "5.07",
+                    "results": "Odds 5.07 (WIN)"
+                },
+                {
+                    "fixture": "CD Santa 鐃�rsula VS CD Tenerife B",
+                    "prediction": "CS 0-1",
+                    "odds": "5.43",
+                    "results": "5.43 (WIN)"
+                },
+                {
+                    "fixture": "UD Collerense VS SD Portmany",
+                    "prediction": "1-0",
+                    "odds": "6.72",
+                    "results": "Odds 6.72 (WIN)"
+                },
+                {
+                    "fixture": "UD Collerense VS SD Portmany",
+                    "prediction": "HT/FT 1/1",
+                    "odds": "4.39",
+                    "results": "Odds 4.39 (WIN)"
+                },
+                {
+                    "fixture": "Rahimo VS Vitesse FC (BFA)",
+                    "prediction": "Over 5.5 Goals",
+                    "odds": "6.19",
+                    "results": "Odds 6.19 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Wednesday, 4th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "Petro Atletico VS Recreativo Libolo ",
+                    "prediction": "Correct Score 0-1 ",
+                    "odds": "5.68",
+                    "results": "Odds 5.68 (WIN)"
+                },
+                {
+                    "fixture": "JS Massira VS Chabab Kh莨�nifra ",
+                    "prediction": "Draw Fixed",
+                    "odds": "3.05",
+                    "results": "3.05 (WIN)"
+                },
+                {
+                    "fixture": "SFC Pisek VS Admira Praha",
+                    "prediction": "HT Draw",
+                    "odds": "2.37",
+                    "results": "Odds 2.37 (WIN)"
+                },
+                {
+                    "fixture": "Markez Balata VS Ahli Al-Khalil ",
+                    "prediction": "HT/FT X/1",
+                    "odds": "5.39",
+                    "results": "Odds 5.39 (WIN)"
+                },
+                {
+                    "fixture": "R��gas FS II VS Valmiera II ",
+                    "prediction": "Over 5.5 Goals",
+                    "odds": "6.42",
+                    "results": "Odds 6.42 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Tuesday, 3rd October 2023",
+            "gamesList": [
+                {
+                    "fixture": "APOEL FC VS Olympiakos Nic.",
+                    "prediction": "HT/FT 1/1",
+                    "odds": "6.22",
+                    "results": "Odds 6.22 (WIN)"
+                },
+                {
+                    "fixture": "Guarulhos U20 VS Flamengo SP U20",
+                    "prediction": "CS 0-1",
+                    "odds": "4.92",
+                    "results": "Odds 4.92 (WIN)"
+                },
+                {
+                    "fixture": "Uniao Suzano U20 VS Novorizontino U20",
+                    "prediction": "HT/FT X/2",
+                    "odds": "5.47",
+                    "results": "Odds 5.47 (WIN)"
+                },
+                {
+                    "fixture": "Ittihad Tanger VS Mouloudia Oujda",
+                    "prediction": "CS 4.25",
+                    "odds": "4.25",
+                    "results": "Odds 4.25 (WIN)"
+                },
+                {
+                    "fixture": "OFI Creta VS Volos NFC",
+                    "prediction": "Under 0.5",
+                    "odds": "6.57",
+                    "results": "Odds 3.97 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Monday, 2nd October 2023",
+            "gamesList": [
+                {
+                    "fixture": "Chapelton VS Arnett Gardens",
+                    "prediction": "No GG & Over 4.5",
+                    "odds": "7.04",
+                    "results": "Odds 7.04 (WIN)"
+                },
+                {
+                    "fixture": "Wellington Phoenix W VS WS Wanderers W",
+                    "prediction": "Darw",
+                    "odds": "3.45",
+                    "results": "Odds 3.45 (WIN)"
+                },
+                {
+                    "fixture": "Wellington Phoenix VS Melbourne City",
+                    "prediction": "HT/FT X/2",
+                    "odds": "4.29",
+                    "results": "Odds 4.29 (WIN)"
+                },
+                {
+                    "fixture": "Adelaide United VS Perth Glory",
+                    "prediction": "CS 4.25",
+                    "odds": "4.25",
+                    "results": "Odds 4.25 (WIN)"
+                },
+                {
+                    "fixture": "Al Qaisoma VS Al Akhdood",
+                    "prediction": "GG & Draw",
+                    "odds": "3.97",
+                    "results": "Odds 3.97 (WIN)"
+                }
+            ]
+        },
+        {
+            "date": "Sunday, 1st October 2023",
+            "gamesList": [
+                {
+                    "fixture": "Real Tamale United VS Kotoku Royals",
+                    "prediction": "GG & Over 4.5",
+                    "odds": "4.27",
+                    "results": "Odds 4.27 (WIN)"
+                },
+                {
+                    "fixture": "Welling Utd VS Tonbridge Angels",
+                    "prediction": "Correct Score 2-1",
+                    "odds": "7.21",
+                    "results": "Odds 7.21 (WIN)"
+                },
+                {
+                    "fixture": "Hampton FC VS Worthing FC",
+                    "prediction": "Under 0.5 ",
+                    "odds": "6.38",
+                    "results": "Odds 6.38 (WIN)"
+                },
+                {
+                    "fixture": "Dartford VS Ebbsfleet Utd",
+                    "prediction": "Over 3.5 & NG",
+                    "odds": "5.05",
+                    "results": "Odds 5.05 (WIN)"
+                },
+                {
+                    "fixture": "Kidderminster VS Hereford Utd",
+                    "prediction": "Draw",
+                    "odds": "3.26",
+                    "results": "Odds 3.26 (WIN)"
                 }
             ]
         }
