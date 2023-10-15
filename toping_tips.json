@@ -1,7 +1,7 @@
 {
     "visibility": true,
-    "tillNumber": "5204479",
-    "tillName": "Football Highway",
+    "tillNumber": "9828195",
+    "tillName": "Flex Solutions",
     "showBannerAd": true,
     "showInterstitialAd": true,
     "showNativeAd": true,
@@ -10,48 +10,48 @@
             "name": "Free Tips",
             "amount": "0",
             "ticketNumber": "Ticket 0",
-            "ticketDate": "Friday, 13th October 2023",
+            "ticketDate": "Sunday, 15th October 2023",
             "odds": "5 to 10 Odds Daily",
             "id": "id_free_sub",
             "length": 1
         },
-        
+        {
+            "name": "Jackpot Tips",
+            "amount": "Ksh100",
+            "ticketNumber": "Ticket 4",
+            "ticketDate": "Sunday, 15th October 2023",
+            "odds": "Guaranteed Jackpot Bonus Win",
+            "id": "id_jackpot_sub",
+            "length": 17
+        },
         {
             "name": "Basic Tips",
             "amount": "Ksh100",
             "ticketNumber": "Ticket 3",
-            "ticketDate": "Friday, 13th October 2023",
+            "ticketDate": "Sunday, 15th October 2023",
             "odds": "Total Basic Tips = 10.95 + Odds",
             "id": "id_basic_sub",
             "length": 7
         },
         {
             "name": "Standard Tips",
-            "amount": "Ksh300",
+            "amount": "Ksh200",
             "ticketNumber": "Ticket 2",
-            "ticketDate": "Friday, 13th October 2023",
-            "odds": "Total Standard Tips = 15.45 + Odds",
+            "ticketDate": "Sunday, 15th October 2023",
+            "odds": "Total Standard Tips = 17.45 + Odds",
             "id": "id_standard_sub",
             "length": 12
         },
         {
             "name": "Premium Tips",
-            "amount": "Ksh500",
+            "amount": "Ksh300",
             "ticketNumber": "Ticket 1",
-            "ticketDate": "Friday, 13th October 2023",
+            "ticketDate": "Sunday, 15th October 2023",
             "odds": "Total Standard Tips = 25.45 + Odds",
             "id": "id_premium_sub",
             "length": 19
-        },
-      {
-            "name": "Jackpot Tips",
-            "amount": "Ksh200",
-            "ticketNumber": "Ticket 4",
-            "ticketDate": "Friday, 13th October 2023",
-            "odds": "Guaranteed Jackpot Bonus Win",
-            "id": "id_jackpot_sub",
-            "length": 17
         }
+        
     ],
     "jackpotPredictions": [
         {
@@ -142,29 +142,39 @@
     ],
     "freePredictions": [
         {
-            "fixture": "bolivia vs ecuador",
-            "prediction": "away Win & Over 2.5",
-            "date": "13/10/2023"
-        },
-        {
-            "fixture": "Estonia vs Azerbaijan",
-            "prediction": "Under 2.5",
-            "date": "13/10/2023"
-        },
-        {
-            "fixture": "Palestine vs Tajikstan",
+            "fixture": "LA Galaxy vs Real Salt Lake",
             "prediction": "GG & Over 2.5",
-            "date": "12/10/2023"
+            "date": "15/10/2023"
         },
         {
-            "fixture": "Real Oviedo vs Albacete",
-            "prediction": "Under 2.5",
-            "date": "13/10/2023"
+            "fixture": "Montevideo Wanderers1 vs 1Cerro Largo",
+            "prediction": "GG & Under 2.5",
+            "date": "15/10/2023"
         },
         {
-              "fixture": "CA Fenix Pilar vs Plaza Colonia CD",
+            "fixture": "Millonarios1 : 0Athletico Junior",
+            "prediction": "Home Win",
+            "date": "15/10/2023"
+        },
+        {
+            "fixture": "Atletico Nacional Medellin vs Independiente Medellin",
+            "prediction": "Over 2.5",
+            "date": "15/10/2023"
+        },
+        {
+              "fixture": "Mexico vs Ghana",
               "prediction": "Home Win & Under 2.5",
-              "date": "13/10/2023"
+              "date": "15/10/2023"
+          },
+          {
+              "fixture": "Cuiabá vs Cruzeiro MG",
+              "prediction": "Under 2.5",
+              "date": "15/10/2023"
+          },
+          {
+              "fixture": "Dallas vs Colorado Rapids",
+              "prediction": "Under 2.5",
+              "date": "15/10/2023"
           }
     ],
     "correctScore": [
@@ -196,24 +206,24 @@
     ],
     "paidPredictions": [
         {
-            "fixture": "Chile vs Peru",
-            "prediction": "under 2.5" ,
-            "date": "13/10/2023"
+            "fixture": "Maldives vs Bangladesh",
+            "prediction": "Over 2.5" ,
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Brazil vs Venezuela",
+            "fixture": "Chinese Taipei vs East Timor",
             "prediction": "Home Win",
-            "date": "13/10/2023"
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Iceland vs Luxembourg",
+            "fixture": "Singapore vs Guam",
             "prediction": "Over 2.5",
-            "date": "13/10/2023"
+            "date": "11/10/2023"
         },
         {
-            "fixture": "Austria vs Belgium",
+            "fixture": "Nepal vs Laos",
             "prediction": "Home Win",
-            "date": "13/10/2023"
+            "date": "11/10/2023"
         },
         {
             "fixture": "Indonesia vs Brunei",
@@ -297,6 +307,41 @@
         }
     ],
     "predictionResults": [
+        {
+            "date": "Friday, 13th October 2023",
+            "gamesList": [
+                {
+                    "fixture": "APOEL FC VS Olympiakos Nic.",
+                    "prediction": "HT/FT 1/1",
+                    "odds": "6.22",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Guarulhos U20 VS Flamengo SP U20",
+                    "prediction": "CS 0-1",
+                    "odds": "4.92",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Uniao Suzano U20 VS Novorizontino U20",
+                    "prediction": "HT/FT X/2",
+                    "odds": "5.47",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "Ittihad Tanger VS Mouloudia Oujda",
+                    "prediction": "CS 4.25",
+                    "odds": "4.25",
+                    "results": "WIN"
+                },
+                {
+                    "fixture": "OFI Creta VS Volos NFC",
+                    "prediction": "Under 0.5",
+                    "odds": "6.57",
+                    "results": "WIN"
+                }
+            ]
+        },
         {
             "date": "Thursday, 12th October 2023",
             "gamesList": [
@@ -631,42 +676,10 @@
                     "results": "WIN"
                 }
             ]
-        },
-        {
-            "date": "Tuesday, 3rd October 2023",
-            "gamesList": [
-                {
-                    "fixture": "APOEL FC VS Olympiakos Nic.",
-                    "prediction": "HT/FT 1/1",
-                    "odds": "6.22",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Guarulhos U20 VS Flamengo SP U20",
-                    "prediction": "CS 0-1",
-                    "odds": "4.92",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Uniao Suzano U20 VS Novorizontino U20",
-                    "prediction": "HT/FT X/2",
-                    "odds": "5.47",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "Ittihad Tanger VS Mouloudia Oujda",
-                    "prediction": "CS 4.25",
-                    "odds": "4.25",
-                    "results": "WIN"
-                },
-                {
-                    "fixture": "OFI Creta VS Volos NFC",
-                    "prediction": "Under 0.5",
-                    "odds": "6.57",
-                    "results": "WIN"
-                }
-            ]
         }
+        
+        
+
     ]
         
 }
