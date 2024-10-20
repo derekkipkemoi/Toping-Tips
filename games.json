@@ -1,137 +1,122 @@
-{
-    "id_jackpot_sub": [
-        {
-            "fixture": "Birmingham – Blackburn",
-            "prediction": "2",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "RB Leipzig – Real Madrid",
-            "prediction": "1",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "El Ittihad Alexandria – Talaea El Gaish",
-            "prediction": "1",
-            "date": "14/02/2024"
-        },
-        {
-            "fixture": "Arab Contractors – Enppi Club",
-            "prediction": "1",
-            "date": "14/02/2024"
-        },
-        {
-            "fixture": "PAOK FC – Panathinaikos",
-            "prediction": "1",
-            "date": "14/02/2024"
-        },
-        {
-            "fixture": "Bologna – Fiorentina",
-            "prediction": "X",
-            "date": "14/02/2024"
-        },
-        {
-            "fixture": "Ismaily SC – Ceramica Cleopatra",
-            "prediction": "1",
-            "date": "15/02/2024"
-        },
-        {
-            "fixture": "Al Khaleej Club – Al-Ettifaq",
-            "prediction": "1",
-            "date": "15/02/2024"
-        },
-        {
-            "fixture": "Shakhtar Donetsk – Marseille",
-            "prediction": "2",
-            "date": "15/02/2024"
-        }
-    ],
-    "id_basic_sub": [
-        {
-            "fixture": "RB Leipzig-:-Real Madrid",
-            "prediction": "GG & Over 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Copenhagen-:-Manchester City",
-            "prediction": "Away Win",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Gil Vicente-:-Vizela",
-            "prediction": "Under 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Rotherham United-:-Hull City",
-            "prediction": "Over 2.5",
-            "date": "13/02/2024"
-        }
-    ],
-    "id_standard_sub": [
-        {
-            "fixture": "RB Leipzig-:-Real Madrid",
-            "prediction": "GG & Over 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Copenhagen-:-Manchester City",
-            "prediction": "Away Win",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Gil Vicente-:-Vizela",
-            "prediction": "Under 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Rotherham United-:-Hull City",
-            "prediction": "Over 2.5",
-            "date": "13/02/2024"
-        }
-    ],
-    "id_premium_sub": [
-        {
-            "fixture": "RB Leipzig-:-Real Madrid",
-            "prediction": "GG & Over 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Copenhagen-:-Manchester City",
-            "prediction": "Away Win",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Gil Vicente-:-Vizela",
-            "prediction": "Under 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Rotherham United-:-Hull City",
-            "prediction": "Over 2.5",
-            "date": "13/02/2024"
-        }
-    ],
-    "id_correctscore_sub": [
-        {
-            "fixture": "RB Leipzig-:-Real Madrid",
-            "prediction": "GG & Over 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Copenhagen-:-Manchester City",
-            "prediction": "Away Win",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Gil Vicente-:-Vizela",
-            "prediction": "Under 2.5",
-            "date": "13/02/2024"
-        },
-        {
-            "fixture": "Rotherham United-:-Hull City",
-            "prediction": "Over 2.5",
-            "date": "13/02/2024"
-        }
-    ]
-}
+[
+    {
+        "name": "id_free_sub",
+        "games": [
+            {
+                "fixture": "RB Leipzig-:-Real Madrid",
+                "prediction": "GG & Over 2.5",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Copenhagen-:-Manchester City",
+                "prediction": "Away Win",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Gil Vicente-:-Vizela",
+                "prediction": "Under 2.5",
+                "date": "13/02/2024"
+            }
+        ]
+    },
+    {
+        "name": "id_basic_sub",
+        "games": [
+            {
+                "fixture": "RB Leipzig-:-Real Madrid",
+                "prediction": "GG & Over 2.5",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Copenhagen-:-Manchester City",
+                "prediction": "Away Win",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Gil Vicente-:-Vizela",
+                "prediction": "Under 2.5",
+                "date": "13/02/2024"
+            }
+        ]
+    },
+    {
+        "name": "id_standard_sub",
+        "games": [
+            {
+                "fixture": "RB Leipzig-:-Real Madrid",
+                "prediction": "GG & Over 2.5",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Copenhagen-:-Manchester City",
+                "prediction": "Away Win",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Gil Vicente-:-Vizela",
+                "prediction": "Under 2.5",
+                "date": "13/02/2024"
+            }
+        ]
+    },
+    {
+        "name": "id_premium_sub",
+        "games": [
+            {
+                "fixture": "RB Leipzig-:-Real Madrid",
+                "prediction": "GG & Over 2.5",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Copenhagen-:-Manchester City",
+                "prediction": "Away Win",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Gil Vicente-:-Vizela",
+                "prediction": "Under 2.5",
+                "date": "13/02/2024"
+            }
+        ]
+    },
+    {
+        "name": "id_correctScore_sub",
+        "games": [
+            {
+                "fixture": "RB Leipzig-:-Real Madrid",
+                "prediction": "GG & Over 2.5",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Copenhagen-:-Manchester City",
+                "prediction": "Away Win",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Gil Vicente-:-Vizela",
+                "prediction": "Under 2.5",
+                "date": "13/02/2024"
+            }
+        ]
+    },
+    {
+        "name": "id_jackpot_sub",
+        "games": [
+            {
+                "fixture": "RB Leipzig-:-Real Madrid",
+                "prediction": "GG & Over 2.5",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Copenhagen-:-Manchester City",
+                "prediction": "Away Win",
+                "date": "13/02/2024"
+            },
+            {
+                "fixture": "Gil Vicente-:-Vizela",
+                "prediction": "Under 2.5",
+                "date": "13/02/2024"
+            }
+        ]
+    }
+]
