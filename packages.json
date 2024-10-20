@@ -1,0 +1,56 @@
+{
+    "visibility": true,
+    "tillNumber": "5204479",
+    "tillName": "Football Highway",
+    "showBannerAd": true,
+    "showInterstitialAd": true,
+    "showNativeAd": true,
+    "plans": [
+        {
+            "name": "Free Tips",
+            "amount": "0",
+            "ticketNumber": "Ticket 0",
+            "ticketDate": "Tuesday, 12th February 2024",
+            "odds": "2 to 10 Odds Daily",
+            "id": "id_free_sub",
+            "length": 1
+        },
+        {
+            "name": "Jackpot Tips",
+            "amount": "Ksh100",
+            "ticketNumber": "Ticket 4",
+            "ticketDate": "Tuesday, 12th February 2024",
+            "odds": "Guaranteed Jackpot Bonus Win",
+            "id": "id_jackpot_sub",
+            "length": 17
+        },
+        {
+            "name": "Basic Tips",
+            "amount": "Ksh100",
+            "ticketNumber": "Ticket 3",
+            "ticketDate": "Tuesday, 12th February 2024",
+            "odds": "Total Basic Tips = 10.95 + Odds",
+            "id": "id_basic_sub",
+            "length": 7
+        },
+        {
+            "name": "Standard Tips",
+            "amount": "Ksh200",
+            "ticketNumber": "Ticket 2",
+            "ticketDate": "Tuesday, 12th February 2024",
+            "odds": "Total Standard Tips = 17.45 + Odds",
+            "id": "id_standard_sub",
+            "length": 12
+        },
+        {
+            "name": "Premium Tips",
+            "amount": "Ksh300",
+            "ticketNumber": "Ticket 1",
+            "ticketDate": "Tuesday, 12th February 2024",
+            "odds": "Total Standard Tips = 25.45 + Odds",
+            "id": "id_premium_sub",
+            "length": 19
+        }
+
+    ]
+}
