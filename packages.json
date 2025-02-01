@@ -12,7 +12,7 @@
             "ticketNumber": "Ticket 0",
             "ticketDate": "Tuesday, 12th February 2024",
             "odds": "2 to 10 Odds Daily",
-            "id": "id_free_sub",
+            "id": "id-free-sub",
             "length": 1
         },
         {
@@ -21,7 +21,7 @@
             "ticketNumber": "Ticket 4",
             "ticketDate": "Tuesday, 12th February 2024",
             "odds": "Guaranteed Jackpot Bonus Win",
-            "id": "id_jackpot_sub",
+            "id": "id-jackpot-sub",
             "length": 17
         },
         {
@@ -30,7 +30,7 @@
             "ticketNumber": "Ticket 3",
             "ticketDate": "Tuesday, 12th February 2024",
             "odds": "Total Basic Tips = 10.95 + Odds",
-            "id": "id_basic_sub",
+            "id": "id-basic-sub",
             "length": 7
         },
         {
@@ -39,7 +39,7 @@
             "ticketNumber": "Ticket 2",
             "ticketDate": "Tuesday, 12th February 2024",
             "odds": "Total Standard Tips = 17.45 + Odds",
-            "id": "id_standard_sub",
+            "id": "id-standard-sub",
             "length": 12
         },
         {
@@ -48,7 +48,7 @@
             "ticketNumber": "Ticket 1",
             "ticketDate": "Tuesday, 12th February 2024",
             "odds": "Total Standard Tips = 25.45 + Odds",
-            "id": "id_premium_sub",
+            "id": "id-premium-sub",
             "length": 19
         }
 
