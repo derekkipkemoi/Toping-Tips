@@ -21,7 +21,7 @@
             "amount": "Ksh100",
             "ticketNumber": "Ticket 4",
             "ticketDate": "Saturday, 14th June 2025",
-            "odds": "Guaranteed Jackpot Bonus Win",
+            "odds": "Guaranteed Bonus Win",
             "id": "id_jackpot_sub",
             "length": 17
         },
@@ -30,7 +30,7 @@
             "amount": "Ksh100",
             "ticketNumber": "Ticket 3",
             "ticketDate": "Saturday, 14th June 2025",
-            "odds": "Total Basic Tips = 10.95 + Odds",
+            "odds": "Total Tips = 10.95 + Odds",
             "id": "id_basic_sub",
             "length": 7
         },
@@ -39,7 +39,7 @@
             "amount": "Ksh200",
             "ticketNumber": "Ticket 2",
             "ticketDate": "Saturday, 14th June 2025",
-            "odds": "Total Standard Tips = 17.45 + Odds",
+            "odds": "Total Tips = 17.45 + Odds",
             "id": "id_standard_sub",
             "length": 12
         },
@@ -48,8 +48,17 @@
             "amount": "Ksh300",
             "ticketNumber": "Ticket 1",
             "ticketDate": "Saturday, 14th June 2025",
-            "odds": "Total Standard Tips = 25.45 + Odds",
+            "odds": "Total Tips = 25.45 + Odds",
             "id": "id_premium_sub",
+            "length": 19
+        },
+        {
+            "name": "Correct Score",
+            "amount": "Ksh300",
+            "ticketNumber": "Ticket 1",
+            "ticketDate": "Saturday, 14th June 2025",
+            "odds": "Total Tips = 55.45 + Odds",
+            "id": "id_correctScore_sub",
             "length": 19
         }
 
