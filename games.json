@@ -1,112 +1,79 @@
 [
-    {
-        "name": "id_free_sub",
-        "date": "13/02/2024",
-        "games": [
-            {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
-                
-            },
-            {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
-            },
-            {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5",
-                "date": "13/02/2024"
-            }
-        ]
-    },
-    {
-        "name": "id_basic_sub",
-        "date": "13/02/2024",
-        "games": [
-            {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
-            },
-            {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
-            },
-            {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
-            }
-        ]
-    },
-    {
-        "name": "id_standard_sub",
-        "date": "13/02/2024",
-        "games": [
-            {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
-            },
-            {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
-            },
-            {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
-            }
-        ]
-    },
-    {
-        "name": "id_premium_sub",
-        "date": "13/02/2024",
-        "games": [
-            {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
-            },
-            {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
-            },
-            {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
-            }
-        ]
-    },
-    {
-        "name": "id_correctScore_sub",
-        "date": "13/02/2024",
-        "games": [
-            {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
-            },
-            {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
-            },
-            {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
-            }
-        ]
-    },
-    {
-        "name": "id_jackpot_sub",
-        "date": "13/02/2024",
-        "games": [
-            {
-                "fixture": "RB Leipzig-:-Real Madrid",
-                "prediction": "GG & Over 2.5"
-            },
-            {
-                "fixture": "Copenhagen-:-Manchester City",
-                "prediction": "Away Win"
-            },
-            {
-                "fixture": "Gil Vicente-:-Vizela",
-                "prediction": "Under 2.5"
-            }
-        ]
-    }
+  {
+    "name": "id_free_sub",
+    "date": "13/06/2025",
+    "games": [
+      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
+      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
+      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" }
+    ]
+  },
+  {
+    "name": "id_basic_sub",
+    "date": "13/06/2025",
+    "games": [
+      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
+      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
+      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
+      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
+      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
+      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" }
+    ]
+  },
+  {
+    "name": "id_standard_sub",
+    "date": "13/06/2025",
+    "games": [
+      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
+      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
+      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
+      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
+      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
+      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
+      { "fixture": "Treaty United vs Bray", "prediction": "Home Win" },
+      { "fixture": "Meget Remetea Mare vs Șoimii Pesac", "prediction": "Over 1.5 Goals" }
+    ]
+  },
+  {
+    "name": "id_premium_sub",
+    "date": "13/06/2025",
+    "games": [
+      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
+      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
+      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
+      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
+      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
+      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
+      { "fixture": "Treaty United vs Bray", "prediction": "Home Win" },
+      { "fixture": "Meget Remetea Mare vs Șoimii Pesac", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Grün Weiss vs Sedda Bad Schallerbach", "prediction": "Over 1.5 Goals" }
+    ]
+  },
+  {
+    "name": "id_correctScore_sub",
+    "date": "13/06/2025",
+    "games": [
+      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "0-3" },
+      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "1-0" },
+      { "fixture": "New York City FC vs Atlanta United", "prediction": "2-0" }
+    ]
+  },
+  {
+    "name": "id_jackpot_sub",
+    "date": "13/06/2025",
+    "games": [
+      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
+      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
+      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
+      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
+      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
+      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
+      { "fixture": "Treaty United vs Bray", "prediction": "Home Win" },
+      { "fixture": "Meget Remetea Mare vs Șoimii Pesac", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Grün Weiss vs Sedda Bad Schallerbach", "prediction": "Over 1.5 Goals" },
+      { "fixture": "FC Molodechno vs Dinamo Brest", "prediction": "Away Win" },
+      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
+      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" }
+    ]
+  }
 ]
