@@ -1,79 +1,78 @@
 [
   {
     "name": "id_free_sub",
-    "date": "13/06/2025",
+    "date": "15/06/2025",
     "games": [
-      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
-      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
-      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" }
+      { "fixture": "Al Ahly vs Inter Miami", "prediction": "Draw" },
+      { "fixture": "Bayern Munich vs Auckland City", "prediction": "Home Win" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Over 2.5 Goals" }
     ]
   },
   {
     "name": "id_basic_sub",
-    "date": "13/06/2025",
+    "date": "15/06/2025",
     "games": [
-      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
-      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
-      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
-      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
-      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
-      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" }
+      { "fixture": "Al Ahly vs Inter Miami", "prediction": "Draw" },
+      { "fixture": "Bayern Munich vs Auckland City", "prediction": "Home Win" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Over 2.5 Goals" },
+      { "fixture": "United States vs Trinidad and Tobago", "prediction": "Home Win" },
+      { "fixture": "Haiti vs Saudi Arabia", "prediction": "Under 3.5 Goals" },
+      { "fixture": "Costa Rica vs Suriname", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_standard_sub",
-    "date": "13/06/2025",
+    "date": "15/06/2025",
     "games": [
-      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
-      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
-      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
-      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
-      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
-      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
-      { "fixture": "Treaty United vs Bray", "prediction": "Home Win" },
-      { "fixture": "Meget Remetea Mare vs Șoimii Pesac", "prediction": "Over 1.5 Goals" }
+      { "fixture": "Al Ahly vs Inter Miami", "prediction": "Draw" },
+      { "fixture": "Bayern Munich vs Auckland City", "prediction": "Home Win" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Over 2.5 Goals" },
+      { "fixture": "United States vs Trinidad and Tobago", "prediction": "Home Win" },
+      { "fixture": "Haiti vs Saudi Arabia", "prediction": "Under 3.5 Goals" },
+      { "fixture": "Costa Rica vs Suriname", "prediction": "Home Win" },
+      { "fixture": "England U21 vs Slovenia U21", "prediction": "Home Win" },
+      { "fixture": "Fehérvár Enthroners vs Berlin Thunder (European League Football)", "prediction": "Away Win" }
     ]
   },
   {
     "name": "id_premium_sub",
-    "date": "13/06/2025",
+    "date": "15/06/2025",
     "games": [
-      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
-      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
-      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
-      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
-      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
-      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
-      { "fixture": "Treaty United vs Bray", "prediction": "Home Win" },
-      { "fixture": "Meget Remetea Mare vs Șoimii Pesac", "prediction": "Over 1.5 Goals" },
-      { "fixture": "Grün Weiss vs Sedda Bad Schallerbach", "prediction": "Over 1.5 Goals" }
+      { "fixture": "Al Ahly vs Inter Miami", "prediction": "Draw" },
+      { "fixture": "Bayern Munich vs Auckland City", "prediction": "Home Win" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Over 2.5 Goals" },
+      { "fixture": "United States vs Trinidad and Tobago", "prediction": "Home Win" },
+      { "fixture": "Haiti vs Saudi Arabia", "prediction": "Under 3.5 Goals" },
+      { "fixture": "Costa Rica vs Suriname", "prediction": "Home Win" },
+      { "fixture": "England U21 vs Slovenia U21", "prediction": "Home Win" },
+      { "fixture": "Fehérvár Enthroners vs Berlin Thunder", "prediction": "Away Win" },
+      { "fixture": "Panthers Wrocław vs Cologne Centurions", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_correctScore_sub",
-    "date": "13/06/2025",
+    "date": "15/06/2025",
     "games": [
-      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "0-3" },
-      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "1-0" },
-      { "fixture": "New York City FC vs Atlanta United", "prediction": "2-0" }
+      { "fixture": "Al Ahly vs Inter Miami", "prediction": "1-1" },
+      { "fixture": "Bayern Munich vs Auckland City", "prediction": "3-0" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "2-1" }
     ]
   },
   {
     "name": "id_jackpot_sub",
-    "date": "13/06/2025",
+    "date": "15/06/2025",
     "games": [
-      { "fixture": "Sao Paulo vs Vasco da Gama", "prediction": "Home Win" },
-      { "fixture": "Gremio vs Corinthians", "prediction": "Under 1.5 Goals" },
-      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" },
-      { "fixture": "Portland Timbers vs San Jose Earthquakes", "prediction": "Home Win" },
-      { "fixture": "Molodechno vs Dinamo Brest", "prediction": "Away Win" },
-      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
-      { "fixture": "Treaty United vs Bray", "prediction": "Home Win" },
-      { "fixture": "Meget Remetea Mare vs Șoimii Pesac", "prediction": "Over 1.5 Goals" },
-      { "fixture": "Grün Weiss vs Sedda Bad Schallerbach", "prediction": "Over 1.5 Goals" },
-      { "fixture": "FC Molodechno vs Dinamo Brest", "prediction": "Away Win" },
-      { "fixture": "Gomel vs Arsenal Dzerzhinsk", "prediction": "Home Win" },
-      { "fixture": "New York City FC vs Atlanta United", "prediction": "Away Win" }
+      { "fixture": "Al Ahly vs Inter Miami", "prediction": "Draw" },
+      { "fixture": "Bayern Munich vs Auckland City", "prediction": "Home Win" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Over 2.5 Goals" },
+      { "fixture": "United States vs Trinidad and Tobago", "prediction": "Home Win" },
+      { "fixture": "Haiti vs Saudi Arabia", "prediction": "Under 3.5 Goals" },
+      { "fixture": "Costa Rica vs Suriname", "prediction": "Home Win" },
+      { "fixture": "England U21 vs Slovenia U21", "prediction": "Home Win" },
+      { "fixture": "Fehérvár Enthroners vs Berlin Thunder", "prediction": "Away Win" },
+      { "fixture": "Panthers Wrocław vs Cologne Centurions", "prediction": "Home Win" },
+      { "fixture": "Madrid Bravos vs Raiders Tirol", "prediction": "Away Win" },
+      { "fixture": "Munich Ravens vs Helvetic Mercenaries", "prediction": "Home Win" }
     ]
   }
 ]
