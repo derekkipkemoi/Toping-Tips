@@ -1,79 +1,80 @@
 [
   {
     "name": "id_free_sub",
-    "date": "16/06/2025",
+    "date": "17/06/2025",
     "games": [
-      { "fixture": "Botafogo vs Seattle Sounders", "prediction": "Draw" },
-      { "fixture": "Chelsea vs LAFC", "prediction": "Home Win" },
-      { "fixture": "Curacao vs El Salvador", "prediction": "Away Win" }
+      { "fixture": "Fluminense vs Borussia Dortmund", "prediction": "Away Win" },
+      { "fixture": "River Plate vs Urawa Red Diamonds", "prediction": "Home Win" },
+      { "fixture": "Ulsan Hyundai vs Mamelodi Sundowns", "prediction": "Over 2.5 Goals" }
     ]
   },
   {
     "name": "id_basic_sub",
-    "date": "16/06/2025",
+    "date": "17/06/2025",
     "games": [
-      { "fixture": "Botafogo vs Seattle Sounders", "prediction": "Draw" },
-      { "fixture": "Chelsea vs LAFC", "prediction": "Home Win" },
+      { "fixture": "Fluminense vs Borussia Dortmund", "prediction": "Away Win" },
+      { "fixture": "River Plate vs Urawa Red Diamonds", "prediction": "Home Win" },
+      { "fixture": "Ulsan Hyundai vs Mamelodi Sundowns", "prediction": "Over 2.5 Goals" },
+      { "fixture": "Monterrey vs Internazionale", "prediction": "Away Win" },
       { "fixture": "Curacao vs El Salvador", "prediction": "Away Win" },
-      { "fixture": "USA vs Trinidad and Tobago", "prediction": "Home Win" },
-      { "fixture": "Bolívar vs Always Ready", "prediction": "Home Win" },
-      { "fixture": "St Patrick's Athletic vs Shelbourne", "prediction": "Home Win" }
+      { "fixture": "Canada vs Honduras", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_standard_sub",
-    "date": "16/06/2025",
+    "date": "17/06/2025",
     "games": [
-      { "fixture": "Botafogo vs Seattle Sounders", "prediction": "Draw" },
-      { "fixture": "Chelsea vs LAFC", "prediction": "Home Win" },
+      { "fixture": "Fluminense vs Borussia Dortmund", "prediction": "Away Win" },
+      { "fixture": "River Plate vs Urawa Red Diamonds", "prediction": "Home Win" },
+      { "fixture": "Ulsan Hyundai vs Mamelodi Sundowns", "prediction": "Over 2.5 Goals" },
+      { "fixture": "Monterrey vs Internazionale", "prediction": "Away Win" },
       { "fixture": "Curacao vs El Salvador", "prediction": "Away Win" },
-      { "fixture": "USA vs Trinidad and Tobago", "prediction": "Home Win" },
-      { "fixture": "Bolívar vs Always Ready", "prediction": "Home Win" },
-      { "fixture": "St Patrick's Athletic vs Shelbourne", "prediction": "Home Win" },
-      { "fixture": "Romania U19 vs Spain U19", "prediction": "Away Win" },
-      { "fixture": "Víkingur Reykjavik vs KR Reykjavik", "prediction": "Home Win" }
+      { "fixture": "Canada vs Honduras", "prediction": "Home Win" },
+      { "fixture": "SE Palmeiras vs FC Porto", "prediction": "Draw" }
     ]
   },
   {
     "name": "id_premium_sub",
-    "date": "16/06/2025",
+    "date": "17/06/2025",
     "games": [
-      { "fixture": "Botafogo vs Seattle Sounders", "prediction": "Draw" },
-      { "fixture": "Chelsea vs LAFC", "prediction": "Home Win" },
+      { "fixture": "Fluminense vs Borussia Dortmund", "prediction": "Away Win" },
+      { "fixture": "River Plate vs Urawa Red Diamonds", "prediction": "Home Win" },
+      { "fixture": "Ulsan Hyundai vs Mamelodi Sundowns", "prediction": "Over 2.5 Goals" },
+      { "fixture": "Monterrey vs Internazionale", "prediction": "Away Win" },
       { "fixture": "Curacao vs El Salvador", "prediction": "Away Win" },
-      { "fixture": "USA vs Trinidad and Tobago", "prediction": "Home Win" },
-      { "fixture": "Bolívar vs Always Ready", "prediction": "Home Win" },
-      { "fixture": "St Patrick's Athletic vs Shelbourne", "prediction": "Home Win" },
-      { "fixture": "Romania U19 vs Spain U19", "prediction": "Away Win" },
-      { "fixture": "Víkingur Reykjavik vs KR Reykjavik", "prediction": "Home Win" },
-      { "fixture": "Stjarnan vs Valur", "prediction": "Over 1.5 Goals" }
+      { "fixture": "Canada vs Honduras", "prediction": "Home Win" },
+      { "fixture": "SE Palmeiras vs FC Porto", "prediction": "Draw" },
+      { "fixture": "Jamaica vs Guatemala", "prediction": "Home Win" },
+      { "fixture": "Panama vs Guadeloupe", "prediction": "Home Win" },
+      { "fixture": "United States vs Haiti", "prediction": "Home Win" },
+      { "fixture": "Saudi Arabia vs Trinidad and Tobago", "prediction": "Away Win" }
     ]
   },
   {
     "name": "id_correctScore_sub",
-    "date": "16/06/2025",
+    "date": "17/06/2025",
     "games": [
-      { "fixture": "Botafogo vs Seattle Sounders", "prediction": "1-1" },
-      { "fixture": "Chelsea vs LAFC", "prediction": "2-1" },
-      { "fixture": "USA vs Trinidad and Tobago", "prediction": "2-0" }
+      { "fixture": "Fluminense vs Borussia Dortmund", "prediction": "1-2" },
+      { "fixture": "Monterrey vs Internazionale", "prediction": "1-3" },
+      { "fixture": "Curacao vs El Salvador", "prediction": "1-2" }
     ]
   },
   {
     "name": "id_jackpot_sub",
-    "date": "16/06/2025",
+    "date": "17/06/2025",
     "games": [
-      { "fixture": "Botafogo vs Seattle Sounders", "prediction": "Draw" },
-      { "fixture": "Chelsea vs LAFC", "prediction": "Home Win" },
+      { "fixture": "Fluminense vs Borussia Dortmund", "prediction": "Away Win" },
+      { "fixture": "River Plate vs Urawa Red Diamonds", "prediction": "Home Win" },
+      { "fixture": "Ulsan Hyundai vs Mamelodi Sundowns", "prediction": "Over 2.5 Goals" },
+      { "fixture": "Monterrey vs Internazionale", "prediction": "Away Win" },
       { "fixture": "Curacao vs El Salvador", "prediction": "Away Win" },
-      { "fixture": "USA vs Trinidad and Tobago", "prediction": "Home Win" },
-      { "fixture": "Bolívar vs Always Ready", "prediction": "Home Win" },
-      { "fixture": "St Patrick's Athletic vs Shelbourne", "prediction": "Home Win" },
-      { "fixture": "Romania U19 vs Spain U19", "prediction": "Away Win" },
-      { "fixture": "Víkingur Reykjavik vs KR Reykjavik", "prediction": "Home Win" },
-      { "fixture": "Stjarnan vs Valur", "prediction": "Over 1.5 Goals" },
-      { "fixture": "Levadia Tallinn II vs Viimsi", "prediction": "Away Win" },
-      { "fixture": "Biskra vs Khenchela", "prediction": "Away Win" },
-      { "fixture": "Lagarto vs AD Jequie", "prediction": "Away Win" }
+      { "fixture": "Canada vs Honduras", "prediction": "Home Win" },
+      { "fixture": "SE Palmeiras vs FC Porto", "prediction": "Draw" },
+      { "fixture": "Jamaica vs Guatemala", "prediction": "Home Win" },
+      { "fixture": "Costa Rica vs Dominican Republic", "prediction": "Home Win" },
+      { "fixture": "Panama vs Guadeloupe", "prediction": "Home Win" },
+      { "fixture": "United States vs Haiti", "prediction": "Home Win" },
+      { "fixture": "Saudi Arabia vs Trinidad and Tobago", "prediction": "Away Win" }
     ]
   }
 ]
