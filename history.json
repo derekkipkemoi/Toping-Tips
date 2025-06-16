@@ -1,5 +1,71 @@
 [
     {
+  "date": "Saturday, 14th June 2025",
+  "gamesList": [
+    {
+      "fixture": "LA Galaxy VS Real Salt Lake",
+      "prediction": "Home Win",
+      "odds": "1.80",
+      "results": "WIN"
+    },
+    {
+      "fixture": "San Diego Loyal VS Austin FC",
+      "prediction": "Home Win",
+      "odds": "2.10",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Nashville SC VS New York City FC",
+      "prediction": "Draw",
+      "odds": "3.20",
+      "results": "WIN"
+    },
+    {
+      "fixture": "FC Dallas VS Philadelphia Union",
+      "prediction": "Draw",
+      "odds": "2.90",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Seattle Sounders VS Minnesota United",
+      "prediction": "Home Win",
+      "odds": "1.85",
+      "results": "LOST"
+    },
+    {
+      "fixture": "DC United VS New England Revolution",
+      "prediction": "Draw",
+      "odds": "2.80",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Inter Miami VS CF Montréal",
+      "prediction": "Home Win",
+      "odds": "1.75",
+      "results": "WIN"
+    },
+    {
+      "fixture": "New York Red Bulls VS Charlotte FC",
+      "prediction": "Home Win",
+      "odds": "2.00",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Houston Dynamo VS Sporting Kansas City",
+      "prediction": "Home Win",
+      "odds": "2.30",
+      "results": "LOST"
+    },
+    {
+      "fixture": "Portland Timbers VS San Jose Earthquakes",
+      "prediction": "Home Win",
+      "odds": "2.50",
+      "results": "WIN"
+    }
+  ]
+},
+
+    {
         "date": "Friday, 13th June 2025",
         "gamesList": [
             {
