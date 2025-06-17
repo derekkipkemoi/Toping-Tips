@@ -1,5 +1,82 @@
 [
     {
+  "date": "Monday, 16th June 2025",
+  "gamesList": [
+    {
+      "fixture": "St. Patrick's Athletic vs. Shelbourne FC",
+      "prediction": "Home Win",
+      "odds": "1.80",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Drogheda United vs. Shamrock Rovers",
+      "prediction": "Away Win",
+      "odds": "1.50",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Chelsea vs. Club León",
+      "prediction": "Home Win",
+      "odds": "1.40",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Flamengo RJ vs. Espérance Tunis",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Levadia B vs. Viimsi MRJK",
+      "prediction": "Home Win",
+      "odds": "1.70",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Stjarnan vs. Valur",
+      "prediction": "Away Win",
+      "odds": "2.10",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Ethio Electric FC vs. Fasil Kenema",
+      "prediction": "Away Win",
+      "odds": "1.90",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Shire Endaselassie FC vs. Adama City",
+      "prediction": "Away Win",
+      "odds": "2.00",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Þór/KA (w) vs. Breiðablik (w)",
+      "prediction": "Away Win",
+      "odds": "1.60",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Hafnarfjörður (w) vs. Tindastóll (w)",
+      "prediction": "Home Win",
+      "odds": "1.80",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Bulleen vs. Kingston City",
+      "prediction": "Home Win",
+      "odds": "1.75",
+      "results": "WIN"
+    },
+    {
+      "fixture": "Wilberforce Strikers vs. Diamond Stars",
+      "prediction": "Away Win",
+      "odds": "2.20",
+      "results": "WIN"
+    }
+  ]
+},
+    {
   "date": "Saturday, 14th June 2025",
   "gamesList": [
     {
