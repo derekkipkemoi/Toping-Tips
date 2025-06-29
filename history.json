@@ -1,5 +1,70 @@
 [
     {
+  "date": "Sunday, 29th June 2025",
+  "gamesList": [
+    {
+      "fixture": "England Women vs. Jamaica Women",
+      "prediction": "Home Win",
+      "odds": "1.08",
+      "results": "Win"
+    },
+    {
+      "fixture": "Paris Saint‑Germain vs. Inter Miami",
+      "prediction": "Home Win",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "fixture": "Chelsea vs. Benfica",
+      "prediction": "Home Win",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "CF Montréal vs. New York City FC",
+      "prediction": "Home Win",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "fixture": "D.C. United vs. Nashville SC",
+      "prediction": "Away Win",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "fixture": "New England Revolution vs. Colorado Rapids",
+      "prediction": "Draw",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "New York Red Bulls vs. Minnesota United",
+      "prediction": "Draw",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "Orlando City vs. FC Cincinnati",
+      "prediction": "Away Win",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "fixture": "Toronto FC vs. Portland Timbers",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "fixture": "Molde vs. KFUM Oslo",
+      "prediction": "Away Win",
+      "odds": "2.40",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Saturday, 28th June 2025",
   "gamesList": [
     {
