@@ -1,77 +1,78 @@
 [
   {
     "name": "id_free_sub",
-    "date": "30/06/2025",
+    "date": "01/06/2025",
     "games": [
-      { "fixture": "Inter Milan vs Fluminense", "prediction": "Home Win" },
-      { "fixture": "Manchester City vs Al‑Hilal", "prediction": "Home Win" }
+      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
+      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_basic_sub",
-    "date": "30/06/2025",
+    "date": "01/06/2025",
     "games": [
-      { "fixture": "Inter Milan vs Fluminense", "prediction": "Home Win" },
-      { "fixture": "Manchester City vs Al‑Hilal", "prediction": "Home Win" },
-      { "fixture": "CF Montréal vs New York City FC", "prediction": "Draw" },
-      { "fixture": "Chicago Fire vs Nashville SC", "prediction": "Away Win" },
-      { "fixture": "MLSevent vs MLSevent2", "prediction": "Home Win" }, 
-      { "fixture": "Real Salt Lake vs Austin FC", "prediction": "Away Win" }
+      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
+      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
+      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
+      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
+      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_standard_sub",
-    "date": "30/06/2025",
+    "date": "01/06/2025",
     "games": [
-      { "fixture": "Inter Milan vs Fluminense", "prediction": "Home Win" },
-      { "fixture": "Manchester City vs Al‑Hilal", "prediction": "Home Win" },
-      { "fixture": "CF Montréal vs New York City FC", "prediction": "Draw" },
-      { "fixture": "Chicago Fire vs Nashville SC", "prediction": "Away Win" },
-      { "fixture": "Real Salt Lake vs Austin FC", "prediction": "Away Win" },
-      { "fixture": "Seattle Sounders vs Houston Dynamo", "prediction": "Home Win" },
-      { "fixture": "Portland Timbers vs Columbus Crew", "prediction": "Draw" },
-      { "fixture": "San Jose Earthquakes vs FC Dallas", "prediction": "Home Win" },
-      { "fixture": "LA Galaxy vs Sporting KC", "prediction": "Home Win" }
+      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
+      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
+      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
+      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
+      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" },
+      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Away Win" },
+      { "fixture": "Jaro vs Inter Turku", "prediction": "Away Win" },
+      { "fixture": "CD Tapatio vs Leones Negros", "prediction": "Draw" }
     ]
   },
   {
     "name": "id_premium_sub",
-    "date": "30/06/2025",
+    "date": "01/06/2025",
     "games": [
-      { "fixture": "Inter Milan vs Fluminense", "prediction": "Home Win" },
-      { "fixture": "Manchester City vs Al‑Hilal", "prediction": "Home Win" },
-      { "fixture": "CF Montréal vs New York City FC", "prediction": "Draw" },
-      { "fixture": "Chicago Fire vs Nashville SC", "prediction": "Away Win" },
-      { "fixture": "Real Salt Lake vs Austin FC", "prediction": "Away Win" },
-      { "fixture": "Seattle Sounders vs Houston Dynamo", "prediction": "Home Win" },
-      { "fixture": "Portland Timbers vs Columbus Crew", "prediction": "Draw" },
-      { "fixture": "San Jose Earthquakes vs FC Dallas", "prediction": "Home Win" },
-      { "fixture": "LA Galaxy vs Sporting KC", "prediction": "Home Win" },
-      { "fixture": "Toronto FC vs Orlando City", "prediction": "Away Win" },
-      { "fixture": "Atlanta United vs FC Cincinnati", "prediction": "Home Win" },
-      { "fixture": "New England Revolution vs Colorado Rapids", "prediction": "Draw" }
+      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
+      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
+      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
+      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
+      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" },
+      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Away Win" },
+      { "fixture": "Jaro vs Inter Turku", "prediction": "Away Win" },
+      { "fixture": "CD Tapatio vs Leones Negros", "prediction": "Draw" },
+      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Draw" },
+      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Away Win" },
+      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Draw" }
     ]
   },
   {
     "name": "id_correctScore_sub",
-    "date": "30/06/2025",
+    "date": "01/06/2025",
     "games": [
-      { "fixture": "Inter Milan vs Fluminense", "prediction": "2-1" },
-      { "fixture": "Manchester City vs Al‑Hilal", "prediction": "3-0" }
+      { "fixture": "Oldham Athletic vs Southend United", "prediction": "2-1" },
+      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "1-1" },
+      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "2-0" }
     ]
   },
   {
     "name": "id_jackpot_sub",
-    "date": "30/06/2025",
+    "date": "01/06/2025",
     "games": [
-      { "fixture": "Inter Milan vs Fluminense", "prediction": "Home Win" },
-      { "fixture": "Manchester City vs Al‑Hilal", "prediction": "Home Win" },
-      { "fixture": "CF Montréal vs New York City FC", "prediction": "Draw" },
-      { "fixture": "Chicago Fire vs Nashville SC", "prediction": "Away Win" },
-      { "fixture": "Real Salt Lake vs Austin FC", "prediction": "Away Win" },
-      { "fixture": "Seattle Sounders vs Houston Dynamo", "prediction": "Home Win" },
-      { "fixture": "Portland Timbers vs Columbus Crew", "prediction": "Draw" },
-      { "fixture": "San Jose Earthquakes vs FC Dallas", "prediction": "Home Win" }
+      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
+      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
+      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
+      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
+      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" },
+      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Away Win" },
+      { "fixture": "Jaro vs Inter Turku", "prediction": "Away Win" }
     ]
   }
 ]
