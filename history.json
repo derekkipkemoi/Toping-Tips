@@ -1,5 +1,70 @@
 [
     {
+  "date": "Monday, 30th June 2025",
+  "gamesList": [
+    {
+      "fixture": "Inter Milan vs. Fluminense",
+      "prediction": "Away Win",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "Los Angeles FC vs. Vancouver Whitecaps",
+      "prediction": "Away Win",
+      "odds": "2.80",
+      "results": "Win"
+    },
+    {
+      "fixture": "Brann vs. Sandefjord",
+      "prediction": "Home Win",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "fixture": "Henan Songshan Longmen vs. Shandong Taishan",
+      "prediction": "Draw",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "Dalian Yingbo vs. Zhejiang Professional",
+      "prediction": "Home Win",
+      "odds": "1.65",
+      "results": "Win"
+    },
+    {
+      "fixture": "Beijing Guoan vs. Yunnan Yukun",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "fixture": "Shenzhen Xinpengcheng vs. Shanghai Port",
+      "prediction": "Away Win",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "fixture": "Djurgården vs. IFK Norrköping",
+      "prediction": "Draw",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "Mjällby AIF vs. Malmö FF",
+      "prediction": "Draw",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "USA vs. Costa Rica (Gold Cup)",
+      "prediction": "Home Win",
+      "odds": "1.90",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Sunday, 29th June 2025",
   "gamesList": [
     {
