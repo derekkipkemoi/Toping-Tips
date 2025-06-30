@@ -1,78 +1,78 @@
 [
   {
     "name": "id_free_sub",
-    "date": "01/06/2025",
+    "date": "01/07/2025",
     "games": [
-      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
-      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" }
+      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_basic_sub",
-    "date": "01/06/2025",
+    "date": "01/07/2025",
     "games": [
-      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
-      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
-      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
-      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
-      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
-      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" }
+      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
+      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
+      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" }
     ]
   },
   {
     "name": "id_standard_sub",
-    "date": "01/06/2025",
+    "date": "01/07/2025",
     "games": [
-      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
-      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
-      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
-      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
-      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
-      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" },
-      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Away Win" },
-      { "fixture": "Jaro vs Inter Turku", "prediction": "Away Win" },
-      { "fixture": "CD Tapatio vs Leones Negros", "prediction": "Draw" }
+      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
+      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
+      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" },
+      { "fixture": "Oulunsalon Pallo vs Jakobstads BK", "prediction": "Home Win" },
+      { "fixture": "Tornion Pallo 47 vs SJK Akatemia II", "prediction": "Home Win" },
+      { "fixture": "Guabira vs Independiente Petrolero", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_premium_sub",
-    "date": "01/06/2025",
+    "date": "01/07/2025",
     "games": [
-      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
-      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
-      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
-      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
-      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
-      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" },
-      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Away Win" },
-      { "fixture": "Jaro vs Inter Turku", "prediction": "Away Win" },
-      { "fixture": "CD Tapatio vs Leones Negros", "prediction": "Draw" },
-      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Draw" },
-      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Away Win" },
-      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Draw" }
+      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
+      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
+      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" },
+      { "fixture": "Oulunsalon Pallo vs Jakobstads BK", "prediction": "Home Win" },
+      { "fixture": "Tornion Pallo 47 vs SJK Akatemia II", "prediction": "Home Win" },
+      { "fixture": "Guabira vs Independiente Petrolero", "prediction": "Home Win" },
+      { "fixture": "Cuiaba vs Botafogo SP", "prediction": "Home Win" },
+      { "fixture": "Vinotinto Ecuador vs Aucas", "prediction": "Away Win" },
+      { "fixture": "HFX Wanderers vs Valour", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_correctScore_sub",
-    "date": "01/06/2025",
+    "date": "01/07/2025",
     "games": [
-      { "fixture": "Oldham Athletic vs Southend United", "prediction": "2-1" },
-      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "1-1" },
-      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "2-0" }
+      { "fixture": "Manchester City vs Al Hilal", "prediction": "3-1" },
+      { "fixture": "Real Madrid vs Juventus", "prediction": "3-1" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "2-1" }
     ]
   },
   {
     "name": "id_jackpot_sub",
-    "date": "01/06/2025",
+    "date": "01/07/2025",
     "games": [
-      { "fixture": "Vancouver Whitecaps vs Portland Timbers", "prediction": "Home Win" },
-      { "fixture": "Los Angeles Galaxy vs Real Salt Lake", "prediction": "Home Win" },
-      { "fixture": "SK Rapid Wien vs LASK", "prediction": "Over 1.5 Goals" },
-      { "fixture": "Santos vs Botafogo RJ", "prediction": "Under 2.5 Goals" },
-      { "fixture": "Pyramids vs Mamelodi Sundowns", "prediction": "Draw" },
-      { "fixture": "Oldham Athletic vs Southend United", "prediction": "Home Win" },
-      { "fixture": "Tallinna Kalev vs Kalju", "prediction": "Away Win" },
-      { "fixture": "Jaro vs Inter Turku", "prediction": "Away Win" }
+      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
+      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
+      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
+      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" },
+      { "fixture": "Oulunsalon Pallo vs Jakobstads BK", "prediction": "Home Win" },
+      { "fixture": "Tornion Pallo 47 vs SJK Akatemia II", "prediction": "Home Win" }
     ]
   }
 ]
