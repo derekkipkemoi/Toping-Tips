@@ -1,78 +1,78 @@
 [
   {
     "name": "id_free_sub",
-    "date": "01/07/2025",
+    "date": "02/07/2025",
     "games": [
-      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
-      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" }
+      { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_basic_sub",
-    "date": "01/07/2025",
+    "date": "02/07/2025",
     "games": [
-      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
-      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
-      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
-      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
-      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
-      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" }
+      { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
+      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
+      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
+      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
+      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" }
     ]
   },
   {
     "name": "id_standard_sub",
-    "date": "01/07/2025",
+    "date": "02/07/2025",
     "games": [
-      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
-      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
-      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
-      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
-      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
-      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" },
-      { "fixture": "Oulunsalon Pallo vs Jakobstads BK", "prediction": "Home Win" },
-      { "fixture": "Tornion Pallo 47 vs SJK Akatemia II", "prediction": "Home Win" },
-      { "fixture": "Guabira vs Independiente Petrolero", "prediction": "Home Win" }
+      { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
+      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
+      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
+      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
+      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" },
+      { "fixture": "Metta/Lu vs Tukums 2000", "prediction": "Home Win or Draw" },
+      { "fixture": "Weston Workers Bears vs Lambton Jaffas", "prediction": "Home Win" },
+      { "fixture": "Maitland FC vs Broadmeadow Magic", "prediction": "Away Win" }
     ]
   },
   {
     "name": "id_premium_sub",
-    "date": "01/07/2025",
+    "date": "02/07/2025",
     "games": [
-      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
-      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
-      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
-      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
-      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
-      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" },
-      { "fixture": "Oulunsalon Pallo vs Jakobstads BK", "prediction": "Home Win" },
-      { "fixture": "Tornion Pallo 47 vs SJK Akatemia II", "prediction": "Home Win" },
-      { "fixture": "Guabira vs Independiente Petrolero", "prediction": "Home Win" },
-      { "fixture": "Cuiaba vs Botafogo SP", "prediction": "Home Win" },
-      { "fixture": "Vinotinto Ecuador vs Aucas", "prediction": "Away Win" },
-      { "fixture": "HFX Wanderers vs Valour", "prediction": "Home Win" }
+      { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
+      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
+      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
+      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
+      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" },
+      { "fixture": "Metta/Lu vs Tukums 2000", "prediction": "Home Win or Draw" },
+      { "fixture": "Weston Workers Bears vs Lambton Jaffas", "prediction": "Home Win" },
+      { "fixture": "Maitland FC vs Broadmeadow Magic", "prediction": "Away Win" },
+      { "fixture": "New Lambton FC vs Adamstown Rosebud", "prediction": "Draw or Away Win" },
+      { "fixture": "Gwangju FC vs Ulsan Hyundai FC", "prediction": "Away Win" },
+      { "fixture": "FC Seoul vs Jeonbuk Motors", "prediction": "Away Win" }
     ]
   },
   {
     "name": "id_correctScore_sub",
-    "date": "01/07/2025",
+    "date": "02/07/2025",
     "games": [
-      { "fixture": "Manchester City vs Al Hilal", "prediction": "3-1" },
-      { "fixture": "Real Madrid vs Juventus", "prediction": "3-1" },
-      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "2-1" }
+      { "fixture": "USA vs Guatemala", "prediction": "2-1" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "2-1" },
+      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "3-0" }
     ]
   },
   {
     "name": "id_jackpot_sub",
-    "date": "01/07/2025",
+    "date": "02/07/2025",
     "games": [
-      { "fixture": "Manchester City vs Al Hilal", "prediction": "Home Win" },
-      { "fixture": "Real Madrid vs Juventus", "prediction": "Home Win" },
-      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Over 2.5 Goals" },
-      { "fixture": "PSG vs Atlético Madrid", "prediction": "Home or Draw" },
-      { "fixture": "Spain Women vs Portugal Women", "prediction": "Home Win" },
-      { "fixture": "KuPS vs IF Gnistan", "prediction": "Draw" },
-      { "fixture": "Oulunsalon Pallo vs Jakobstads BK", "prediction": "Home Win" },
-      { "fixture": "Tornion Pallo 47 vs SJK Akatemia II", "prediction": "Home Win" }
+      { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
+      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
+      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
+      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
+      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" },
+      { "fixture": "Metta/Lu vs Tukums 2000", "prediction": "Home Win or Draw" },
+      { "fixture": "Weston Workers Bears vs Lambton Jaffas", "prediction": "Home Win" }
     ]
   }
 ]
