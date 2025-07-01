@@ -1,5 +1,70 @@
 [
     {
+  "date": "Tuesday, 1st July 2025",
+  "gamesList": [
+    {
+      "fixture": "Manchester City vs. Al‑Hilal",
+      "prediction": "Away Win",
+      "odds": "3.50",
+      "results": "Win"
+    },
+    {
+      "fixture": "Real Madrid vs. Juventus",
+      "prediction": "Home Win",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "fixture": "Borussia Dortmund vs. Monterrey",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "fixture": "KPS Kuopio vs. Gnistan",
+      "prediction": "Home Win",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "fixture": "Cuniburo vs. Aucas",
+      "prediction": "Away Win",
+      "odds": "2.30",
+      "results": "Loss"
+    },
+    {
+      "fixture": "Colon Santa Fe vs. Mitre",
+      "prediction": "Away Win",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "Audax Italiano vs. Deportes Temuco",
+      "prediction": "Home Win",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "fixture": "Ñublense vs. Magallanes",
+      "prediction": "Away Win",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "FC Utrecht vs. FCSB",
+      "prediction": "Away Win",
+      "odds": "2.80",
+      "results": "Win"
+    },
+    {
+      "fixture": "Odense BK vs. B.93 København",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Monday, 30th June 2025",
   "gamesList": [
     {
