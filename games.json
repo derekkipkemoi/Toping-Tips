@@ -1,7 +1,7 @@
 [
   {
     "name": "id_free_sub",
-    "date": "02/07/2025",
+    "date": "03/07/2025",
     "games": [
       { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
       { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" }
@@ -9,70 +9,70 @@
   },
   {
     "name": "id_basic_sub",
-    "date": "02/07/2025",
+    "date": "03/07/2025",
     "games": [
       { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
       { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
-      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
-      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
-      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
-      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" }
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Over 2.5 Goals" },
+      { "fixture": "New York City vs Toronto", "prediction": "Home Win" },
+      { "fixture": "KäPa vs TPS", "prediction": "Home Win" },
+      { "fixture": "The Strongest vs Real Oruro", "prediction": "Over 1.5 Goals" }
     ]
   },
   {
     "name": "id_standard_sub",
-    "date": "02/07/2025",
+    "date": "03/07/2025",
     "games": [
       { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
       { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
-      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
-      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
-      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
-      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" },
-      { "fixture": "Metta/Lu vs Tukums 2000", "prediction": "Home Win or Draw" },
-      { "fixture": "Weston Workers Bears vs Lambton Jaffas", "prediction": "Home Win" },
-      { "fixture": "Maitland FC vs Broadmeadow Magic", "prediction": "Away Win" }
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Over 2.5 Goals" },
+      { "fixture": "New York City vs Toronto", "prediction": "Home Win" },
+      { "fixture": "KäPa vs TPS", "prediction": "Home Win" },
+      { "fixture": "The Strongest vs Real Oruro", "prediction": "Over 1.5 Goals" },
+      { "fixture": "USA vs Guatemala", "prediction": "BTTS" },
+      { "fixture": "Afturelding vs Breidablik", "prediction": "Away Win" },
+      { "fixture": "Maxline Rogachev vs Dinamo Minsk", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_premium_sub",
-    "date": "02/07/2025",
+    "date": "03/07/2025",
     "games": [
       { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
       { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
-      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
-      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
-      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
-      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" },
-      { "fixture": "Metta/Lu vs Tukums 2000", "prediction": "Home Win or Draw" },
-      { "fixture": "Weston Workers Bears vs Lambton Jaffas", "prediction": "Home Win" },
-      { "fixture": "Maitland FC vs Broadmeadow Magic", "prediction": "Away Win" },
-      { "fixture": "New Lambton FC vs Adamstown Rosebud", "prediction": "Draw or Away Win" },
-      { "fixture": "Gwangju FC vs Ulsan Hyundai FC", "prediction": "Away Win" },
-      { "fixture": "FC Seoul vs Jeonbuk Motors", "prediction": "Away Win" }
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Over 2.5 Goals" },
+      { "fixture": "New York City vs Toronto", "prediction": "Home Win" },
+      { "fixture": "KäPa vs TPS", "prediction": "Home Win" },
+      { "fixture": "The Strongest vs Real Oruro", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Afturelding vs Breidablik", "prediction": "Away Win" },
+      { "fixture": "Maxline Rogachev vs Dinamo Minsk", "prediction": "Home Win" },
+      { "fixture": "Shurtan vs Qizilqum", "prediction": "Home Win" },
+      { "fixture": "USA vs Guatemala", "prediction": "BTTS" },
+      { "fixture": "KäPa vs TPS", "prediction": "Over 1.5 Goals" },
+      { "fixture": "Afturelding vs Breidablik", "prediction": "Correct Score 0-1" }
     ]
   },
   {
     "name": "id_correctScore_sub",
-    "date": "02/07/2025",
+    "date": "03/07/2025",
     "games": [
-      { "fixture": "USA vs Guatemala", "prediction": "2-1" },
-      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "2-1" },
-      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "3-0" }
+      { "fixture": "USA vs Guatemala", "prediction": "3-1" },
+      { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "1-0" },
+      { "fixture": "Real Madrid vs Juventus", "prediction": "2-1" }
     ]
   },
   {
     "name": "id_jackpot_sub",
-    "date": "02/07/2025",
+    "date": "03/07/2025",
     "games": [
       { "fixture": "USA vs Guatemala", "prediction": "Home Win" },
       { "fixture": "Borussia Dortmund vs Monterrey", "prediction": "Home Win" },
-      { "fixture": "Switzerland Women vs Norway Women", "prediction": "Away Win or Draw" },
-      { "fixture": "FC Ilves vs FC KooTeePee", "prediction": "Home Win" },
-      { "fixture": "FC Inter vs IFK Mariehamn", "prediction": "Home Win" },
-      { "fixture": "Vissel Kobe vs Sanfrecce Hiroshima", "prediction": "Away Win" },
-      { "fixture": "Metta/Lu vs Tukums 2000", "prediction": "Home Win or Draw" },
-      { "fixture": "Weston Workers Bears vs Lambton Jaffas", "prediction": "Home Win" }
+      { "fixture": "Real Madrid vs Juventus", "prediction": "Over 2.5 Goals" },
+      { "fixture": "New York City vs Toronto", "prediction": "Home Win" },
+      { "fixture": "KäPa vs TPS", "prediction": "Home Win" },
+      { "fixture": "The Strongest vs Real Oruro", "prediction": "Over 2.5 Goals" },
+      { "fixture": "Afturelding vs Breidablik", "prediction": "Away Win" },
+      { "fixture": "Maxline Rogachev vs Dinamo Minsk", "prediction": "Home Win" }
     ]
   }
 ]
