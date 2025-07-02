@@ -1,5 +1,70 @@
 [
     {
+  "date": "Wednesday, 2nd July 2025",
+  "gamesList": [
+    {
+      "fixture": "Borussia Dortmund vs. Monterrey",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "fixture": "Manchester City vs. Al Hilal",
+      "prediction": "Away Win",
+      "odds": "3.50",
+      "results": "Win"
+    },
+    {
+      "fixture": "Real Madrid vs. Juventus",
+      "prediction": "Home Win",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "fixture": "Bayern Munich vs. Flamengo",
+      "prediction": "Home Win",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "fixture": "Iceland Women vs. Finland Women",
+      "prediction": "Away Win",
+      "odds": "2.80",
+      "results": "Win"
+    },
+    {
+      "fixture": "Switzerland Women vs. Norway Women",
+      "prediction": "Away Win",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "Al-Karamah vs. Al-Wahda Damascus",
+      "prediction": "Away Win",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "fixture": "Al Shorta Damascus vs. Al-Wathbah",
+      "prediction": "Away Win",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "fixture": "Hutteen vs. Al-Ittihad Aleppo",
+      "prediction": "Draw",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "Al-Sholla vs. Al-Jaish (SYR)",
+      "prediction": "Draw",
+      "odds": "3.10",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Tuesday, 1st July 2025",
   "gamesList": [
     {
