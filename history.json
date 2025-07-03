@@ -1,5 +1,70 @@
 [
     {
+  "date": "Tuesday, 3rd June 2025",
+  "gamesList": [
+    {
+      "fixture": "Boston Bolts vs. Western Mass Pioneers",
+      "prediction": "Away Win",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "fixture": "Seacoast United Phantoms vs. Black Rock FC",
+      "prediction": "Away Win",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "Philadelphia Union DS vs. WC Predators",
+      "prediction": "Home Win",
+      "odds": "1.20",
+      "results": "Win"
+    },
+    {
+      "fixture": "Pittsburgh Steel City W vs. FC Buffalo W",
+      "prediction": "Draw",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "fixture": "Sporting Jacksonville vs. Brevard SC Riptide",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "fixture": "North Carolina Fusion W vs. Charlotte Eagles W",
+      "prediction": "Away Win",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "fixture": "South Carolina United FC W vs. South Georgia Tormenta FC W",
+      "prediction": "Away Win",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "Binh Dinh vs. Cong An Ha Noi",
+      "prediction": "Away Win",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "fixture": "Union Espanola vs. Club Deportes Limache",
+      "prediction": "Home Win",
+      "odds": "3.00",
+      "results": "Loss"
+    },
+    {
+      "fixture": "Paysandu vs. Criciuma",
+      "prediction": "Away Win",
+      "odds": "2.40",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Wednesday, 2nd July 2025",
   "gamesList": [
     {
