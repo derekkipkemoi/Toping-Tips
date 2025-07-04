@@ -1,5 +1,64 @@
 [
     {
+  "date": "Friday, 4th July 2025",
+  "gamesList": [
+    {
+      "fixture": "Germany Women vs. Poland Women",
+      "prediction": "Home Win",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "fixture": "Denmark Women vs. Sweden Women",
+      "prediction": "Away Win",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "fixture": "Oulu vs. KuPS (Veikkausliiga)",
+      "prediction": "Draw",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "fixture": "Shelbourne vs. Cork City (Ireland Premier)",
+      "prediction": "Home Win",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "fixture": "Derry City vs. Waterford (Ireland Premier)",
+      "prediction": "Home Win",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "fixture": "Drogheda United vs. Galway United (Ireland Premier)",
+      "prediction": "Home Win",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "fixture": "St Patrick's vs. Bohemians (Ireland Premier)",
+      "prediction": "Draw",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "FC Levadia vs. Paide Linnameeskond (Estonia Meistriliiga)",
+      "prediction": "Away Win",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "SC Freital vs. Zwickau (Friendly)",
+      "prediction": "Away Win",
+      "odds": "2.50",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Tuesday, 3rd June 2025",
   "gamesList": [
     {
