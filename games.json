@@ -1,78 +1,75 @@
 [
   {
     "name": "id_free_sub",
-    "date": "05/07/2025",
+    "date": "09/07/2025",
     "games": [
-      { "fixture": "Palmeiras vs Chelsea", "prediction": "Under 2.5 Goals" },
-      { "fixture": "PSG vs Bayern Munich", "prediction": "Over 2.5 Goals" }
+      { "fixture": "France Women vs Wales Women", "prediction": "Home Win" },
+      { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_basic_sub",
-    "date": "05/07/2025",
+    "date": "09/07/2025",
     "games": [
-      { "fixture": "Palmeiras vs Chelsea", "prediction": "Under 2.5 Goals" },
-      { "fixture": "PSG vs Bayern Munich", "prediction": "Over 2.5 Goals" },
-      { "fixture": "Real Madrid vs Borussia Dortmund", "prediction": "Over 2.5 Goals" },
-      { "fixture": "Nashville SC vs Philadelphia Union", "prediction": "Under 2.5 Goals" },
-      { "fixture": "El Paso Locomotive vs San Antonio FC", "prediction": "Away Win" },
-      { "fixture": "Jakobstads Bollklubb vs Tornion Pallo 47", "prediction": "Away Win" }
+      { "fixture": "France Women vs Wales Women", "prediction": "Home Win" },
+      { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "Home Win" },
+      { "fixture": "England Women vs Netherlands Women", "prediction": "Draw" },
+      { "fixture": "FCSB vs Inter Club d’Escaldes", "prediction": "Home Win" },
+      { "fixture": "Zalgiris vs Hamrun Spartans", "prediction": "Under 2.5" }
     ]
   },
   {
     "name": "id_standard_sub",
-    "date": "05/07/2025",
+    "date": "09/07/2025",
     "games": [
-      { "fixture": "Palmeiras vs Chelsea", "prediction": "Under 2.5 Goals" },
-      { "fixture": "PSG vs Bayern Munich", "prediction": "Over 2.5 Goals" },
-      { "fixture": "Real Madrid vs Borussia Dortmund", "prediction": "Draw" },
-      { "fixture": "Nashville SC vs Philadelphia Union", "prediction": "Under 2.5 Goals" },
-      { "fixture": "El Paso Locomotive vs San Antonio FC", "prediction": "Away Win" },
-      { "fixture": "Jakobstads Bollklubb vs Tornion Pallo 47", "prediction": "Away Win" },
-      { "fixture": "VPS vs HJK Helsinki", "prediction": "Away Win" },
-      { "fixture": "MyPa vs Pepo", "prediction": "Draw" },
-      { "fixture": "Narpes Kraft vs GBK Kokkola", "prediction": "Away Win" }
+      { "fixture": "France Women vs Wales Women", "prediction": "Home Win" },
+      { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "Home Win" },
+      { "fixture": "England Women vs Netherlands Women", "prediction": "Draw" },
+      { "fixture": "FCSB vs Inter Club d’Escaldes", "prediction": "Home Win" },
+      { "fixture": "Zalgiris vs Hamrun Spartans", "prediction": "Under 2.5" },
+      { "fixture": "Ludogorets vs Dinamo Minsk", "prediction": "Home Win" },
+      { "fixture": "Shelbourne vs Linfield", "prediction": "Draw" },
+      { "fixture": "Rosenborg vs Kristiansund", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_premium_sub",
-    "date": "05/07/2025",
+    "date": "09/07/2025",
     "games": [
-      { "fixture": "Palmeiras vs Chelsea", "prediction": "Under 2.5 Goals" },
-      { "fixture": "PSG vs Bayern Munich", "prediction": "Over 2.5 Goals" },
-      { "fixture": "Real Madrid vs Borussia Dortmund", "prediction": "Draw" },
-      { "fixture": "Nashville SC vs Philadelphia Union", "prediction": "Under 2.5 Goals" },
-      { "fixture": "El Paso Locomotive vs San Antonio FC", "prediction": "Away Win" },
-      { "fixture": "Jakobstads Bollklubb vs Tornion Pallo 47", "prediction": "Away Win" },
-      { "fixture": "VPS vs HJK Helsinki", "prediction": "Home Win" },
-      { "fixture": "MyPa vs Pepo", "prediction": "Draw" },
-      { "fixture": "Narpes Kraft vs GBK Kokkola", "prediction": "Away Win" },
-      { "fixture": "Kristiansund vs Bodo/Glimt", "prediction": "Away Win" },
-      { "fixture": "Viking FK vs Stromsgodset", "prediction": "Home Win" },
-      { "fixture": "Machida Zelvia vs Shimizu S‑Pulse", "prediction": "Draw" }
+      { "fixture": "France Women vs Wales Women", "prediction": "Home Win" },
+      { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "Home Win" },
+      { "fixture": "England Women vs Netherlands Women", "prediction": "Draw" },
+      { "fixture": "FCSB vs Inter Club d’Escaldes", "prediction": "Home Win" },
+      { "fixture": "Zalgiris vs Hamrun Spartans", "prediction": "Under 2.5" },
+      { "fixture": "Ludogorets vs Dinamo Minsk", "prediction": "Home Win" },
+      { "fixture": "Shelbourne vs Linfield", "prediction": "Draw" },
+      { "fixture": "Rosenborg vs Kristiansund", "prediction": "Home Win" },
+      { "fixture": "Start vs Kongsvinger", "prediction": "Over 2.5" },
+      { "fixture": "Sandefjord vs Raufoss", "prediction": "Home Win" },
+      { "fixture": "HJK Helsinki vs SJK", "prediction": "Home Win" }
     ]
   },
   {
     "name": "id_correctScore_sub",
-    "date": "05/07/2025",
+    "date": "09/07/2025",
     "games": [
-      { "fixture": "PSG vs Bayern Munich", "prediction": "2-1" },
-      { "fixture": "Palmeiras vs Chelsea", "prediction": "0-1" },
-      { "fixture": "Real Madrid vs Borussia Dortmund", "prediction": "1-1" }
+      { "fixture": "France Women vs Wales Women", "prediction": "2-0" },
+      { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "2-1" },
+      { "fixture": "England Women vs Netherlands Women", "prediction": "2-2" }
     ]
   },
   {
     "name": "id_jackpot_sub",
-    "date": "05/07/2025",
+    "date": "09/07/2025",
     "games": [
-      { "fixture": "Palmeiras vs Chelsea", "prediction": "Under 2.5 Goals" },
-      { "fixture": "PSG vs Bayern Munich", "prediction": "Over 2.5 Goals" },
-      { "fixture": "Real Madrid vs Borussia Dortmund", "prediction": "Draw" },
-      { "fixture": "Nashville SC vs Philadelphia Union", "prediction": "Under 2.5 Goals" },
-      { "fixture": "El Paso Locomotive vs San Antonio FC", "prediction": "Away Win" },
-      { "fixture": "Jakobstads Bollklubb vs Tornion Pallo 47", "prediction": "Away Win" },
-      { "fixture": "VPS vs HJK Helsinki", "prediction": "Away Win" },
-      { "fixture": "Viking FK vs Stromsgodset", "prediction": "Home Win" }
+      { "fixture": "France Women vs Wales Women", "prediction": "Home Win" },
+      { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "Home Win" },
+      { "fixture": "England Women vs Netherlands Women", "prediction": "Draw" },
+      { "fixture": "FCSB vs Inter Club d’Escaldes", "prediction": "Home Win" },
+      { "fixture": "Zalgiris vs Hamrun Spartans", "prediction": "Under 2.5" },
+      { "fixture": "Ludogorets vs Dinamo Minsk", "prediction": "Home Win" },
+      { "fixture": "Shelbourne vs Linfield", "prediction": "Draw" },
+      { "fixture": "Rosenborg vs Kristiansund", "prediction": "Home Win" }
     ]
   }
 ]
