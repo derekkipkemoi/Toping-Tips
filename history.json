@@ -1,5 +1,70 @@
 [
     {
+  "date": "Tuesday, 8th July 2025",
+  "gamesList": [
+    {
+      "fixture": "Germany Women vs. Denmark Women",
+      "prediction": "Over 2.5",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "fixture": "Poland Women vs. Sweden Women",
+      "prediction": "Away Win",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "fixture": "Fluminense vs. Chelsea",
+      "prediction": "Away Win",
+      "odds": "1.40",
+      "results": "Win 0‑2"
+    },
+    {
+      "fixture": "Australia Women vs. Panama Women",
+      "prediction": "Home Win",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "fixture": "St. Joseph's vs. Cliftonville",
+      "prediction": "Draw",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "fixture": "KuPS Kuopio vs. Milsami Orhei",
+      "prediction": "Home Win",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "fixture": "Noah vs. Buducnost Podgorica",
+      "prediction": "Home Win",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "fixture": "Saburtalo vs. Malmö",
+      "prediction": "Away Win",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "fixture": "Floriana vs. Haverfordwest County",
+      "prediction": "Home Win",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "Deportivo La Guaira vs. Monagas SC",
+      "prediction": "Home Win",
+      "odds": "1.75",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Monday, 7th July 2025",
   "gamesList": [
     {
