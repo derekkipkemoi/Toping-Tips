@@ -1,5 +1,70 @@
 [
     {
+  "date": "Monday, 7th July 2025",
+  "gamesList": [
+    {
+      "fixture": "Spain Women vs. Belgium Women",
+      "prediction": "Home Win",
+      "odds": "1.12",
+      "results": "Win"
+    },
+    {
+      "fixture": "Portugal Women vs. Italy Women",
+      "prediction": "Draw",
+      "odds": "3.25",
+      "results": "Win"
+    },
+    {
+      "fixture": "Germany Women vs. Denmark Women",
+      "prediction": "Home Win",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "fixture": "Operário PR vs. Chapecoense (Brazil Série B)",
+      "prediction": "Home Win",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "fixture": "Botafogo PB vs. São Bernardo FC (Brazil Série C)",
+      "prediction": "Draw",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "fixture": "South Africa Women vs. Ghana Women (WAFCON Qualifier)",
+      "prediction": "Home Win",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "fixture": "Mali Women vs. Tanzania Women (WAFCON Qualifier)",
+      "prediction": "Home Win",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "fixture": "IFK Norrköping vs. Brommapojkarna (Allsvenskan)",
+      "prediction": "Home Win",
+      "odds": "2.70",
+      "results": "Win"
+    },
+    {
+      "fixture": "Panvezys vs. Suduva (Lithuania A Lyga)",
+      "prediction": "Away Win",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "fixture": "Karonga United FC vs. Kamuzu Barracks FC (Malawi Super League)",
+      "prediction": "Away Win",
+      "odds": "2.10",
+      "results": "Win"
+    }
+  ]
+},
+    {
   "date": "Friday, 4th July 2025",
   "gamesList": [
     {
