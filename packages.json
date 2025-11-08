@@ -12,12 +12,26 @@
     "isMostPopular": false
   },
   {
+    "id": "basic_monthly",
+    "title": "Basic",
+    "subtitle": "Best Value",
+    "price": "KES 200 / month",
+    "features": [
+      "5-10 Basic Tips Daily",
+      "Win Rate Analysis",
+      "Ad-Free Experience",
+      "24/7 Support"
+    ],
+    "type": "BASIC",
+    "isMostPopular": false
+  },
+  {
     "id": "premium_monthly",
     "title": "Premium",
     "subtitle": "Best Value",
     "price": "KES 500 / month",
     "features": [
-      "5-10 Premium Tips Daily",
+      "15-30 Premium Tips Daily",
       "Win Rate Analysis",
       "Ad-Free Experience",
       "24/7 Support"
