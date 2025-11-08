@@ -8,7 +8,6 @@
       "1-2 Free Tips Daily",
       "Contains Ads"
     ],
-    "icon": "check_circle",
     "type": "FREE",
     "isMostPopular": false
   },
@@ -23,7 +22,6 @@
       "Ad-Free Experience",
       "24/7 Support"
     ],
-    "icon": "star",
     "type": "PREMIUM",
     "isMostPopular": true
   },
@@ -37,7 +35,6 @@
       "Bonus Combinations",
       "Expert Commentary"
     ],
-    "icon": "workspace_premium",
     "type": "JACKPOT",
     "isMostPopular": false
   },
@@ -52,7 +49,6 @@
       "Expert Match Analysis",
       "Ad-Free Access"
     ],
-    "icon": "sports_soccer",
     "type": "CORRECT_SCORE",
     "isMostPopular": false
   }
