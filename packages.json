@@ -3,7 +3,10 @@
     "id": "free_tier",
     "title": "Free",
     "subtitle": "The Basics",
-    "price": "Free",
+    "price": {
+      "name": "Free",
+      "prices": []
+    },
     "features": [
       "1-2 Free Tips Daily",
       "Contains Ads"
@@ -15,23 +18,26 @@
     "id": "basic",
     "title": "Basic",
     "subtitle": "Best Value",
-    "price": [
-      {
-        "amount": 100,
-        "duration": "DAILY",
-        "baseCurrency": "KES"
-      },
-      {
-        "amount": 200,
-        "duration": "WEEKLY",
-        "baseCurrency": "KES"
-      },
-      {
-        "amount": 1000,
-        "duration": "MONTHLY",
-        "baseCurrency": "KES"
-      }
-    ],
+    "price": {
+      "name": "Basic",
+      "prices": [
+        {
+          "amount": 100,
+          "duration": "DAILY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 300,
+          "duration": "WEEKLY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 900,
+          "duration": "MONTHLY",
+          "baseCurrency": "KES"
+        }
+      ]
+    },
     "features": [
       "5-10 Basic Tips Daily",
       "Win Rate Analysis",
@@ -45,23 +51,26 @@
     "id": "premium",
     "title": "Premium",
     "subtitle": "Top Choice for Serious Bettors",
-    "price": [
-      {
-        "amount": 200,
-        "duration": "DAILY",
-        "baseCurrency": "KES"
-      },
-      {
-        "amount": 400,
-        "duration": "WEEKLY",
-        "baseCurrency": "KES"
-      },
-      {
-        "amount": 1500,
-        "duration": "MONTHLY",
-        "baseCurrency": "KES"
-      }
-    ],
+    "price": {
+      "name": "Premium",
+      "prices": [
+        {
+          "amount": 200,
+          "duration": "DAILY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 600,
+          "duration": "WEEKLY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 1800,
+          "duration": "MONTHLY",
+          "baseCurrency": "KES"
+        }
+      ]
+    },
     "features": [
       "15-30 Premium Tips Daily",
       "Higher Win Probability",
@@ -76,18 +85,26 @@
     "id": "jackpot",
     "title": "Jackpot",
     "subtitle": "For Big Wins",
-    "price": [
-      {
-        "amount": 250,
-        "duration": "WEEKLY",
-        "baseCurrency": "KES"
-      },
-      {
-        "amount": 900,
-        "duration": "MONTHLY",
-        "baseCurrency": "KES"
-      }
-    ],
+    "price": {
+      "name": "Jackpot",
+      "prices": [
+        {
+          "amount": 300,
+          "duration": "DAILY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 900,
+          "duration": "WEEKLY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 2500,
+          "duration": "MONTHLY",
+          "baseCurrency": "KES"
+        }
+      ]
+    },
     "features": [
       "Weekly Jackpot Analysis",
       "Bonus Combinations",
@@ -101,18 +118,26 @@
     "id": "correct_score",
     "title": "Correct Score",
     "subtitle": "High Precision Tips",
-    "price": [
-      {
-        "amount": 300,
-        "duration": "WEEKLY",
-        "baseCurrency": "KES"
-      },
-      {
-        "amount": 1100,
-        "duration": "MONTHLY",
-        "baseCurrency": "KES"
-      }
-    ],
+    "price": {
+      "name": "Correct Score",
+      "prices": [
+        {
+          "amount": 250,
+          "duration": "DAILY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 750,
+          "duration": "WEEKLY",
+          "baseCurrency": "KES"
+        },
+        {
+          "amount": 2100,
+          "duration": "MONTHLY",
+          "baseCurrency": "KES"
+        }
+      ]
+    },
     "features": [
       "Daily Correct Score Predictions",
       "Risk Assessment Insights",
