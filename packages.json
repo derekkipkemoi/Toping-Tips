@@ -12,10 +12,26 @@
     "isMostPopular": false
   },
   {
-    "id": "basic_monthly",
+    "id": "basic",
     "title": "Basic",
     "subtitle": "Best Value",
-    "price": "KES 200 / month",
+    "price": [
+      {
+        "amount": 100,
+        "duration": "DAILY",
+        "baseCurrency": "KES"
+      },
+      {
+        "amount": 200,
+        "duration": "WEEKLY",
+        "baseCurrency": "KES"
+      },
+      {
+        "amount": 1000,
+        "duration": "MONTHLY",
+        "baseCurrency": "KES"
+      }
+    ],
     "features": [
       "5-10 Basic Tips Daily",
       "Win Rate Analysis",
@@ -26,12 +42,29 @@
     "isMostPopular": false
   },
   {
-    "id": "premium_monthly",
+    "id": "premium",
     "title": "Premium",
-    "subtitle": "Best Value",
-    "price": "KES 500 / month",
+    "subtitle": "Top Choice for Serious Bettors",
+    "price": [
+      {
+        "amount": 200,
+        "duration": "DAILY",
+        "baseCurrency": "KES"
+      },
+      {
+        "amount": 400,
+        "duration": "WEEKLY",
+        "baseCurrency": "KES"
+      },
+      {
+        "amount": 1500,
+        "duration": "MONTHLY",
+        "baseCurrency": "KES"
+      }
+    ],
     "features": [
       "15-30 Premium Tips Daily",
+      "Higher Win Probability",
       "Win Rate Analysis",
       "Ad-Free Experience",
       "24/7 Support"
@@ -40,14 +73,26 @@
     "isMostPopular": true
   },
   {
-    "id": "jackpot_weekly",
+    "id": "jackpot",
     "title": "Jackpot",
     "subtitle": "For Big Wins",
-    "price": "KES 250 / week",
+    "price": [
+      {
+        "amount": 250,
+        "duration": "WEEKLY",
+        "baseCurrency": "KES"
+      },
+      {
+        "amount": 900,
+        "duration": "MONTHLY",
+        "baseCurrency": "KES"
+      }
+    ],
     "features": [
       "Weekly Jackpot Analysis",
       "Bonus Combinations",
-      "Expert Commentary"
+      "Expert Commentary",
+      "Exclusive Jackpot Predictions"
     ],
     "type": "JACKPOT",
     "isMostPopular": false
@@ -56,7 +101,18 @@
     "id": "correct_score",
     "title": "Correct Score",
     "subtitle": "High Precision Tips",
-    "price": "KES 300 / week",
+    "price": [
+      {
+        "amount": 300,
+        "duration": "WEEKLY",
+        "baseCurrency": "KES"
+      },
+      {
+        "amount": 1100,
+        "duration": "MONTHLY",
+        "baseCurrency": "KES"
+      }
+    ],
     "features": [
       "Daily Correct Score Predictions",
       "Risk Assessment Insights",
