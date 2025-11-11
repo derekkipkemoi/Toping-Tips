@@ -122,12 +122,12 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 2.5,
+          "amount": 3,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 7.5,
+          "amount": 8,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
