@@ -22,19 +22,19 @@
       "name": "Basic",
       "prices": [
         {
-          "amount": 100,
+          "amount": 1,
           "duration": "DAILY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 300,
+          "amount": 3,
           "duration": "WEEKLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 900,
+          "amount": 9,
           "duration": "MONTHLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         }
       ]
     },
@@ -55,19 +55,19 @@
       "name": "Premium",
       "prices": [
         {
-          "amount": 200,
+          "amount": 2,
           "duration": "DAILY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 600,
+          "amount": 6,
           "duration": "WEEKLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 1800,
+          "amount": 18,
           "duration": "MONTHLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         }
       ]
     },
@@ -89,19 +89,19 @@
       "name": "Jackpot",
       "prices": [
         {
-          "amount": 300,
+          "amount": 3,
           "duration": "DAILY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 900,
+          "amount": 9,
           "duration": "WEEKLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 2500,
+          "amount": 25,
           "duration": "MONTHLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         }
       ]
     },
@@ -122,19 +122,19 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 250,
+          "amount": 2.5,
           "duration": "DAILY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 750,
+          "amount": 7.5,
           "duration": "WEEKLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         },
         {
-          "amount": 2100,
+          "amount": 21,
           "duration": "MONTHLY",
-          "baseCurrency": "KES"
+          "baseCurrency": "USD"
         }
       ]
     },
