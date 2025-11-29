@@ -1,1132 +1,525 @@
 [
-    {
-  "date": "Tuesday, 8th July 2025",
-  "gamesList": [
-    {
-      "fixture": "Germany Women vs. Denmark Women",
-      "prediction": "Over 2.5",
-      "odds": "1.30",
-      "results": "Win"
-    },
-    {
-      "fixture": "Poland Women vs. Sweden Women",
-      "prediction": "Away Win",
-      "odds": "1.50",
-      "results": "Win"
-    },
-    {
-      "fixture": "Fluminense vs. Chelsea",
-      "prediction": "Away Win",
-      "odds": "1.40",
-      "results": "Win"
-    },
-    {
-      "fixture": "Australia Women vs. Panama Women",
-      "prediction": "Home Win",
-      "odds": "1.70",
-      "results": "Win"
-    },
-    {
-      "fixture": "St. Joseph's vs. Cliftonville",
-      "prediction": "Draw",
-      "odds": "3.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "KuPS Kuopio vs. Milsami Orhei",
-      "prediction": "Home Win",
-      "odds": "1.80",
-      "results": "Win"
-    },
-    {
-      "fixture": "Noah vs. Buducnost Podgorica",
-      "prediction": "Home Win",
-      "odds": "1.90",
-      "results": "Win"
-    },
-    {
-      "fixture": "Saburtalo vs. Malmö",
-      "prediction": "Away Win",
-      "odds": "2.20",
-      "results": "Win"
-    },
-    {
-      "fixture": "Floriana vs. Haverfordwest County",
-      "prediction": "Home Win",
-      "odds": "2.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "Deportivo La Guaira vs. Monagas SC",
-      "prediction": "Home Win",
-      "odds": "1.75",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Monday, 7th July 2025",
-  "gamesList": [
-    {
-      "fixture": "Spain Women vs. Belgium Women",
-      "prediction": "Home Win",
-      "odds": "1.12",
-      "results": "Win"
-    },
-    {
-      "fixture": "Portugal Women vs. Italy Women",
-      "prediction": "Draw",
-      "odds": "3.25",
-      "results": "Win"
-    },
-    {
-      "fixture": "Germany Women vs. Denmark Women",
-      "prediction": "Home Win",
-      "odds": "1.50",
-      "results": "Win"
-    },
-    {
-      "fixture": "Operário PR vs. Chapecoense (Brazil Série B)",
-      "prediction": "Home Win",
-      "odds": "2.40",
-      "results": "Win"
-    },
-    {
-      "fixture": "Botafogo PB vs. São Bernardo FC (Brazil Série C)",
-      "prediction": "Draw",
-      "odds": "3.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "South Africa Women vs. Ghana Women (WAFCON Qualifier)",
-      "prediction": "Home Win",
-      "odds": "1.80",
-      "results": "Win"
-    },
-    {
-      "fixture": "Mali Women vs. Tanzania Women (WAFCON Qualifier)",
-      "prediction": "Home Win",
-      "odds": "1.90",
-      "results": "Win"
-    },
-    {
-      "fixture": "IFK Norrköping vs. Brommapojkarna (Allsvenskan)",
-      "prediction": "Home Win",
-      "odds": "2.70",
-      "results": "Win"
-    },
-    {
-      "fixture": "Panvezys vs. Suduva (Lithuania A Lyga)",
-      "prediction": "Away Win",
-      "odds": "2.30",
-      "results": "Win"
-    },
-    {
-      "fixture": "Karonga United FC vs. Kamuzu Barracks FC (Malawi Super League)",
-      "prediction": "Away Win",
-      "odds": "2.10",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Friday, 4th July 2025",
-  "gamesList": [
-    {
-      "fixture": "Germany Women vs. Poland Women",
-      "prediction": "Home Win",
-      "odds": "1.50",
-      "results": "Win"
-    },
-    {
-      "fixture": "Denmark Women vs. Sweden Women",
-      "prediction": "Away Win",
-      "odds": "2.40",
-      "results": "Win"
-    },
-    {
-      "fixture": "Oulu vs. KuPS (Veikkausliiga)",
-      "prediction": "Draw",
-      "odds": "3.20",
-      "results": "Win"
-    },
-    {
-      "fixture": "Shelbourne vs. Cork City (Ireland Premier)",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "Win"
-    },
-    {
-      "fixture": "Derry City vs. Waterford (Ireland Premier)",
-      "prediction": "Home Win",
-      "odds": "1.30",
-      "results": "Win"
-    },
-    {
-      "fixture": "Drogheda United vs. Galway United (Ireland Premier)",
-      "prediction": "Home Win",
-      "odds": "1.70",
-      "results": "Win"
-    },
-    {
-      "fixture": "St Patrick's vs. Bohemians (Ireland Premier)",
-      "prediction": "Draw",
-      "odds": "3.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "FC Levadia vs. Paide Linnameeskond (Estonia Meistriliiga)",
-      "prediction": "Away Win",
-      "odds": "2.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "SC Freital vs. Zwickau (Friendly)",
-      "prediction": "Away Win",
-      "odds": "2.50",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Tuesday, 3rd June 2025",
-  "gamesList": [
-    {
-      "fixture": "Boston Bolts vs. Western Mass Pioneers",
-      "prediction": "Away Win",
-      "odds": "1.50",
-      "results": "Win"
-    },
-    {
-      "fixture": "Seacoast United Phantoms vs. Black Rock FC",
-      "prediction": "Away Win",
-      "odds": "2.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "Philadelphia Union DS vs. WC Predators",
-      "prediction": "Home Win",
-      "odds": "1.20",
-      "results": "Win"
-    },
-    {
-      "fixture": "Pittsburgh Steel City W vs. FC Buffalo W",
-      "prediction": "Draw",
-      "odds": "3.20",
-      "results": "Win"
-    },
-    {
-      "fixture": "Sporting Jacksonville vs. Brevard SC Riptide",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "Win"
-    },
-    {
-      "fixture": "North Carolina Fusion W vs. Charlotte Eagles W",
-      "prediction": "Away Win",
-      "odds": "2.30",
-      "results": "Win"
-    },
-    {
-      "fixture": "South Carolina United FC W vs. South Georgia Tormenta FC W",
-      "prediction": "Away Win",
-      "odds": "2.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "Binh Dinh vs. Cong An Ha Noi",
-      "prediction": "Away Win",
-      "odds": "1.90",
-      "results": "Win"
-    },
-    {
-      "fixture": "Union Espanola vs. Club Deportes Limache",
-      "prediction": "Home Win",
-      "odds": "3.00",
-      "results": "Loss"
-    },
-    {
-      "fixture": "Paysandu vs. Criciuma",
-      "prediction": "Away Win",
-      "odds": "2.40",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Wednesday, 2nd July 2025",
-  "gamesList": [
-    {
-      "fixture": "Borussia Dortmund vs. Monterrey",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "Win"
-    },
-    {
-      "fixture": "Manchester City vs. Al Hilal",
-      "prediction": "Away Win",
-      "odds": "3.50",
-      "results": "Win"
-    },
-    {
-      "fixture": "Real Madrid vs. Juventus",
-      "prediction": "Home Win",
-      "odds": "1.80",
-      "results": "Win"
-    },
-    {
-      "fixture": "Bayern Munich vs. Flamengo",
-      "prediction": "Home Win",
-      "odds": "1.75",
-      "results": "Win"
-    },
-    {
-      "fixture": "Iceland Women vs. Finland Women",
-      "prediction": "Away Win",
-      "odds": "2.80",
-      "results": "Win"
-    },
-    {
-      "fixture": "Switzerland Women vs. Norway Women",
-      "prediction": "Away Win",
-      "odds": "2.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "Al-Karamah vs. Al-Wahda Damascus",
-      "prediction": "Away Win",
-      "odds": "2.20",
-      "results": "Win"
-    },
-    {
-      "fixture": "Al Shorta Damascus vs. Al-Wathbah",
-      "prediction": "Away Win",
-      "odds": "2.30",
-      "results": "Win"
-    },
-    {
-      "fixture": "Hutteen vs. Al-Ittihad Aleppo",
-      "prediction": "Draw",
-      "odds": "3.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "Al-Sholla vs. Al-Jaish (SYR)",
-      "prediction": "Draw",
-      "odds": "3.10",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Tuesday, 1st July 2025",
-  "gamesList": [
-    {
-      "fixture": "Manchester City vs. Al‑Hilal",
-      "prediction": "Away Win",
-      "odds": "3.50",
-      "results": "Win"
-    },
-    {
-      "fixture": "Real Madrid vs. Juventus",
-      "prediction": "Home Win",
-      "odds": "1.80",
-      "results": "Win"
-    },
-    {
-      "fixture": "Borussia Dortmund vs. Monterrey",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "Win"
-    },
-    {
-      "fixture": "KPS Kuopio vs. Gnistan",
-      "prediction": "Home Win",
-      "odds": "1.40",
-      "results": "Win"
-    },
-    {
-      "fixture": "Cuniburo vs. Aucas",
-      "prediction": "Away Win",
-      "odds": "2.30",
-      "results": "Loss"
-    },
-    {
-      "fixture": "Colon Santa Fe vs. Mitre",
-      "prediction": "Away Win",
-      "odds": "2.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "Audax Italiano vs. Deportes Temuco",
-      "prediction": "Home Win",
-      "odds": "1.70",
-      "results": "Win"
-    },
-    {
-      "fixture": "Ñublense vs. Magallanes",
-      "prediction": "Away Win",
-      "odds": "3.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "FC Utrecht vs. FCSB",
-      "prediction": "Away Win",
-      "odds": "2.80",
-      "results": "Win"
-    },
-    {
-      "fixture": "Odense BK vs. B.93 København",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Monday, 30th June 2025",
-  "gamesList": [
-    {
-      "fixture": "Inter Milan vs. Fluminense",
-      "prediction": "Away Win",
-      "odds": "3.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "Los Angeles FC vs. Vancouver Whitecaps",
-      "prediction": "Away Win",
-      "odds": "2.80",
-      "results": "Win"
-    },
-    {
-      "fixture": "Brann vs. Sandefjord",
-      "prediction": "Home Win",
-      "odds": "1.75",
-      "results": "Win"
-    },
-    {
-      "fixture": "Henan Songshan Longmen vs. Shandong Taishan",
-      "prediction": "Draw",
-      "odds": "3.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "Dalian Yingbo vs. Zhejiang Professional",
-      "prediction": "Home Win",
-      "odds": "1.65",
-      "results": "Win"
-    },
-    {
-      "fixture": "Beijing Guoan vs. Yunnan Yukun",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "Win"
-    },
-    {
-      "fixture": "Shenzhen Xinpengcheng vs. Shanghai Port",
-      "prediction": "Away Win",
-      "odds": "1.85",
-      "results": "Win"
-    },
-    {
-      "fixture": "Djurgården vs. IFK Norrköping",
-      "prediction": "Draw",
-      "odds": "3.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "Mjällby AIF vs. Malmö FF",
-      "prediction": "Draw",
-      "odds": "3.00",
-      "results": "Win"
-    },
-    {
-      "fixture": "USA vs. Costa Rica (Gold Cup)",
-      "prediction": "Home Win",
-      "odds": "1.90",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Sunday, 29th June 2025",
-  "gamesList": [
-    {
-      "fixture": "England Women vs. Jamaica Women",
-      "prediction": "Home Win",
-      "odds": "1.08",
-      "results": "Win"
-    },
-    {
-      "fixture": "Paris Saint‑Germain vs. Inter Miami",
-      "prediction": "Home Win",
-      "odds": "1.30",
-      "results": "Win"
-    },
-    {
-      "fixture": "Chelsea vs. Benfica",
-      "prediction": "Home Win",
-      "odds": "2.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "CF Montréal vs. New York City FC",
-      "prediction": "Home Win",
-      "odds": "1.95",
-      "results": "Win"
-    },
-    {
-      "fixture": "D.C. United vs. Nashville SC",
-      "prediction": "Away Win",
-      "odds": "2.20",
-      "results": "Win"
-    },
-    {
-      "fixture": "New England Revolution vs. Colorado Rapids",
-      "prediction": "Draw",
-      "odds": "3.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "New York Red Bulls vs. Minnesota United",
-      "prediction": "Draw",
-      "odds": "3.10",
-      "results": "Win"
-    },
-    {
-      "fixture": "Orlando City vs. FC Cincinnati",
-      "prediction": "Away Win",
-      "odds": "2.50",
-      "results": "Win"
-    },
-    {
-      "fixture": "Toronto FC vs. Portland Timbers",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "Win"
-    },
-    {
-      "fixture": "Molde vs. KFUM Oslo",
-      "prediction": "Away Win",
-      "odds": "2.40",
-      "results": "Win"
-    }
-  ]
-},
-    {
-  "date": "Saturday, 28th June 2025",
-  "gamesList": [
-    {
-      "fixture": "St. Patrick's Athletic vs. Shelbourne FC",
-      "prediction": "Home Win",
-      "odds": "1.80",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Drogheda United vs. Shamrock Rovers",
-      "prediction": "Away Win",
-      "odds": "1.50",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Chelsea vs. Club León",
-      "prediction": "Home Win",
-      "odds": "1.40",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Flamengo RJ vs. Espérance Tunis",
-      "prediction": "Home Win",
-      "odds": "1.60",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Levadia B vs. Viimsi MRJK",
-      "prediction": "Home Win",
-      "odds": "1.70",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Stjarnan vs. Valur",
-      "prediction": "Away Win",
-      "odds": "2.10",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Ethio Electric FC vs. Fasil Kenema",
-      "prediction": "Away Win",
-      "odds": "1.90",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Shire Endaselassie FC vs. Adama City",
-      "prediction": "Away Win",
-      "odds": "2.00",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Þór/KA (w) vs. Breiðablik (w)",
-      "prediction": "Away Win",
-      "odds": "1.60",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Hafnarfjörður (w) vs. Tindastóll (w)",
-      "prediction": "Home Win",
-      "odds": "1.80",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Bulleen vs. Kingston City",
-      "prediction": "Home Win",
-      "odds": "1.75",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Wilberforce Strikers vs. Diamond Stars",
-      "prediction": "Away Win",
-      "odds": "2.20",
-      "results": "WIN"
-    }
-  ]
-},
-    {
-  "date": "Saturday, 14th June 2025",
-  "gamesList": [
-    {
-      "fixture": "LA Galaxy VS Real Salt Lake",
-      "prediction": "Home Win",
-      "odds": "1.80",
-      "results": "WIN"
-    },
-    {
-      "fixture": "San Diego Loyal VS Austin FC",
-      "prediction": "Home Win",
-      "odds": "2.10",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Nashville SC VS New York City FC",
-      "prediction": "Draw",
-      "odds": "3.20",
-      "results": "WIN"
-    },
-    {
-      "fixture": "FC Dallas VS Philadelphia Union",
-      "prediction": "Draw",
-      "odds": "2.90",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Seattle Sounders VS Minnesota United",
-      "prediction": "Home Win",
-      "odds": "1.85",
-      "results": "LOST"
-    },
-    {
-      "fixture": "DC United VS New England Revolution",
-      "prediction": "Draw",
-      "odds": "2.80",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Inter Miami VS CF Montréal",
-      "prediction": "Home Win",
-      "odds": "1.75",
-      "results": "WIN"
-    },
-    {
-      "fixture": "New York Red Bulls VS Charlotte FC",
-      "prediction": "Home Win",
-      "odds": "2.00",
-      "results": "WIN"
-    },
-    {
-      "fixture": "Houston Dynamo VS Sporting Kansas City",
-      "prediction": "Home Win",
-      "odds": "2.30",
-      "results": "LOST"
-    },
-    {
-      "fixture": "Portland Timbers VS San Jose Earthquakes",
-      "prediction": "Home Win",
-      "odds": "2.50",
-      "results": "WIN"
-    }
-  ]
-},
+  {
+    "date": "Tuesday, 8th July 2025",
+    "gamesList": [
+      {
+        "teamA": "Germany Women",
+        "teamB": "Denmark Women",
+        "prediction": "Over 2.5",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Poland Women",
+        "teamB": "Sweden Women",
+        "prediction": "Away Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fluminense",
+        "teamB": "Chelsea",
+        "prediction": "Away Win",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Australia Women",
+        "teamB": "Panama Women",
+        "prediction": "Home Win",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "St. Joseph's",
+        "teamB": "Cliftonville",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "KuPS Kuopio",
+        "teamB": "Milsami Orhei",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Noah",
+        "teamB": "Buducnost Podgorica",
+        "prediction": "Home Win",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Saburtalo",
+        "teamB": "Malmö",
+        "prediction": "Away Win",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Floriana",
+        "teamB": "Haverfordwest County",
+        "prediction": "Home Win",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Deportivo La Guaira",
+        "teamB": "Monagas SC",
+        "prediction": "Home Win",
+        "odds": "1.75",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 7th July 2025",
+    "gamesList": [
+      {
+        "teamA": "Spain Women",
+        "teamB": "Belgium Women",
+        "prediction": "Home Win",
+        "odds": "1.12",
+        "results": "Win"
+      },
+      {
+        "teamA": "Portugal Women",
+        "teamB": "Italy Women",
+        "prediction": "Draw",
+        "odds": "3.25",
+        "results": "Win"
+      },
+      {
+        "teamA": "Germany Women",
+        "teamB": "Denmark Women",
+        "prediction": "Home Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Operário PR",
+        "teamB": "Chapecoense",
+        "prediction": "Home Win",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Botafogo PB",
+        "teamB": "São Bernardo FC",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "South Africa Women",
+        "teamB": "Ghana Women",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mali Women",
+        "teamB": "Tanzania Women",
+        "prediction": "Home Win",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "IFK Norrköping",
+        "teamB": "Brommapojkarna",
+        "prediction": "Home Win",
+        "odds": "2.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Panvezys",
+        "teamB": "Suduva",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Karonga United FC",
+        "teamB": "Kamuzu Barracks FC",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      }
+    ]
+  },
 
-    {
-        "date": "Friday, 13th June 2025",
-        "gamesList": [
-            {
-                "fixture": "APOEL FC VS Olympiakos Nic.",
-                "prediction": "HT/FT 1/1",
-                "odds": "6.22",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Guarulhos U20 VS Flamengo SP U20",
-                "prediction": "CS 0-1",
-                "odds": "4.92",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Uniao Suzano U20 VS Novorizontino U20",
-                "prediction": "HT/FT X/2",
-                "odds": "5.47",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Ittihad Tanger VS Mouloudia Oujda",
-                "prediction": "CS 4.25",
-                "odds": "4.25",
-                "results": "WIN"
-            },
-            {
-                "fixture": "OFI Creta VS Volos NFC",
-                "prediction": "Under 0.5",
-                "odds": "6.57",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Thursday, 12th June 2025",
-        "gamesList": [
-            {
-                "fixture": "Chapelton VS Arnett Gardens",
-                "prediction": "No GG & Over 4.5",
-                "odds": "7.04",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Wellington Phoenix W VS WS Wanderers W",
-                "prediction": "Darw",
-                "odds": "3.45",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Wellington Phoenix VS Melbourne City",
-                "prediction": "HT/FT X/2",
-                "odds": "4.29",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Adelaide United VS Perth Glory",
-                "prediction": "CS 4.25",
-                "odds": "4.25",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Al Qaisoma VS Al Akhdood",
-                "prediction": "GG & Draw",
-                "odds": "3.97",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Wednesday, 11th June 2025",
-        "gamesList": [
-            {
-                "fixture": "CD Huarte VS CD Ardoi",
-                "prediction": "Under 0.5",
-                "odds": "6.35",
-                "results": "WIN"
-            },
-            {
-                "fixture": "FC Penafiel VS SC Farense",
-                "prediction": "CS 0-2",
-                "odds": "6.04",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Univ de Chile VS Cobresal",
-                "prediction": "Over 6.5",
-                "odds": "4.66",
-                "results": "WIN"
-            },
-            {
-                "fixture": "CO Korhogo VS SOL FC",
-                "prediction": "Fixed Draw",
-                "odds": "3.45",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Ingolstadt II VS Schwaben Augsburg",
-                "prediction": "GG & Over 4.5",
-                "odds": "5.37",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Tuesday, 10th June 2025",
-        "gamesList": [
-            {
-                "fixture": "USC Paredes VS AD Sanjoanense",
-                "prediction": "Over 4.5 & GG",
-                "odds": "4.02",
-                "results": "WIN"
-            },
-            {
-                "fixture": "East Bengal VS Chennaiyin",
-                "prediction": "HT Draw",
-                "odds": "2.34",
-                "results": "WIN"
-            },
-            {
-                "fixture": "AS Sale VS JS Massira",
-                "prediction": "CS 1-2",
-                "odds": "7.06",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Ethnikos Achnas VS Ypsonas FC",
-                "prediction": "Ov 3.5",
-                "odds": "3.45",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Yarmouk (KUW) VS Sulaibikhat",
-                "prediction": "Under 0.5 GoalsG",
-                "odds": "5.57",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Monday 9th June 2025",
-        "gamesList": [
-            {
-                "fixture": "SKA-Khabarovsk-2 VS Zenit Penza",
-                "prediction": "Fixed Draw",
-                "odds": "3.02",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Turan II VS Qaradag Lokbatan",
-                "prediction": "Correct Score 2-1",
-                "odds": "6.34",
-                "results": "WIN"
-            },
-            {
-                "fixture": "RB Leipzig W VS Hoffenheim II W",
-                "prediction": "HT Over 3.5 Goals",
-                "odds": "4.26",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Rodina Moscow VS Zvezda SPb",
-                "prediction": "Fixed Over 6.5",
-                "odds": "6.05",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Dinamo Minsk VS Energetik-BGU",
-                "prediction": "Over 4.5 & GG",
-                "odds": "5.47",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Sunday 8th June 2025",
-        "gamesList": [
-            {
-                "fixture": "Heracles Vs Jong Fc Utrecht",
-                "prediction": "Over 2.5",
-                "odds": "1.45",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Willem Ii Vs Helmond",
-                "prediction": "Over 1.5",
-                "odds": "1.30",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Bilbao Vs. Cadiz",
-                "prediction": "Home Win",
-                "odds": "1.42",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Lausanne-sport Vs Aarau",
-                "prediction": "Over 2.5 & GG",
-                "odds": "1.54",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Queens Park Vs Ayr",
-                "prediction": "Over 1.5",
-                "odds": "1.20",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Sandhausen Vs Darmstadt",
-                "prediction": "Over 1.5",
-                "odds": "1.31",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Paderborn Vs Dusseldorf",
-                "prediction": "Over 2.5",
-                "odds": "1.71",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Lillestrom Vs Stabaek",
-                "prediction": "Over 2.5",
-                "odds": "1.38",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Saturday 7th June 2025",
-        "gamesList": [
-            {
-                "fixture": "NK Krsko VS ND Ilirija",
-                "prediction": "Over 3.5 & NG",
-                "odds": "5.07",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Al Hazm VS Al Riyadh SC",
-                "prediction": "CS 2-1",
-                "odds": "6.27",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Samartex VS Great Olympics",
-                "prediction": "Under 0.5 Goals",
-                "odds": "7.11",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Tamale City VS Real Tamale United",
-                "prediction": "HT/FT X/X",
-                "odds": "5.28",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
-                "prediction": "HT/FT 2/1",
-                "odds": "6.29",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Friday, 6th June 2025",
-        "gamesList": [
-            {
-                "fixture": "UB Conquense VS CD Torrijos",
-                "prediction": "Under 0.5 Goals",
-                "odds": "5.07",
-                "results": "WIN"
-            },
-            {
-                "fixture": "CF Intercity VS UD Logrones",
-                "prediction": "Draw 2-2",
-                "odds": "3.62",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Real Sociedad B VS Atl莨�tico Baleares",
-                "prediction": "HT/FT X/1 ",
-                "odds": "4.28",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Levante Las Planas W VS Huelva W",
-                "prediction": "Correct Score 1-2",
-                "odds": "4.39",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Terranuova Traiana VS Poggibonsi ",
-                "prediction": "Correct Score 0-3",
-                "odds": "7.29",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Thursday, 5th June 2025",
-        "gamesList": [
-            {
-                "fixture": "Bnei Sakhnin VS Hapoel Hadera",
-                "prediction": "Over 4.5",
-                "odds": "5.07",
-                "results": "WIN"
-            },
-            {
-                "fixture": "CD Santa 鐃�rsula VS CD Tenerife B",
-                "prediction": "CS 0-1",
-                "odds": "5.43",
-                "results": "WIN"
-            },
-            {
-                "fixture": "UD Collerense VS SD Portmany",
-                "prediction": "1-0",
-                "odds": "6.72",
-                "results": "WIN"
-            },
-            {
-                "fixture": "UD Collerense VS SD Portmany",
-                "prediction": "HT/FT 1/1",
-                "odds": "4.39",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Rahimo VS Vitesse FC (BFA)",
-                "prediction": "Over 5.5 Goals",
-                "odds": "6.19",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Wednesday, 4th June 2025",
-        "gamesList": [
-            {
-                "fixture": "Petro Atletico VS Recreativo Libolo ",
-                "prediction": "Correct Score 0-1 ",
-                "odds": "5.68",
-                "results": "WIN"
-            },
-            {
-                "fixture": "JS Massira VS Chabab Kh莨�nifra ",
-                "prediction": "Draw Fixed",
-                "odds": "3.05",
-                "results": "WIN"
-            },
-            {
-                "fixture": "SFC Pisek VS Admira Praha",
-                "prediction": "HT Draw",
-                "odds": "2.37",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Markez Balata VS Ahli Al-Khalil ",
-                "prediction": "HT/FT X/1",
-                "odds": "5.39",
-                "results": "WIN"
-            },
-            {
-                "fixture": "R��gas FS II VS Valmiera II ",
-                "prediction": "Over 5.5 Goals",
-                "odds": "6.42",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Tuesday, 3rd June 2025",
-        "gamesList": [
-            {
-                "fixture": "APOEL FC VS Olympiakos Nic.",
-                "prediction": "HT/FT 1/1",
-                "odds": "6.22",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Guarulhos U20 VS Flamengo SP U20",
-                "prediction": "CS 0-1",
-                "odds": "4.92",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Uniao Suzano U20 VS Novorizontino U20",
-                "prediction": "HT/FT X/2",
-                "odds": "5.47",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Ittihad Tanger VS Mouloudia Oujda",
-                "prediction": "CS 4.25",
-                "odds": "4.25",
-                "results": "WIN"
-            },
-            {
-                "fixture": "OFI Creta VS Volos NFC",
-                "prediction": "Under 0.5",
-                "odds": "6.57",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Monday, 2nd June 2025",
-        "gamesList": [
-            {
-                "fixture": "Chapelton VS Arnett Gardens",
-                "prediction": "No GG & Over 4.5",
-                "odds": "7.04",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Wellington Phoenix W VS WS Wanderers W",
-                "prediction": "Darw",
-                "odds": "3.45",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Wellington Phoenix VS Melbourne City",
-                "prediction": "HT/FT X/2",
-                "odds": "4.29",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Adelaide United VS Perth Glory",
-                "prediction": "CS 4.25",
-                "odds": "4.25",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Al Qaisoma VS Al Akhdood",
-                "prediction": "GG & Draw",
-                "odds": "3.97",
-                "results": "WIN"
-            }
-        ]
-    },
-    {
-        "date": "Sunday, 1st June 2025",
-        "gamesList": [
-            {
-                "fixture": "CD Huarte VS CD Ardoi",
-                "prediction": "Under 0.5",
-                "odds": "6.35",
-                "results": "WIN"
-            },
-            {
-                "fixture": "FC Penafiel VS SC Farense",
-                "prediction": "CS 0-2",
-                "odds": "6.04",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Univ de Chile VS Cobresal",
-                "prediction": "Over 6.5",
-                "odds": "4.66",
-                "results": "WIN"
-            },
-            {
-                "fixture": "CO Korhogo VS SOL FC",
-                "prediction": "Fixed Draw",
-                "odds": "3.45",
-                "results": "WIN"
-            },
-            {
-                "fixture": "Ingolstadt II VS Schwaben Augsburg",
-                "prediction": "GG & Over 4.5",
-                "odds": "5.37",
-                "results": "WIN"
-            }
-        ]
-    }
+  {
+    "date": "Friday, 4th July 2025",
+    "gamesList": [
+      {
+        "teamA": "Germany Women",
+        "teamB": "Poland Women",
+        "prediction": "Home Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Denmark Women",
+        "teamB": "Sweden Women",
+        "prediction": "Away Win",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Oulu",
+        "teamB": "KuPS",
+        "prediction": "Draw",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Shelbourne",
+        "teamB": "Cork City",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Derry City",
+        "teamB": "Waterford",
+        "prediction": "Home Win",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Drogheda United",
+        "teamB": "Galway United",
+        "prediction": "Home Win",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "St Patrick's",
+        "teamB": "Bohemians",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Levadia",
+        "teamB": "Paide Linnameeskond",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "SC Freital",
+        "teamB": "Zwickau",
+        "prediction": "Away Win",
+        "odds": "2.50",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Tuesday, 3rd June 2025",
+    "gamesList": [
+      {
+        "teamA": "Boston Bolts",
+        "teamB": "Western Mass Pioneers",
+        "prediction": "Away Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Seacoast United Phantoms",
+        "teamB": "Black Rock FC",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Philadelphia Union DS",
+        "teamB": "WC Predators",
+        "prediction": "Home Win",
+        "odds": "1.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Pittsburgh Steel City W",
+        "teamB": "FC Buffalo W",
+        "prediction": "Draw",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sporting Jacksonville",
+        "teamB": "Brevard SC Riptide",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "North Carolina Fusion W",
+        "teamB": "Charlotte Eagles W",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "South Carolina United FC W",
+        "teamB": "South Georgia Tormenta FC W",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Binh Dinh",
+        "teamB": "Cong An Ha Noi",
+        "prediction": "Away Win",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Union Espanola",
+        "teamB": "Club Deportes Limache",
+        "prediction": "Home Win",
+        "odds": "3.00",
+        "results": "Loss"
+      },
+      {
+        "teamA": "Paysandu",
+        "teamB": "Criciuma",
+        "prediction": "Away Win",
+        "odds": "2.40",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Wednesday, 2nd July 2025",
+    "gamesList": [
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Monterrey",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "Al Hilal",
+        "prediction": "Away Win",
+        "odds": "3.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Juventus",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Flamengo",
+        "prediction": "Home Win",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Iceland Women",
+        "teamB": "Finland Women",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Switzerland Women",
+        "teamB": "Norway Women",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Karamah",
+        "teamB": "Al-Wahda Damascus",
+        "prediction": "Away Win",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Shorta Damascus",
+        "teamB": "Al-Wathbah",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Hutteen",
+        "teamB": "Al-Ittihad Aleppo",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Sholla",
+        "teamB": "Al-Jaish (SYR)",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Tuesday, 1st July 2025",
+    "gamesList": [
+      {
+        "teamA": "Manchester City",
+        "teamB": "Al-Hilal",
+        "prediction": "Away Win",
+        "odds": "3.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Juventus",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Monterrey",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "KPS Kuopio",
+        "teamB": "Gnistan",
+        "prediction": "Home Win",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cuniburo",
+        "teamB": "Aucas",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Loss"
+      },
+      {
+        "teamA": "Colon Santa Fe",
+        "teamB": "Mitre",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Audax Italiano",
+        "teamB": "Deportes Temuco",
+        "prediction": "Home Win",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ñublense",
+        "teamB": "Magallanes",
+        "prediction": "Away Win",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Utrecht",
+        "teamB": "FCSB",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Odense BK",
+        "teamB": "B.93 København",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Monday, 30th June 2025",
+    "gamesList": [
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Fluminense",
+        "prediction": "Away Win",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Los Angeles FC",
+        "teamB": "Vancouver Whitecaps",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brann",
+        "teamB": "Sandefjord",
+        "prediction": "Home Win",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Henan Songshan Longmen",
+        "teamB": "Shandong Taishan",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Dalian Yingbo",
+        "teamB": "Zhejiang Professional",
+        "prediction": "Home Win",
+        "odds": "1.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Beijing Guoan",
+        "teamB": "Yunnan Yukun",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Shenzhen Xinpengcheng",
+        "teamB": "Shanghai Port",
+        "prediction": "Away Win",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Djurgården",
+        "teamB": "IFK Norrköping",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mjällby AIF",
+        "teamB": "Malmö FF",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "USA",
+        "teamB": "Costa Rica",
+        "prediction": "Home Win",
+        "odds": "1.90",
+        "results": "Win"
+      }
+    ]
+  }
 ]
