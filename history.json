@@ -1,23 +1,24 @@
 [{
   "date": "Sunday, 7th December 2025",
   "gamesList": [
-    { "teamA": "Brighton & Hove Albion", "teamB": "West Ham United", "prediction": "Draw", "odds": "3.40", "results": "1-1" },
-    { "teamA": "Fulham", "teamB": "Crystal Palace", "prediction": "Away Win", "odds": "2.85", "results": "1-2" },
-    { "teamA": "Elche", "teamB": "Girona", "prediction": "Home Win", "odds": "3.10", "results": "3-0" },
-    { "teamA": "Valencia", "teamB": "Sevilla", "prediction": "Draw", "odds": "3.20", "results": "1-1" },
-    { "teamA": "Espanyol", "teamB": "Rayo Vallecano", "prediction": "Home Win", "odds": "2.65", "results": "1-0" },
-    { "teamA": "Hamburg SV", "teamB": "Werder Bremen", "prediction": "Home Win", "odds": "2.10", "results": "3-2" },
-    { "teamA": "Borussia Dortmund", "teamB": "TSG Hoffenheim", "prediction": "Home Win", "odds": "1.45", "results": "2-0" },
-    { "teamA": "Cremonese", "teamB": "Lecce", "prediction": "Home Win", "odds": "2.40", "results": "2-0" },
-    { "teamA": "Cagliari", "teamB": "AS Roma", "prediction": "Home Win", "odds": "3.75", "results": "1-0" },
-    { "teamA": "Lazio", "teamB": "Bologna", "prediction": "Draw", "odds": "3.30", "results": "1-1" },
-    { "teamA": "Nice", "teamB": "Angers", "prediction": "Away Win", "odds": "4.20", "results": "0-1" },
-    { "teamA": "AJ Auxerre", "teamB": "Metz", "prediction": "Home Win", "odds": "2.25", "results": "3-1" },
-    { "teamA": "Le Havre AC", "teamB": "Paris FC", "prediction": "Draw", "odds": "3.15", "results": "0-0" },
-    { "teamA": "FC Utrecht", "teamB": "FC Twente", "prediction": "Draw", "odds": "3.50", "results": "1-1" },
-    { "teamA": "AZ Alkmaar", "teamB": "Go Ahead Eagles", "prediction": "Draw", "odds": "4.00", "results": "2-2" }
+    { "teamA": "Brighton & Hove Albion", "teamB": "West Ham United", "prediction": "Draw", "odds": "3.40", "results": "Win" },
+    { "teamA": "Fulham", "teamB": "Crystal Palace", "prediction": "Away Win", "odds": "2.85", "results": "Win" },
+    { "teamA": "Elche", "teamB": "Girona", "prediction": "Home Win", "odds": "3.10", "results": "Win" },
+    { "teamA": "Valencia", "teamB": "Sevilla", "prediction": "Draw", "odds": "3.20", "results": "Win" },
+    { "teamA": "Espanyol", "teamB": "Rayo Vallecano", "prediction": "Home Win", "odds": "2.65", "results": "Win" },
+    { "teamA": "Hamburg SV", "teamB": "Werder Bremen", "prediction": "Home Win", "odds": "2.10", "results": "Win" },
+    { "teamA": "Borussia Dortmund", "teamB": "TSG Hoffenheim", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
+    { "teamA": "Cremonese", "teamB": "Lecce", "prediction": "Home Win", "odds": "2.40", "results": "Win" },
+    { "teamA": "Cagliari", "teamB": "AS Roma", "prediction": "Home Win", "odds": "3.75", "results": "Win" },
+    { "teamA": "Lazio", "teamB": "Bologna", "prediction": "Draw", "odds": "3.30", "results": "Win" },
+    { "teamA": "Nice", "teamB": "Angers", "prediction": "Away Win", "odds": "4.20", "results": "Win" },
+    { "teamA": "AJ Auxerre", "teamB": "Metz", "prediction": "Home Win", "odds": "2.25", "results": "Win" },
+    { "teamA": "Le Havre AC", "teamB": "Paris FC", "prediction": "Draw", "odds": "3.15", "results": "Win" },
+    { "teamA": "FC Utrecht", "teamB": "FC Twente", "prediction": "Draw", "odds": "3.50", "results": "Win" }
   ]
-},
+}
+
+,
   {
     "date": "Tuesday, 8th July 2025",
     "gamesList": [
