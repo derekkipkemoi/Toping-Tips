@@ -3,11 +3,11 @@
     "id": "e5i7g2h5-5e5e-5e5e-f5e5-5e5e5e5e5e05",
     "teamA": {
       "name": "Wolverhampton Wanderers",
-      "icon": "https://example.com/icons/wolves.png"
+      "icon": "https://example.com/icons/wolverhampton-wanderers.png"
     },
     "teamB": {
       "name": "Manchester United",
-      "icon": "https://example.com/icons/manutd.png"
+      "icon": "https://example.com/icons/manchester-united.png"
     },
     "leagueName": "Premier League",
     "prediction": "AWAY WIN",
@@ -35,7 +35,7 @@
     },
     "teamB": {
       "name": "AC Milan",
-      "icon": "https://example.com/icons/acmilan.png"
+      "icon": "https://example.com/icons/ac-milan.png"
     },
     "leagueName": "Serie A",
     "prediction": "AWAY WIN",
@@ -73,11 +73,11 @@
     "id": "j0n2l7m0-0j0j-0j0j-k0j0-0j0j0j0j0j10",
     "teamA": {
       "name": "Brackley Town",
-      "icon": "https://example.com/icons/brackleytown.png"
+      "icon": "https://example.com/icons/brackley-town.png"
     },
     "teamB": {
       "name": "Burton Albion",
-      "icon": "https://example.com/icons/burtonalbion.png"
+      "icon": "https://example.com/icons/burton-albion.png"
     },
     "leagueName": "FA Cup",
     "prediction": "AWAY WIN",
@@ -87,11 +87,11 @@
     "id": "k1o3m8n1-1k1k-1k1k-l1k1-1k1k1k1k1k11",
     "teamA": {
       "name": "Vitoria de Guimaraes",
-      "icon": "https://example.com/icons/vitoriag.png"
+      "icon": "https://example.com/icons/vitoria-de-guimaraes.png"
     },
     "teamB": {
       "name": "Gil Vicente",
-      "icon": "https://example.com/icons/gilvicente.png"
+      "icon": "https://example.com/icons/gil-vicente.png"
     },
     "leagueName": "Primeira Liga",
     "prediction": "HOME WIN",
@@ -100,98 +100,322 @@
   {
     "id": "l2p4n9o2-2l2l-2l2l-m2l2-2l2l2l2l2l12",
     "teamA": {
-      "name": "Torino",
-      "icon": "https://example.com/icons/torino.png"
+      "name": "West Ham United",
+      "icon": "https://example.com/icons/west-ham-united.png"
     },
     "teamB": {
-      "name": "AC Milan",
-      "icon": "https://example.com/icons/acmilan.png"
+      "name": "Brighton & Hove Albion",
+      "icon": "https://example.com/icons/brighton-hove-albion.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Premier League",
     "prediction": "DRAW",
     "date": "2025-12-08"
   },
   {
     "id": "m3q5o0p3-3m3m-3m3m-n3m3-3m3m3m3m3m13",
     "teamA": {
-      "name": "Udinese",
-      "icon": "https://example.com/icons/udinese.png"
+      "name": "Crystal Palace",
+      "icon": "https://example.com/icons/crystal-palace.png"
     },
     "teamB": {
-      "name": "Genoa",
-      "icon": "https://example.com/icons/genoa.png"
+      "name": "Fulham",
+      "icon": "https://example.com/icons/fulham.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Premier League",
     "prediction": "HOME WIN",
     "date": "2025-12-08"
   },
-   {
-    "id": "s9w1u6v9-9s9s-9s9s-t9s9-9s9s9s9s9s19",
+  {
+    "id": "n4r6p1q4-4n4n-4n4n-o4n4-4n4n4n4n4n14",
     "teamA": {
-      "name": "Spartans FC",
-      "icon": "https://example.com/icons/spartansfc.png"
+      "name": "Real Madrid",
+      "icon": "https://example.com/icons/real-madrid.png"
     },
     "teamB": {
-      "name": "Formartine United",
-      "icon": "https://example.com/icons/formartineunited.png"
+      "name": "Celta Vigo",
+      "icon": "https://example.com/icons/celta-vigo.png"
     },
-    "leagueName": "Scottish Cup",
+    "leagueName": "La Liga",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "o5s7q2r5-5o5o-5o5o-p5o5-5o5o5o5o5o15",
+    "teamA": {
+      "name": "Elche",
+      "icon": "https://example.com/icons/elche.png"
+    },
+    "teamB": {
+      "name": "Girona",
+      "icon": "https://example.com/icons/girona.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "p6t8r3s6-6p6p-6p6p-q6p6-6p6p6p6p6p16",
+    "teamA": {
+      "name": "Valencia",
+      "icon": "https://example.com/icons/valencia.png"
+    },
+    "teamB": {
+      "name": "Sevilla",
+      "icon": "https://example.com/icons/sevilla.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "DRAW",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "q7u9s4t7-7q7q-7q7q-r7q7-7q7q7q7q7q17",
+    "teamA": {
+      "name": "Espanyol",
+      "icon": "https://example.com/icons/espanyol.png"
+    },
+    "teamB": {
+      "name": "Rayo Vallecano",
+      "icon": "https://example.com/icons/rayo-vallecano.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "r8v0t5u8-8r8r-8r8r-s8r8-8r8r8r8r8r18",
+    "teamA": {
+      "name": "Napoli",
+      "icon": "https://example.com/icons/napoli.png"
+    },
+    "teamB": {
+      "name": "Juventus",
+      "icon": "https://example.com/icons/juventus.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "DRAW",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "s9w1u6v9-9s9s-9s9s-t9s9-9s9s9s9s9s19",
+    "teamA": {
+      "name": "Lecce",
+      "icon": "https://example.com/icons/lecce.png"
+    },
+    "teamB": {
+      "name": "Cremonese",
+      "icon": "https://example.com/icons/cremonese.png"
+    },
+    "leagueName": "Serie A",
     "prediction": "HOME WIN",
     "date": "2025-12-08"
   },
   {
     "id": "t0x2v7w0-0t0t-0t0t-u0t0-0t0t0t0t0t20",
     "teamA": {
-      "name": "East Kilbride",
-      "icon": "https://example.com/icons/eastkilbride.png"
+      "name": "AS Roma",
+      "icon": "https://example.com/icons/as-roma.png"
     },
     "teamB": {
-      "name": "Banks O'Dee",
-      "icon": "https://example.com/icons/banksodee.png"
+      "name": "Cagliari",
+      "icon": "https://example.com/icons/cagliari.png"
     },
-    "leagueName": "Scottish Cup",
-    "prediction": "DRAW",
+    "leagueName": "Serie A",
+    "prediction": "HOME WIN",
     "date": "2025-12-08"
   },
   {
     "id": "u1y3w8x1-1u1u-1u1u-v1u1-1u1u1u1u1u21",
     "teamA": {
-      "name": "Cove Rangers",
-      "icon": "https://example.com/icons/coverangers.png"
+      "name": "Bologna",
+      "icon": "https://example.com/icons/bologna.png"
     },
     "teamB": {
-      "name": "Stranraer",
-      "icon": "https://example.com/icons/stranraer.png"
+      "name": "Lazio",
+      "icon": "https://example.com/icons/lazio.png"
     },
-    "leagueName": "Scottish Cup",
-    "prediction": "HOME WIN",
+    "leagueName": "Serie A",
+    "prediction": "AWAY WIN",
     "date": "2025-12-08"
   },
   {
     "id": "v2z4x9y2-2v2v-2v2v-w2v2-2v2v2v2v2v22",
     "teamA": {
-      "name": "Airdrieonians",
-      "icon": "https://example.com/icons/airdrieonians.png"
+      "name": "Lorient",
+      "icon": "https://example.com/icons/lorient.png"
     },
     "teamB": {
-      "name": "Annan Athletic",
-      "icon": "https://example.com/icons/annanathletic.png"
+      "name": "Lyon",
+      "icon": "https://example.com/icons/lyon.png"
     },
-    "leagueName": "Scottish Cup",
+    "leagueName": "Ligue 1",
     "prediction": "AWAY WIN",
     "date": "2025-12-08"
   },
   {
     "id": "w3a5y0z3-3w3w-3w3w-x3w3-3w3w3w3w3w23",
     "teamA": {
-      "name": "Brechin City",
-      "icon": "https://example.com/icons/brechincity.png"
+      "name": "Angers",
+      "icon": "https://example.com/icons/angers.png"
     },
     "teamB": {
-      "name": "Darvel",
-      "icon": "https://example.com/icons/darvel.png"
+      "name": "Nice",
+      "icon": "https://example.com/icons/nice.png"
     },
-    "leagueName": "Scottish Cup",
+    "leagueName": "Ligue 1",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "x4b6z1a4-4x4x-4x4x-y4x4-4x4x4x4x4x24",
+    "teamA": {
+      "name": "Metz",
+      "icon": "https://example.com/icons/metz.png"
+    },
+    "teamB": {
+      "name": "AJ Auxerre",
+      "icon": "https://example.com/icons/aj-auxerre.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "DRAW",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "y5c7a2b5-5y5y-5y5y-z5y5-5y5y5y5y5y25",
+    "teamA": {
+      "name": "Paris FC",
+      "icon": "https://example.com/icons/paris-fc.png"
+    },
+    "teamB": {
+      "name": "Le Havre AC",
+      "icon": "https://example.com/icons/le-havre-ac.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "z6d8b3c6-6z6z-6z6z-a6z6-6z6z6z6z6z26",
+    "teamA": {
+      "name": "Borussia Dortmund",
+      "icon": "https://example.com/icons/borussia-dortmund.png"
+    },
+    "teamB": {
+      "name": "Hoffenheim",
+      "icon": "https://example.com/icons/hoffenheim.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "a7e9c4d7-7a7a-7a7a-b7a7-7a7a7a7a7a27",
+    "teamA": {
+      "name": "Hamburger SV",
+      "icon": "https://example.com/icons/hamburger-sv.png"
+    },
+    "teamB": {
+      "name": "Werder Bremen",
+      "icon": "https://example.com/icons/werder-bremen.png"
+    },
+    "leagueName": "2. Bundesliga",
+    "prediction": "DRAW",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "b8f0d5e8-8b8b-8b8b-c8b8-8b8b8b8b8b28",
+    "teamA": {
+      "name": "FC Twente",
+      "icon": "https://example.com/icons/fc-twente.png"
+    },
+    "teamB": {
+      "name": "FC Utrecht",
+      "icon": "https://example.com/icons/fc-utrecht.png"
+    },
+    "leagueName": "Eredivisie",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "c9g1e6f9-9c9c-9c9c-d9c9-9c9c9c9c9c29",
+    "teamA": {
+      "name": "Go Ahead Eagles",
+      "icon": "https://example.com/icons/go-ahead-eagles.png"
+    },
+    "teamB": {
+      "name": "AZ Alkmaar",
+      "icon": "https://example.com/icons/az-alkmaar.png"
+    },
+    "leagueName": "Eredivisie",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "d0h2f7g0-0d0d-0d0d-e0d0-0d0d0d0d0d30",
+    "teamA": {
+      "name": "Macclesfield FC",
+      "icon": "https://example.com/icons/macclesfield-fc.png"
+    },
+    "teamB": {
+      "name": "Slough Town",
+      "icon": "https://example.com/icons/slough-town.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "e1i3g8h1-1e1e-1e1e-f1e1-1e1e1e1e1e31",
+    "teamA": {
+      "name": "Newport County",
+      "icon": "https://example.com/icons/newport-county.png"
+    },
+    "teamB": {
+      "name": "Boreham Wood",
+      "icon": "https://example.com/icons/boreham-wood.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "f2j4h9i2-2f2f-2f2f-g2f2-2f2f2f2f2f32",
+    "teamA": {
+      "name": "Walsall",
+      "icon": "https://example.com/icons/walsall.png"
+    },
+    "teamB": {
+      "name": "Gateshead",
+      "icon": "https://example.com/icons/gateshead.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "g3k5i0j3-3g3g-3g3g-h3g3-3g3g3g3g3g33",
+    "teamA": {
+      "name": "Carlisle United",
+      "icon": "https://example.com/icons/carlisle-united.png"
+    },
+    "teamB": {
+      "name": "Blackpool",
+      "icon": "https://example.com/icons/blackpool.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "h4l6j1k4-4h4h-4h4h-i4h4-4h4h4h4h4h34",
+    "teamA": {
+      "name": "Besiktas",
+      "icon": "https://example.com/icons/besiktas.png"
+    },
+    "teamB": {
+      "name": "Gaziantep BB",
+      "icon": "https://example.com/icons/gaziantep-bb.png"
+    },
+    "leagueName": "Süper Lig",
     "prediction": "HOME WIN",
     "date": "2025-12-08"
   }
