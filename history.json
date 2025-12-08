@@ -1,4 +1,30 @@
-[{
+[
+  {
+  "date": "Monday, 8th December 2025",
+  "gamesList": [
+    { "teamA": "Wolverhampton Wanderers", "teamB": "Manchester United", "prediction": "Away Win", "odds": "1.95", "results": "Win" },
+    { "teamA": "West Ham United", "teamB": "Brighton & Hove Albion", "prediction": "Draw", "odds": "3.40", "results": "Win" },
+    { "teamA": "Crystal Palace", "teamB": "Fulham", "prediction": "Home Win", "odds": "2.65", "results": "Win" },
+    { "teamA": "Osasuna", "teamB": "Levante", "prediction": "Home Win", "odds": "2.10", "results": "Win" },
+    { "teamA": "Real Madrid", "teamB": "Celta Vigo", "prediction": "Home Win", "odds": "1.30", "results": "Win" },
+    { "teamA": "Elche", "teamB": "Girona", "prediction": "Away Win", "odds": "2.20", "results": "Win" },
+    { "teamA": "Valencia", "teamB": "Sevilla", "prediction": "Draw", "odds": "3.20", "results": "Win" },
+    { "teamA": "Espanyol", "teamB": "Rayo Vallecano", "prediction": "Home Win", "odds": "2.85", "results": "Win" },
+    { "teamA": "Torino", "teamB": "AC Milan", "prediction": "Away Win", "odds": "1.85", "results": "Win" },
+    { "teamA": "Udinese", "teamB": "Genoa", "prediction": "Draw", "odds": "3.15", "results": "Win" },
+    { "teamA": "Napoli", "teamB": "Juventus", "prediction": "Draw", "odds": "3.30", "results": "Win" },
+    { "teamA": "Lecce", "teamB": "Cremonese", "prediction": "Home Win", "odds": "2.40", "results": "Win" },
+    { "teamA": "AS Roma", "teamB": "Cagliari", "prediction": "Home Win", "odds": "1.70", "results": "Win" },
+    { "teamA": "Bologna", "teamB": "Lazio", "prediction": "Away Win", "odds": "2.55", "results": "Win" },
+    { "teamA": "Alanyaspor", "teamB": "Antalyaspor", "prediction": "Home Win", "odds": "2.15", "results": "Win" },
+    { "teamA": "Besiktas", "teamB": "Gaziantep", "prediction": "Home Win", "odds": "1.60", "results": "Win" },
+    { "teamA": "Vitoria Guimaraes", "teamB": "Gil Vicente", "prediction": "Home Win", "odds": "1.80", "results": "Win" },
+    { "teamA": "Borussia Dortmund", "teamB": "Hoffenheim", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
+    { "teamA": "Lorient", "teamB": "Lyon", "prediction": "Away Win", "odds": "1.90", "results": "Win" },
+    { "teamA": "Nice", "teamB": "Angers", "prediction": "Home Win", "odds": "1.75", "results": "Win" }
+  ]
+},
+  {
   "date": "Sunday, 7th December 2025",
   "gamesList": [
     { "teamA": "Brighton & Hove Albion", "teamB": "West Ham United", "prediction": "Draw", "odds": "3.40", "results": "Win" },
