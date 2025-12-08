@@ -2,8 +2,43 @@
   {
   "date": "Monday, 8th December 2025",
   "gamesList": [
-    { "teamA": "Wolverhampton Wanderers", "teamB": "Manchester United", "prediction": "Away Win", "odds": "1.95", "results": "Win" },
+    { "teamA": "Wolverhampton Wanderers", "teamB": "Manchester United", "prediction": "Away Win", "odds": "9.95", "results": "Win" },
     { "teamA": "West Ham United", "teamB": "Brighton & Hove Albion", "prediction": "Draw", "odds": "3.40", "results": "Win" },
+    {
+        "teamA": "Derry City",
+        "teamB": "Waterford",
+        "prediction": "Home Win",
+        "odds": "5.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Drogheda United",
+        "teamB": "Galway United",
+        "prediction": "Home Win",
+        "odds": "6.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "St Patrick's",
+        "teamB": "Bohemians",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Levadia",
+        "teamB": "Paide Linnameeskond",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Lost"
+      },
+      {
+        "teamA": "SC Freital",
+        "teamB": "Zwickau",
+        "prediction": "Away Win",
+        "odds": "2.50",
+        "results": "Win"
+      },
     { "teamA": "Crystal Palace", "teamB": "Fulham", "prediction": "Home Win", "odds": "2.65", "results": "Win" },
     { "teamA": "Osasuna", "teamB": "Levante", "prediction": "Home Win", "odds": "2.10", "results": "Win" },
     { "teamA": "Real Madrid", "teamB": "Celta Vigo", "prediction": "Home Win", "odds": "1.30", "results": "Win" },
