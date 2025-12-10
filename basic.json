@@ -110,5 +110,103 @@
     "leagueName": "UEFA Europa League",
     "prediction": "HOME WIN",
     "date": "2025-12-11T20:45:00"
+  },
+  {
+    "id": "i9j0k1l2-m3n4-5o6p-q7r8-s9t0u1v2w3x4",
+    "teamA": {
+      "name": "Stuttgart",
+      "icon": "https://example.com/icons/stuttgart.png"
+    },
+    "teamB": {
+      "name": "Maccabi Tel Aviv",
+      "icon": "https://example.com/icons/maccabi-tel-aviv.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-11T20:45:00"
+  },
+  {
+    "id": "j0k1l2m3-n4o5-6p7q-r8s9-t0u1v2w3x4y5",
+    "teamA": {
+      "name": "Celtic",
+      "icon": "https://example.com/icons/celtic.png"
+    },
+    "teamB": {
+      "name": "Roma",
+      "icon": "https://example.com/icons/roma.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "DRAW",
+    "date": "2025-12-11T23:00:00"
+  },
+  {
+    "id": "k1l2m3n4-o5p6-7q8r-s9t0-u1v2w3x4y5z6",
+    "teamA": {
+      "name": "Porto",
+      "icon": "https://example.com/icons/porto.png"
+    },
+    "teamB": {
+      "name": "Malmö",
+      "icon": "https://example.com/icons/malmo.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-11T23:00:00"
+  },
+  {
+    "id": "l2m3n4o5-p6q7-8r9s-t0u1-v2w3x4y5z6a7",
+    "teamA": {
+      "name": "Basel",
+      "icon": "https://example.com/icons/basel.png"
+    },
+    "teamB": {
+      "name": "Aston Villa",
+      "icon": "https://example.com/icons/aston-villa.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-11T23:00:00"
+  },
+  {
+    "id": "m3n4o5p6-q7r8-9s0t-u1v2-w3x4y5z6a7b8",
+    "teamA": {
+      "name": "FCSB",
+      "icon": "https://example.com/icons/fcsb.png"
+    },
+    "teamB": {
+      "name": "Feyenoord",
+      "icon": "https://example.com/icons/feyenoord.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-11T23:00:00"
+  },
+  {
+    "id": "n4o5p6q7-r8s9-0t1u-v2w3-x4y5z6a7b8c9",
+    "teamA": {
+      "name": "Lyon",
+      "icon": "https://example.com/icons/lyon.png"
+    },
+    "teamB": {
+      "name": "Go Ahead Eagles",
+      "icon": "https://example.com/icons/go-ahead-eagles.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-11T23:00:00"
+  },
+  {
+    "id": "o5p6q7r8-s9t0-1u2v-w3x4-y5z6a7b8c9d0",
+    "teamA": {
+      "name": "Panathinaikos",
+      "icon": "https://example.com/icons/panathinaikos.png"
+    },
+    "teamB": {
+      "name": "Viktoria Plzeň",
+      "icon": "https://example.com/icons/viktoria-plzen.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-11T23:00:00"
   }
 ]
