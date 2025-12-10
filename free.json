@@ -1,117 +1,86 @@
 [
-  [
   {
-    "id": "a1b2c3d4-e5f6-7g8h-i9j0-k1l2m3n4o5p6",
+    "id": "s9t0u1v2-w3x4-5y6z-a7b8-c9d0e1f2g3h4",
     "teamA": {
-      "name": "Young Boys",
-      "icon": "https://example.com/icons/young-boys.png"
+      "name": "Fiorentina",
+      "icon": "https://example.com/icons/fiorentina.png"
     },
     "teamB": {
-      "name": "Lille",
-      "icon": "https://example.com/icons/lille.png"
+      "name": "Dynamo Kyiv",
+      "icon": "https://example.com/icons/dynamo-kyiv.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "UEFA Conference League",
     "prediction": "HOME WIN",
     "date": "2025-12-11T20:45:00"
   },
   {
-    "id": "b2c3d4e5-f6g7-8h9i-j0k1-l2m3n4o5p6q7",
+    "id": "t0u1v2w3-x4y5-6z7a-b8c9-d0e1f2g3h4i5",
     "teamA": {
-      "name": "Midtjylland",
-      "icon": "https://example.com/icons/midtjylland.png"
+      "name": "Häcken",
+      "icon": "https://example.com/icons/hacken.png"
     },
     "teamB": {
-      "name": "Genk",
-      "icon": "https://example.com/icons/genk.png"
+      "name": "AEK Larnaca",
+      "icon": "https://example.com/icons/aek-larnaca.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "UEFA Conference League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-11T20:45:00"
+  },
+  {
+    "id": "u1v2w3x4-y5z6-7a8b-c9d0-e1f2g3h4i5j6",
+    "teamA": {
+      "name": "Breidablik",
+      "icon": "https://example.com/icons/breidablik.png"
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": "https://example.com/icons/shamrock-rovers.png"
+    },
+    "leagueName": "UEFA Conference League",
     "prediction": "DRAW",
     "date": "2025-12-11T20:45:00"
   },
   {
-    "id": "c3d4e5f6-g7h8-9i0j-k1l2-m3n4o5p6q7r8",
+    "id": "v2w3x4y5-z6a7-8b9c-d0e1-f2g3h4i5j6k7",
     "teamA": {
-      "name": "FC Utrecht",
-      "icon": "https://example.com/icons/fc-utrecht.png"
+      "name": "Drita",
+      "icon": "https://example.com/icons/drita.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://example.com/icons/nottingham-forest.png"
+      "name": "AZ Alkmaar",
+      "icon": "https://example.com/icons/az-alkmaar.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "UEFA Conference League",
     "prediction": "AWAY WIN",
     "date": "2025-12-11T20:45:00"
   },
   {
-    "id": "d4e5f6g7-h8i9-0j1k-l2m3-n4o5p6q7r8s9",
+    "id": "w3x4y5z6-a7b8-9c0d-e1f2-g3h4i5j6k7l8",
     "teamA": {
-      "name": "Ferencváros",
-      "icon": "https://example.com/icons/ferencvaros.png"
+      "name": "Noah",
+      "icon": "https://example.com/icons/noah.png"
     },
     "teamB": {
-      "name": "Rangers",
-      "icon": "https://example.com/icons/rangers.png"
+      "name": "Legia Warszawa",
+      "icon": "https://example.com/icons/legia-warszawa.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "HOME WIN",
+    "leagueName": "UEFA Conference League",
+    "prediction": "AWAY WIN",
     "date": "2025-12-11T20:45:00"
   },
   {
-    "id": "e5f6g7h8-i9j0-1k2l-m3n4-o5p6q7r8s9t0",
+    "id": "x4y5z6a7-b8c9-0d1e-f2g3-h4i5j6k7l8m9",
     "teamA": {
-      "name": "Dinamo Zagreb",
-      "icon": "https://example.com/icons/dinamo-zagreb.png"
+      "name": "Jagiellonia Białystok",
+      "icon": "https://example.com/icons/jagiellonia.png"
     },
     "teamB": {
-      "name": "Real Betis",
-      "icon": "https://example.com/icons/real-betis.png"
+      "name": "Rayo Vallecano",
+      "icon": "https://example.com/icons/rayo-vallecano.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "UEFA Conference League",
     "prediction": "DRAW",
-    "date": "2025-12-11T20:45:00"
-  },
-  {
-    "id": "f6g7h8i9-j0k1-2l3m-n4o5-p6q7r8s9t0u1",
-    "teamA": {
-      "name": "Nice",
-      "icon": "https://example.com/icons/nice.png"
-    },
-    "teamB": {
-      "name": "Braga",
-      "icon": "https://example.com/icons/braga.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-11T20:45:00"
-  },
-  {
-    "id": "g7h8i9j0-k1l2-3m4n-o5p6-q7r8s9t0u1v2",
-    "teamA": {
-      "name": "Ludogorets",
-      "icon": "https://example.com/icons/ludogorets.png"
-    },
-    "teamB": {
-      "name": "PAOK",
-      "icon": "https://example.com/icons/paok.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-11T20:45:00"
-  },
-  {
-    "id": "h8i9j0k1-l2m3-4n5o-p6q7-r8s9t0u1v2w3",
-    "teamA": {
-      "name": "Sturm Graz",
-      "icon": "https://example.com/icons/sturm-graz.png"
-    },
-    "teamB": {
-      "name": "Crvena Zvezda",
-      "icon": "https://example.com/icons/crvena-zvezda.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "prediction": "HOME WIN",
     "date": "2025-12-11T20:45:00"
   }
-]
-
 ]
