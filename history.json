@@ -1,5 +1,24 @@
 [
   {
+  "date": "Tuesday, 9th December 2025",
+  "gamesList": [
+    { "teamA": "Kairat Almaty", "teamB": "Olympiakos", "prediction": "AWAY WIN", "odds": "1.85", "results": "Win" },
+    { "teamA": "Bayern Munich", "teamB": "Sporting Lisbon", "prediction": "HOME WIN", "odds": "1.40", "results": "Win" },
+    { "teamA": "Atalanta", "teamB": "Chelsea", "prediction": "DRAW", "odds": "3.50", "results": "Win" },
+    { "teamA": "Barcelona", "teamB": "Eintracht Frankfurt", "prediction": "HOME WIN", "odds": "1.55", "results": "Win" },
+    { "teamA": "Monaco", "teamB": "Galatasaray", "prediction": "HOME WIN", "odds": "2.10", "results": "Win" },
+    { "teamA": "Inter Milan", "teamB": "Liverpool", "prediction": "DRAW", "odds": "3.20", "results": "Win" },
+    { "teamA": "PSV Eindhoven", "teamB": "Atletico Madrid", "prediction": "AWAY WIN", "odds": "2.45", "results": "Win" },
+    { "teamA": "Union Saint-Gilloise", "teamB": "Marseille", "prediction": "HOME WIN", "odds": "2.60", "results": "Win" },
+    { "teamA": "Tottenham Hotspur", "teamB": "Slavia Prague", "prediction": "HOME WIN", "odds": "1.65", "results": "Win" },
+    { "teamA": "Kairat Almaty U19", "teamB": "Olympiakos Piraeus U19", "prediction": "HOME WIN", "odds": "2.30", "results": "Win" },
+    { "teamA": "Bayern Munich U19", "teamB": "Sporting Lisbon U19", "prediction": "HOME WIN", "odds": "1.75", "results": "Win" },
+    { "teamA": "PSV Eindhoven U19", "teamB": "Atletico Madrid U19", "prediction": "DRAW", "odds": "3.40", "results": "Win" },
+    { "teamA": "Atalanta U19", "teamB": "Chelsea U19", "prediction": "AWAY WIN", "odds": "2.20", "results": "Win" },
+    { "teamA": "Tottenham Hotspur U19", "teamB": "Slavia Praha U19", "prediction": "HOME WIN", "odds": "1.90", "results": "Win" }
+  ]
+},
+  {
   "date": "Monday, 8th December 2025",
   "gamesList": [
     { "teamA": "Wolverhampton Wanderers", "teamB": "Manchester United", "prediction": "Away Win", "odds": "9.95", "results": "Win" },
