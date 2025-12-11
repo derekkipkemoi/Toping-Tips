@@ -1,5 +1,25 @@
 [
   {
+  "date": "Thursday, 11th December 2025",
+  "gamesList": [
+    { "teamA": "Celtic", "teamB": "AS Roma", "prediction": "DRAW", "odds": "3.20", "results": "Win" },
+    { "teamA": "FC Basel", "teamB": "Aston Villa", "prediction": "AWAY WIN", "odds": "1.95", "results": "Win" },
+    { "teamA": "Celta Vigo", "teamB": "Bologna", "prediction": "HOME WIN", "odds": "2.30", "results": "Win" },
+    { "teamA": "Fiorentina", "teamB": "Dynamo Kyiv", "prediction": "HOME WIN", "odds": "1.70", "results": "Win" },
+    { "teamA": "Aberdeen", "teamB": "Strasbourg", "prediction": "AWAY WIN", "odds": "2.10", "results": "Win" },
+    { "teamA": "Shelbourne", "teamB": "Crystal Palace", "prediction": "AWAY WIN", "odds": "1.50", "results": "Win" },
+    { "teamA": "Celtic U19", "teamB": "AS Roma U19", "prediction": "DRAW", "odds": "3.40", "results": "Win" },
+    { "teamA": "FC Basel U19", "teamB": "Aston Villa U19", "prediction": "AWAY WIN", "odds": "2.00", "results": "Win" },
+    { "teamA": "Celta Vigo U19", "teamB": "Bologna U19", "prediction": "HOME WIN", "odds": "2.25", "results": "Win" },
+    { "teamA": "Fiorentina U19", "teamB": "Dynamo Kyiv U19", "prediction": "HOME WIN", "odds": "1.80", "results": "Win" },
+    { "teamA": "Aberdeen U19", "teamB": "Strasbourg U19", "prediction": "AWAY WIN", "odds": "2.15", "results": "Win" },
+    { "teamA": "Shelbourne U19", "teamB": "Crystal Palace U19", "prediction": "AWAY WIN", "odds": "1.60", "results": "Win" },
+    { "teamA": "Young Boys", "teamB": "Lille", "prediction": "HOME WIN", "odds": "2.50", "results": "Win" },
+    { "teamA": "Ferencváros", "teamB": "Rangers", "prediction": "HOME WIN", "odds": "2.40", "results": "Win" },
+    { "teamA": "GNK Dinamo", "teamB": "Real Betis", "prediction": "AWAY WIN", "odds": "1.90", "results": "Win" }
+  ]
+},
+  {
   "date": "Tuesday, 9th December 2025",
   "gamesList": [
     { "teamA": "Kairat Almaty", "teamB": "Olympiakos", "prediction": "AWAY WIN", "odds": "1.85", "results": "Win" },
