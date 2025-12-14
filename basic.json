@@ -6,7 +6,7 @@
       "icon": "https://example.com/icons/manutd.png"
     },
     "teamB": {
-      "name": "AFC Bournemouth",
+      "name": "AFC Bournemouth", 
       "icon": "https://example.com/icons/bournemouth.png"
     },
     "leagueName": "Premier League",
