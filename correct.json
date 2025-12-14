@@ -1,82 +1,73 @@
 [
   {
-    "id": "r8v1t4u9-9s9s-9s9s-t9s9-9s9s9s9s9s18",
-    "teamA": { "name": "Union Berlin", "icon": "https://example.com/icons/unionberlin.png" },
-    "teamB": { "name": "RB Leipzig", "icon": "https://example.com/icons/rbleipzig.png" },
-    "leagueName": "Bundesliga",
-    "prediction": "0-2",
-    "date": "2025-12-12 22:30"
+    "id": "p1q3r5s7-1p1p-1p1p-t1p1-1p1p1p1p1p01",
+    "teamA": {
+      "name": "Manchester United",
+      "icon": "https://example.com/icons/manutd.png"
+    },
+    "teamB": {
+      "name": "AFC Bournemouth",
+      "icon": "https://example.com/icons/bournemouth.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "2-1",
+    "date": "2025-12-15"
   },
   {
-    "id": "p6t9r2s7-7q7q-7q7q-r7q7-7q7q7q7q7q16",
-    "teamA": { "name": "Real Sociedad", "icon": "https://example.com/icons/realsociedad.png" },
-    "teamB": { "name": "Girona", "icon": "https://example.com/icons/girona.png" },
+    "id": "q2r4s6t8-2q2q-2q2q-u2q2-2q2q2q2q2q02",
+    "teamA": {
+      "name": "Roma",
+      "icon": "https://example.com/icons/roma.png"
+    },
+    "teamB": {
+      "name": "Como",
+      "icon": "https://example.com/icons/como.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "3-1",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "r3s5t7u9-3r3r-3r3r-v3r3-3r3r3r3r3r03",
+    "teamA": {
+      "name": "Rayo Vallecano",
+      "icon": "https://example.com/icons/rayovallecano.png"
+    },
+    "teamB": {
+      "name": "Real Betis",
+      "icon": "https://example.com/icons/realbetis.png"
+    },
     "leagueName": "La Liga",
     "prediction": "1-1",
-    "date": "2025-12-12 23:00"
+    "date": "2025-12-15"
   },
   {
-    "id": "l2p5n8o3-3m3m-3m3m-n3m3-3m3m3m3m3m12",
-    "teamA": { "name": "West Brom", "icon": "https://example.com/icons/westbrom.png" },
-    "teamB": { "name": "Sheff Utd", "icon": "https://example.com/icons/sheffutd.png" },
-    "leagueName": "Championship",
-    "prediction": "1-1",
-    "date": "2025-12-12 23:00"
+    "id": "s4t6u8v0-4s4s-4s4s-w4s4-4s4s4s4s4s04",
+    "teamA": {
+      "name": "Lecce",
+      "icon": "https://example.com/icons/lecce.png"
+    },
+    "teamB": {
+      "name": "Parma",
+      "icon": "https://example.com/icons/parma.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "2-0",
+    "date": "2025-12-15"
   },
   {
-    "id": "x4b7z0a5-5y5y-5y5y-z5y5-5y5y5y5y5y24",
-    "teamA": { "name": "Angers", "icon": "https://example.com/icons/angers.png" },
-    "teamB": { "name": "Nantes", "icon": "https://example.com/icons/nantes.png" },
-    "leagueName": "Ligue 1",
-    "prediction": "1-1",
-    "date": "2025-12-12 22:45"
-  },
-  {
-    "id": "e1i4g7h2-2f2f-2f2f-g2f2-2f2f2f2f2f31",
-    "teamA": { "name": "Kasimpasa", "icon": "https://example.com/icons/kasimpasa.png" },
-    "teamB": { "name": "Genclerbirligi", "icon": "https://example.com/icons/genclerbirligi.png" },
-    "leagueName": "Süper Lig",
-    "prediction": "2-1",
-    "date": "2025-12-12 20:00"
-  },
-  {
-    "id": "f2j5h8i3-3g3g-3g3g-h3g3-3g3g3g3g3g32",
-    "teamA": { "name": "Central Coast Mariners", "icon": "https://example.com/icons/centralcoastmariners.png" },
-    "teamB": { "name": "Auckland FC", "icon": "https://example.com/icons/aucklandfc.png" },
-    "leagueName": "A-League",
-    "prediction": "1-2",
-    "date": "2025-12-12 11:35"
-  },
-  {
-    "id": "z6d9b2c7-7a7a-7a7a-b7a7-7a7a7a7a7a26",
-    "teamA": { "name": "Laval", "icon": "https://example.com/icons/laval.png" },
-    "teamB": { "name": "Dunkerque", "icon": "https://example.com/icons/dunkerque.png" },
-    "leagueName": "Ligue 2",
-    "prediction": "0-1",
-    "date": "2025-12-12 22:30"
-  },
-  {
-    "id": "v2z5x8y3-3w3w-3w3w-x3w3-3w3w3w3w3w22",
-    "teamA": { "name": "Lecce", "icon": "https://example.com/icons/lecce.png" },
-    "teamB": { "name": "Pisa", "icon": "https://example.com/icons/pisa.png" },
+    "id": "t5u7v9w1-5t5t-5t5t-x5t5-5t5t5t5t5t05",
+    "teamA": {
+      "name": "Monza",
+      "icon": "https://example.com/icons/monza.png"
+    },
+    "teamB": {
+      "name": "Fiorentina",
+      "icon": "https://example.com/icons/fiorentina.png"
+    },
     "leagueName": "Serie A",
     "prediction": "1-2",
-    "date": "2025-12-12 21:45"
-  },
-  {
-    "id": "h4l7j0k5-5i5i-5i5i-j5i5-5i5i5i5i5i34",
-    "teamA": { "name": "Bologna", "icon": "https://example.com/icons/bologna.png" },
-    "teamB": { "name": "Celta Vigo", "icon": "https://example.com/icons/celtavigo.png" },
-    "leagueName": "UEFA Europa League",
-    "prediction": "2-1",
-    "date": "2025-12-12 21:00"
-  },
-  {
-    "id": "j6n9l2m7-7k7k-7k7k-l7k7-7k7k7k7k7k36",
-    "teamA": { "name": "FC Basel", "icon": "https://example.com/icons/fcbasel.png" },
-    "teamB": { "name": "Aston Villa", "icon": "https://example.com/icons/astonvilla.png" },
-    "leagueName": "UEFA Europa League",
-    "prediction": "0-2",
-    "date": "2025-12-12 21:00"
+    "date": "2025-12-15"
   }
 ]
+
