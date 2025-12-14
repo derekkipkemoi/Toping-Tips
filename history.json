@@ -1,5 +1,122 @@
 [
   {
+  "date": "Saturday, 13th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Chelsea",
+      "teamB": "Everton",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Liverpool",
+      "teamB": "Brighton",
+      "prediction": "HOME WIN",
+      "odds": "1.45",
+      "results": "Win"
+    },
+    {
+      "teamA": "Burnley",
+      "teamB": "Fulham",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Arsenal",
+      "teamB": "Wolves",
+      "prediction": "HOME WIN",
+      "odds": "1.55",
+      "results": "Win"
+    },
+    {
+      "teamA": "Barcelona",
+      "teamB": "Osasuna",
+      "prediction": "HOME WIN",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Atletico Madrid",
+      "teamB": "Valencia",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mallorca",
+      "teamB": "Elche",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Getafe",
+      "teamB": "Espanyol",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Norwich City",
+      "teamB": "Southampton",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Stoke City",
+      "teamB": "Swansea City",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Carrick Rangers",
+      "teamB": "Dungannon Swifts",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Cliftonville",
+      "teamB": "Glenavon",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Linfield",
+      "teamB": "Crusaders",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Portadown",
+      "teamB": "Ballymena United",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Atletico Madrid",
+      "teamB": "Valencia",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mallorca",
+      "teamB": "Elche",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Thursday, 11th December 2025",
   "gamesList": [
     { "teamA": "Celtic", "teamB": "AS Roma", "prediction": "DRAW", "odds": "3.20", "results": "Win" },
