@@ -1,5 +1,108 @@
 [
   {
+  "date": "Monday, 15th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Manchester United",
+      "teamB": "Bournemouth",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Rangers",
+      "teamB": "Hibernian",
+      "prediction": "HOME WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Rayo Vallecano",
+      "teamB": "Real Betis",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Roma",
+      "teamB": "Como",
+      "prediction": "HOME WIN",
+      "odds": "1.65",
+      "results": "Win"
+    },
+    {
+      "teamA": "Nacional",
+      "teamB": "Tondela",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Braga",
+      "teamB": "Santa Clara",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "FC Porto",
+      "teamB": "Estrela",
+      "prediction": "HOME WIN",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Barwell",
+      "teamB": "Banbury",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Redditch United",
+      "teamB": "Stamford",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "1. FC Union Berlin Women",
+      "teamB": "Eintracht Frankfurt Women",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Valencia",
+      "teamB": "Mallorca",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Castellon",
+      "teamB": "Mirandes",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Real Oviedo",
+      "teamB": "Celta Vigo",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Le Havre",
+      "teamB": "Paris FC",
+      "prediction": "HOME WIN",
+      "odds": "2.15",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Saturday, 13th December 2025",
   "gamesList": [
     {
