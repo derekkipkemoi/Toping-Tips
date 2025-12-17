@@ -1,44 +1,44 @@
 [
-  {
-    "id": "u1v2w3x4-1u1u-1u1u-y1u1-1u1u1u1u1u01",
+    {
+    "id": "conf06",
     "teamA": {
-      "name": "Barcelona",
-      "icon": "https://example.com/icons/barcelona.png"
+      "name": "Crystal Palace",
+      "icon": "https://example.com/icons/crystalpalace.png"
     },
     "teamB": {
-      "name": "Leganes",
-      "icon": "https://example.com/icons/leganes.png"
+      "name": "KuPS Kuopio",
+      "icon": "https://example.com/icons/kups.png"
     },
-    "leagueName": "La Liga",
+    "leagueName": "UEFA Conference League",
     "prediction": "HOME WIN",
-    "date": "2025-12-17"
+    "date": "2025-12-18"
   },
   {
-    "id": "v2w3x4y5-2v2v-2v2v-z2v2-2v2v2v2v2v02",
+    "id": "conf07",
     "teamA": {
-      "name": "Atletico Madrid",
-      "icon": "https://example.com/icons/atleticomadrid.png"
+      "name": "Shakhtar Donetsk",
+      "icon": "https://example.com/icons/shakhtardonetsk.png"
     },
     "teamB": {
-      "name": "Getafe",
-      "icon": "https://example.com/icons/getafe.png"
+      "name": "Rijeka",
+      "icon": "https://example.com/icons/rijeka.png"
     },
-    "leagueName": "La Liga",
+    "leagueName": "UEFA Conference League",
     "prediction": "HOME WIN",
-    "date": "2025-12-17"
+    "date": "2025-12-18"
   },
   {
-    "id": "w3x4y5z6-3w3w-3w3w-a3w3-3w3w3w3w3w03",
+    "id": "conf08",
     "teamA": {
-      "name": "Real Sociedad",
-      "icon": "https://example.com/icons/realsociedad.png"
+      "name": "Dynamo Kyiv",
+      "icon": "https://example.com/icons/dynamokyiv.png"
     },
     "teamB": {
-      "name": "Athletic Bilbao",
-      "icon": "https://example.com/icons/athleticbilbao.png"
+      "name": "Noah",
+      "icon": "https://example.com/icons/noah.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "DRAW",
-    "date": "2025-12-17"
+    "leagueName": "UEFA Conference League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-18"
   }
 ]
