@@ -1,5 +1,115 @@
 [
   {
+  "date": "Tuesday, 16th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Cardiff City",
+      "teamB": "Chelsea",
+      "prediction": "AWAY WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Eibar",
+      "teamB": "Elche",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Deportivo La Coruna",
+      "teamB": "Mallorca",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sporting Gijon",
+      "teamB": "Valencia",
+      "prediction": "AWAY WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Eldense",
+      "teamB": "Real Sociedad",
+      "prediction": "AWAY WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "St. Gallen",
+      "teamB": "Sion",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Winterthur",
+      "teamB": "Thun",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Maritimo",
+      "teamB": "Benfica B",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Zambia",
+      "teamB": "DR Congo",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Egypt",
+      "teamB": "Nigeria",
+      "prediction": "HOME WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Deportes Tolima",
+      "teamB": "Junior",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Blooming",
+      "teamB": "Bolivar",
+      "prediction": "AWAY WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "The Strongest",
+      "teamB": "Nacional Potosi",
+      "prediction": "HOME WIN",
+      "odds": "1.45",
+      "results": "Win"
+    },
+    {
+      "teamA": "Cardiff Met University",
+      "teamB": "Briton Ferry",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Guadalajara",
+      "teamB": "Barcelona",
+      "prediction": "AWAY WIN",
+      "odds": "1.80",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Monday, 15th December 2025",
   "gamesList": [
     {
