@@ -59,7 +59,7 @@
     "id": "y5z6a7b8-5y5y-5y5y-c5y5-5y5y5y5y5y05",
     "teamA": {
       "name": "Borussia Dortmund",
-      "icon": "https://example.com/icons/dortmund.png"
+      "icon": "https://example.com/icons/rbleipzig.png"
     },
     "teamB": {
       "name": "Mainz 05",
@@ -91,7 +91,7 @@
     },
     "teamB": {
       "name": "Monaco",
-      "icon": "https://example.com/icons/monaco.png
-
-
+      "icon": "https://example.com/icons/monaco.png"
+    }
+}
 ]
