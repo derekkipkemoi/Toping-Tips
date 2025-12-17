@@ -23,17 +23,17 @@
       "name": "Basic",
       "prices": [
         {
-          "amount": 1,
+          "amount": 200,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 3,
+          "amount": 500,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 8,
+          "amount": 1500,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -56,17 +56,17 @@
       "name": "Premium",
       "prices": [
         {
-          "amount": 2,
+          "amount": 300,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 5,
+          "amount": 900,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 15,
+          "amount": 2500,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -90,17 +90,17 @@
       "name": "Jackpot",
       "prices": [
         {
-          "amount": 2,
+          "amount": 300,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 6,
+          "amount": 1000,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 20,
+          "amount": 3000,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -123,17 +123,17 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 2,
+          "amount": 500,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 6,
+          "amount": 1500,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 18,
+          "amount": 4000,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
