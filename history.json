@@ -2,6 +2,55 @@
   {
   "date": "Wednesday, 17th December 2025",
   "gamesList": [
+     {
+      "teamA": "Manchester City",
+      "teamB": "Brentford",
+      "prediction": "3-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Arsenal",
+      "teamB": "Crystal Palace",
+      "prediction": "2-0",
+      "odds": "7.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Liverpool",
+      "teamB": "West Ham United",
+      "prediction": "4-1",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Chelsea",
+      "teamB": "Brighton",
+      "prediction": "3-0",
+      "odds": "10.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Tottenham",
+      "teamB": "Southampton",
+      "prediction": "2-1",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Newcastle United",
+      "teamB": "Leicester City",
+      "prediction": "3-2",
+      "odds": "15.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Aston Villa",
+      "teamB": "Nottingham Forest",
+      "prediction": "2-0",
+      "odds": "8.50",
+      "results": "Win"
+    },
     {
       "teamA": "Manchester City",
       "teamB": "Brentford",
