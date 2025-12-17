@@ -1,5 +1,129 @@
 [
   {
+  "date": "Wednesday, 17th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Manchester City",
+      "teamB": "Brentford",
+      "prediction": "HOME WIN",
+      "odds": "1.35",
+      "results": "Win"
+    },
+    {
+      "teamA": "Arsenal",
+      "teamB": "Crystal Palace",
+      "prediction": "HOME WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Liverpool",
+      "teamB": "West Ham United",
+      "prediction": "HOME WIN",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Chelsea",
+      "teamB": "Brighton",
+      "prediction": "HOME WIN",
+      "odds": "1.65",
+      "results": "Win"
+    },
+    {
+      "teamA": "Tottenham",
+      "teamB": "Southampton",
+      "prediction": "HOME WIN",
+      "odds": "1.55",
+      "results": "Win"
+    },
+    {
+      "teamA": "Newcastle United",
+      "teamB": "Leicester City",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Aston Villa",
+      "teamB": "Nottingham Forest",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Everton",
+      "teamB": "Fulham",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Real Madrid",
+      "teamB": "Athletic Bilbao",
+      "prediction": "HOME WIN",
+      "odds": "1.45",
+      "results": "Win"
+    },
+    {
+      "teamA": "Barcelona",
+      "teamB": "Leganes",
+      "prediction": "HOME WIN",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Atletico Madrid",
+      "teamB": "Getafe",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bayern Munich",
+      "teamB": "RB Leipzig",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Juventus",
+      "teamB": "Lazio",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "PSG",
+      "teamB": "Monaco",
+      "prediction": "HOME WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Inter Milan",
+      "teamB": "Napoli",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Porto",
+      "teamB": "Sporting CP",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Ajax",
+      "teamB": "PSV Eindhoven",
+      "prediction": "AWAY WIN",
+      "odds": "2.10",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Tuesday, 16th December 2025",
   "gamesList": [
     {
