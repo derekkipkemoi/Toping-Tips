@@ -8,7 +8,7 @@
       "prices": []
     },
     "features": [
-      "1–5 Free Football Prediction Tips Every Day",
+      "1–2 Free Football Prediction Tips Every Day",
       "Test Our Accuracy with Real Match Picks",
       "Perfect Entry Point for New Bettors"
     ],
@@ -23,17 +23,17 @@
       "name": "Basic",
       "prices": [
         {
-          "amount": 200,
+          "amount": 2,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 500,
+          "amount": 5,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 1500,
+          "amount": 15,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -56,17 +56,17 @@
       "name": "Premium",
       "prices": [
         {
-          "amount": 300,
+          "amount": 3,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 900,
+          "amount": 9,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 2500,
+          "amount": 25,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -90,17 +90,17 @@
       "name": "Jackpot",
       "prices": [
         {
-          "amount": 300,
+          "amount": 3,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 1000,
+          "amount": 10,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 3000,
+          "amount": 30,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -123,17 +123,17 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 500,
+          "amount": 5,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 1500,
+          "amount": 15,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 4000,
+          "amount": 40,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
