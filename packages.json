@@ -8,9 +8,8 @@
       "prices": []
     },
     "features": [
-      "1–2 Free Football Prediction Tips Every Day",
-      "Test Our Accuracy with Real Match Picks",
-      "Perfect Entry Point for New Bettors"
+      "1-2 Free Tips Daily",
+      "Contains Ads"
     ],
     "type": "FREE",
     "isMostPopular": false
@@ -23,27 +22,27 @@
       "name": "Basic",
       "prices": [
         {
-          "amount": 0.5,
+          "amount": 1,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 2,
+          "amount": 3,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 6,
+          "amount": 9,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
       ]
     },
     "features": [
-      "5–10 Carefully Selected Football Tips Daily",
-      "Smart Picks Backed by Match Statistics",
-      "Consistent Low-Risk Betting Opportunities",
-      "Reliable Support Whenever You Need Help"
+      "5-10 Basic Tips Daily",
+      "Win Rate Analysis",
+      "Ad-Free Experience",
+      "24/7 Support"
     ],
     "type": "BASIC",
     "isMostPopular": false
@@ -56,28 +55,28 @@
       "name": "Premium",
       "prices": [
         {
-          "amount": 1,
+          "amount": 2,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 4,
+          "amount": 6,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 12,
+          "amount": 18,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
       ]
     },
     "features": [
-      "15–30 High-Confidence Football Predictions Daily",
-      "Elite Match Selection with Higher Success Rates",
-      "Advanced Win Trend & Performance Insights",
-      "Built for High-Stakes and Serious Bettors",
-      "Priority Support for Premium Members"
+      "15-30 Premium Tips Daily",
+      "Higher Win Probability",
+      "Win Rate Analysis",
+      "Ad-Free Experience",
+      "24/7 Support"
     ],
     "type": "PREMIUM",
     "isMostPopular": true
@@ -90,27 +89,27 @@
       "name": "Jackpot",
       "prices": [
         {
-          "amount": 1.5,
+          "amount": 3,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 5,
+          "amount": 9,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 15,
+          "amount": 25,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
       ]
     },
     "features": [
-      "Powerful Jackpot Predictions with Massive Odds",
-      "Expertly Built Multi-Match Combinations",
-      "High-Risk, High-Reward Betting Strategies",
-      "Exclusive Picks Designed for Big Wins"
+      "Weekly Jackpot Analysis",
+      "Bonus Combinations",
+      "Expert Commentary",
+      "Exclusive Jackpot Predictions"
     ],
     "type": "JACKPOT",
     "isMostPopular": false
@@ -123,27 +122,27 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 1.5,
+          "amount": 3,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 5,
+          "amount": 8,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 14,
+          "amount": 21,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
       ]
     },
     "features": [
-      "Precise Correct Score Football Predictions",
-      "Deep Match Breakdown & Tactical Analysis",
-      "Clear Risk-Level Indicators per Match",
-      "Ideal for Advanced and Strategic Bettors"
+      "Daily Correct Score Predictions",
+      "Risk Assessment Insights",
+      "Expert Match Analysis",
+      "Ad-Free Access"
     ],
     "type": "CORRECT_SCORE",
     "isMostPopular": false
