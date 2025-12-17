@@ -40,33 +40,5 @@
     "leagueName": "La Liga",
     "prediction": "DRAW",
     "date": "2025-12-17"
-  },
-  {
-    "id": "x4y5z6a7-4x4x-4x4x-b4x4-4x4x4x4x4x04",
-    "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://example.com/icons/bayern.png"
-    },
-    "teamB": {
-      "name": "RB Leipzig",
-      "icon": "https://example.com/icons/rbleipzig.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-17"
-  },
-  {
-    "id": "y5z6a7b8-5y5y-5y5y-c5y5-5y5y5y5y5y05",
-    "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://example.com/icons/dortmund.png"
-    },
-    "teamB": {
-      "name": "Mainz 05",
-      "icon": "https://example.com/icons/mainz.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-17"
   }
 ]
