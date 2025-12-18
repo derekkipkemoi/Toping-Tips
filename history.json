@@ -4,6 +4,48 @@
     {
       "teamA": "Sabah FK",
       "teamB": "Qarabag",
+      "prediction": "2-1",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Dynamo Kyiv",
+      "teamB": "Noah",
+      "prediction": "1-0",
+      "odds": "6.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Napoli",
+      "teamB": "AC Milan",
+      "prediction": "2-0",
+      "odds": "10.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "United Arab Emirates",
+      "teamB": "Kuwait",
+      "prediction": "3-1",
+      "odds": "15.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Algeria",
+      "teamB": "Iraq",
+      "prediction": "2-0",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bahrain",
+      "teamB": "Sudan",
+      "prediction": "3-1",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sabah FK",
+      "teamB": "Qarabag",
       "prediction": "AWAY WIN",
       "odds": "1.80",
       "results": "Lost"
