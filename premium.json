@@ -1,283 +1,283 @@
 [
   {
-    "id": "conf01",
+    "id": "dec19_01",
     "teamA": {
-      "name": "Mainz",
-      "icon": "https://example.com/icons/mainz.png"
+      "name": "Galatasaray",
+      "icon": "https://example.com/icons/galatasaray.png"
     },
     "teamB": {
-      "name": "Samsunspor",
-      "icon": "https://example.com/icons/samsunspor.png"
+      "name": "Istanbul Basaksehir",
+      "icon": "https://example.com/icons/basaksehir.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Turkish Super Lig",
     "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf02",
+    "id": "dec19_02",
     "teamA": {
-      "name": "Sparta Prague",
-      "icon": "https://example.com/icons/spartaprague.png"
+      "name": "Estoril Praia",
+      "icon": "https://example.com/icons/estoril.png"
     },
     "teamB": {
-      "name": "Aberdeen",
-      "icon": "https://example.com/icons/aberdeen.png"
+      "name": "Sporting Braga",
+      "icon": "https://example.com/icons/braga.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf03",
-    "teamA": {
-      "name": "AEK Athens",
-      "icon": "https://example.com/icons/aekathens.png"
-    },
-    "teamB": {
-      "name": "CS Universitatea Craiova",
-      "icon": "https://example.com/icons/craiova.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf04",
-    "teamA": {
-      "name": "AEK Larnaca",
-      "icon": "https://example.com/icons/aeklarnaca.png"
-    },
-    "teamB": {
-      "name": "Shkendija Tetovo",
-      "icon": "https://example.com/icons/shkendija.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf05",
-    "teamA": {
-      "name": "AZ Alkmaar",
-      "icon": "https://example.com/icons/azalkmaar.png"
-    },
-    "teamB": {
-      "name": "Jagiellonia Bialystok",
-      "icon": "https://example.com/icons/jagiellonia.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf06",
-    "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
-    },
-    "teamB": {
-      "name": "KuPS Kuopio",
-      "icon": "https://example.com/icons/kups.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf07",
-    "teamA": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://example.com/icons/shakhtardonetsk.png"
-    },
-    "teamB": {
-      "name": "Rijeka",
-      "icon": "https://example.com/icons/rijeka.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf08",
-    "teamA": {
-      "name": "Dynamo Kyiv",
-      "icon": "https://example.com/icons/dynamokyiv.png"
-    },
-    "teamB": {
-      "name": "Noah",
-      "icon": "https://example.com/icons/noah.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf09",
-    "teamA": {
-      "name": "Lausanne Sports",
-      "icon": "https://example.com/icons/lausannesports.png"
-    },
-    "teamB": {
-      "name": "Fiorentina",
-      "icon": "https://example.com/icons/fiorentina.png"
-    },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Primeira Liga",
     "prediction": "AWAY WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf10",
+    "id": "dec19_03",
     "teamA": {
-      "name": "Zrinjski Mostar",
-      "icon": "https://example.com/icons/zrinjskimostar.png"
+      "name": "Santa Clara",
+      "icon": "https://example.com/icons/santaclara.png"
     },
     "teamB": {
-      "name": "SK Rapid Wien",
-      "icon": "https://example.com/icons/skrapidwien.png"
+      "name": "Sporting CP",
+      "icon": "https://example.com/icons/sportingcp.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Primeira Liga",
     "prediction": "AWAY WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf11",
+    "id": "dec19_04",
     "teamA": {
-      "name": "Legia Warsaw",
-      "icon": "https://example.com/icons/legiawarsaw.png"
+      "name": "Valencia",
+      "icon": "https://example.com/icons/valencia.png"
     },
     "teamB": {
-      "name": "Lincoln Red Imps",
-      "icon": "https://example.com/icons/lincolnredimps.png"
+      "name": "Mallorca",
+      "icon": "https://example.com/icons/mallorca.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "La Liga",
     "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf12",
+    "id": "dec19_05",
     "teamA": {
-      "name": "NK Celje",
-      "icon": "https://example.com/icons/nkcelje.png"
+      "name": "Diósgyőri VTK",
+      "icon": "https://example.com/icons/diosgyor.png"
     },
     "teamB": {
-      "name": "Shelbourne",
-      "icon": "https://example.com/icons/shelbourne.png"
+      "name": "Ferencváros",
+      "icon": "https://example.com/icons/ferencvaros.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "leagueName": "Hungarian NB I",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-19"
   },
   {
-    "id": "conf13",
+    "id": "dec19_06",
     "teamA": {
-      "name": "Omonia Nicosia",
-      "icon": "https://example.com/icons/omonianicosia.png"
+      "name": "Patro Eisden Maasmechelen",
+      "icon": "https://example.com/icons/patroeisden.png"
     },
     "teamB": {
-      "name": "Raków Czestochowa",
-      "icon": "https://example.com/icons/rakowczestochowa.png"
+      "name": "KAS Eupen",
+      "icon": "https://example.com/icons/eupen.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Belgian Challenger Pro League",
     "prediction": "DRAW",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf14",
+    "id": "dec19_07",
     "teamA": {
-      "name": "Strasbourg",
-      "icon": "https://example.com/icons/strasbourg.png"
+      "name": "Hibernians",
+      "icon": "https://example.com/icons/hibernians.png"
     },
     "teamB": {
-      "name": "Ungmennafelagid Breidablik",
-      "icon": "https://example.com/icons/breidablik.png"
+      "name": "Santa Lucia",
+      "icon": "https://example.com/icons/santalucia.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Maltese Premier League",
     "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf15",
+    "id": "dec19_08",
     "teamA": {
-      "name": "Rayo Vallecano",
-      "icon": "https://example.com/icons/rayovallecano.png"
+      "name": "Al Khaleej",
+      "icon": "https://example.com/icons/alkhaleej.png"
     },
     "teamB": {
-      "name": "Drita Gjilan",
-      "icon": "https://example.com/icons/dritagjilan.png"
+      "name": "Al Ahli",
+      "icon": "https://example.com/icons/alahli.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf16",
-    "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": "https://example.com/icons/shamrockrovers.png"
-    },
-    "teamB": {
-      "name": "Hamrun Spartans",
-      "icon": "https://example.com/icons/hamrunspartans.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
-  },
-  {
-    "id": "conf17",
-    "teamA": {
-      "name": "Sigma Olomouc",
-      "icon": "https://example.com/icons/sigmaolomouc.png"
-    },
-    "teamB": {
-      "name": "Lech Poznan",
-      "icon": "https://example.com/icons/lechpoznan.png"
-    },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Saudi Pro League",
     "prediction": "AWAY WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf18",
+    "id": "dec19_09",
     "teamA": {
-      "name": "SK Slovan Bratislava",
-      "icon": "https://example.com/icons/skslovanbratislava.png"
+      "name": "Al Qadsiah",
+      "icon": "https://example.com/icons/alqadsiah.png"
     },
     "teamB": {
-      "name": "Hacken",
-      "icon": "https://example.com/icons/hacken.png"
+      "name": "Al Nassr",
+      "icon": "https://example.com/icons/alnassr.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Saudi Pro League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_10",
+    "teamA": {
+      "name": "Al Fateh",
+      "icon": "https://example.com/icons/alfateh.png"
+    },
+    "teamB": {
+      "name": "Al Hilal",
+      "icon": "https://example.com/icons/alhilal.png"
+    },
+    "leagueName": "Saudi Pro League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_11",
+    "teamA": {
+      "name": "MB Rouisset",
+      "icon": "https://example.com/icons/mbrouisset.png"
+    },
+    "teamB": {
+      "name": "MC Alger",
+      "icon": "https://example.com/icons/mcalger.png"
+    },
+    "leagueName": "Algerian Ligue 1",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_12",
+    "teamA": {
+      "name": "ASO Chlef",
+      "icon": "https://example.com/icons/asochlef.png"
+    },
+    "teamB": {
+      "name": "MC Oran",
+      "icon": "https://example.com/icons/mcoran.png"
+    },
+    "leagueName": "Algerian Ligue 1",
     "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "supercup01",
+    "id": "dec19_13",
     "teamA": {
-      "name": "Napoli",
-      "icon": "https://example.com/icons/napoli.png"
+      "name": "USM Alger",
+      "icon": "https://example.com/icons/usmalger.png"
     },
     "teamB": {
-      "name": "AC Milan",
-      "icon": "https://example.com/icons/acmilan.png"
+      "name": "Ben Aknoun",
+      "icon": "https://example.com/icons/benaknoun.png"
     },
-    "leagueName": "Italian Super Cup",
+    "leagueName": "Algerian Ligue 1",
+    "prediction": "HOME WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_14",
+    "teamA": {
+      "name": "Gor Mahia",
+      "icon": "https://example.com/icons/gormahia.png"
+    },
+    "teamB": {
+      "name": "Kakamega Homeboyz",
+      "icon": "https://example.com/icons/homeboyz.png"
+    },
+    "leagueName": "Kenyan Premier League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_15",
+    "teamA": {
+      "name": "Al Hilal Omdurman",
+      "icon": "https://example.com/icons/alhilalomdurman.png"
+    },
+    "teamB": {
+      "name": "Other Team",
+      "icon": "https://example.com/icons/other.png"
+    },
+    "leagueName": "Sudanese Premier League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_16",
+    "teamA": {
+      "name": "Team from Qatar Stars League",
+      "icon": "https://example.com/icons/qatar.png"
+    },
+    "teamB": {
+      "name": "Opponent",
+      "icon": "https://example.com/icons/opponent.png"
+    },
+    "leagueName": "Qatar Stars League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_17",
+    "teamA": {
+      "name": "Team from UAE Pro League",
+      "icon": "https://example.com/icons/uae.png"
+    },
+    "teamB": {
+      "name": "Opponent",
+      "icon": "https://example.com/icons/opponent.png"
+    },
+    "leagueName": "UAE Pro League",
     "prediction": "DRAW",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "copadelrey01",
+    "id": "dec19_18",
     "teamA": {
-      "name": "Burgos CF",
-      "icon": "https://example.com/icons/burgoscf.png"
+      "name": "Lower League Team 1",
+      "icon": "https://example.com/icons/lower.png"
     },
     "teamB": {
-      "name": "Getafe",
-      "icon": "https://example.com/icons/getafe.png"
+      "name": "Lower League Team 2",
+      "icon": "https://example.com/icons/lower.png"
     },
-    "leagueName": "Spanish Copa del Rey",
+    "leagueName": "Various Lower Leagues",
+    "prediction": "HOME WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_19",
+    "teamA": {
+      "name": "African League Team",
+      "icon": "https://example.com/icons/african.png"
+    },
+    "teamB": {
+      "name": "Opponent",
+      "icon": "https://example.com/icons/opponent.png"
+    },
+    "leagueName": "African Domestic Leagues",
+    "prediction": "HOME WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec19_20",
+    "teamA": {
+      "name": "Asian League Team",
+      "icon": "https://example.com/icons/asian.png"
+    },
+    "teamB": {
+      "name": "Rival",
+      "icon": "https://example.com/icons/rival.png"
+    },
+    "leagueName": "Asian Leagues",
     "prediction": "AWAY WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   }
 ]
 
