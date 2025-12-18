@@ -1,44 +1,44 @@
 [
-    {
-    "id": "conf06",
+      {
+    "id": "dec19_06",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
+      "name": "Patro Eisden Maasmechelen",
+      "icon": "https://example.com/icons/patroeisden.png"
     },
     "teamB": {
-      "name": "KuPS Kuopio",
-      "icon": "https://example.com/icons/kups.png"
+      "name": "KAS Eupen",
+      "icon": "https://example.com/icons/eupen.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "leagueName": "Belgian Challenger Pro League",
+    "prediction": "DRAW",
+    "date": "2025-12-19"
   },
   {
-    "id": "conf07",
+    "id": "dec19_07",
     "teamA": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://example.com/icons/shakhtardonetsk.png"
+      "name": "Hibernians",
+      "icon": "https://example.com/icons/hibernians.png"
     },
     "teamB": {
-      "name": "Rijeka",
-      "icon": "https://example.com/icons/rijeka.png"
+      "name": "Santa Lucia",
+      "icon": "https://example.com/icons/santalucia.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Maltese Premier League",
     "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "date": "2025-12-19"
   },
   {
-    "id": "conf08",
+    "id": "dec19_08",
     "teamA": {
-      "name": "Dynamo Kyiv",
-      "icon": "https://example.com/icons/dynamokyiv.png"
+      "name": "Al Khaleej",
+      "icon": "https://example.com/icons/alkhaleej.png"
     },
     "teamB": {
-      "name": "Noah",
-      "icon": "https://example.com/icons/noah.png"
+      "name": "Al Ahli",
+      "icon": "https://example.com/icons/alahli.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-18"
+    "leagueName": "Saudi Pro League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-19"
   }
 ]
