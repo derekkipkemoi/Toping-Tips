@@ -1,4 +1,113 @@
-[
+[{
+  "date": "Thursday, 18th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Sabah FK",
+      "teamB": "Qarabag",
+      "prediction": "AWAY WIN",
+      "odds": "1.80",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Dynamo Kyiv",
+      "teamB": "Noah",
+      "prediction": "HOME WIN",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Crystal Palace",
+      "teamB": "KuPS",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Napoli",
+      "teamB": "AC Milan",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mainz 05",
+      "teamB": "Samsunspor",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "AEK Larnaca",
+      "teamB": "Universitatea Craiova",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "St. Gallen",
+      "teamB": "Sion",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "United Arab Emirates",
+      "teamB": "Kuwait",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Algeria",
+      "teamB": "Iraq",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bahrain",
+      "teamB": "Sudan",
+      "prediction": "HOME WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "MB Rouisset",
+      "teamB": "MC Alger",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "ASO Chlef",
+      "teamB": "MC Oran",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "USM Alger",
+      "teamB": "Ben Aknoun",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "AEL Limassol",
+      "teamB": "Shkendija",
+      "prediction": "HOME WIN",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "teamA": "Winterthur",
+      "teamB": "Thun",
+      "prediction": "HOME WIN",
+      "odds": "2.15",
+      "results": "Win"
+    }
+  ]
+},
   {
   "date": "Wednesday, 17th December 2025",
   "gamesList": [
