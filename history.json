@@ -1,4 +1,150 @@
-[{
+[
+  {
+  "date": "Friday, 19th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Valencia",
+      "teamB": "Mallorca",
+      "prediction": "0-1",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bologna",
+      "teamB": "Inter Milan",
+      "prediction": "1-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Borussia Dortmund",
+      "teamB": "Borussia Mönchengladbach",
+      "prediction": "3-1",
+      "odds": "11.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Swansea City",
+      "teamB": "Wrexham",
+      "prediction": "2-1",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "GD Estoril Praia",
+      "teamB": "Braga",
+      "prediction": "0-2",
+      "odds": "10.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Les Herbiers",
+      "teamB": "Angers",
+      "prediction": "AWAY WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Avranches",
+      "teamB": "Brest",
+      "prediction": "AWAY WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Guingamp",
+      "teamB": "Laval",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Croix IC",
+      "teamB": "Reims",
+      "prediction": "AWAY WIN",
+      "odds": "1.45",
+      "results": "Win"
+    },
+    {
+      "teamA": "Canet Roussillon",
+      "teamB": "Montpellier",
+      "prediction": "AWAY WIN",
+      "odds": "1.55",
+      "results": "Win"
+    },
+    {
+      "teamA": "Périgny",
+      "teamB": "Le Mans",
+      "prediction": "AWAY WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Lens",
+      "teamB": "Feignies-Aulnoye",
+      "prediction": "HOME WIN",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Botoșani",
+      "teamB": "CFR Cluj",
+      "prediction": "AWAY WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Kocaelispor",
+      "teamB": "Antalyaspor",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Charleroi",
+      "teamB": "Genk",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Saint-Pryvé Saint-Hilaire",
+      "teamB": "Nantes",
+      "prediction": "AWAY WIN",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Plabennec",
+      "teamB": "Rennes",
+      "prediction": "AWAY WIN",
+      "odds": "1.35",
+      "results": "Win"
+    },
+    {
+      "teamA": "Vertou",
+      "teamB": "Toulouse",
+      "prediction": "AWAY WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Golden Lion",
+      "teamB": "Lille",
+      "prediction": "AWAY WIN",
+      "odds": "1.25",
+      "results": "Win"
+    },
+    {
+      "teamA": "US Sainte-Marienne",
+      "teamB": "Strasbourg",
+      "prediction": "AWAY WIN",
+      "odds": "1.30",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Thursday, 18th December 2025",
   "gamesList": [
     {
