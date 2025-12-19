@@ -1,44 +1,44 @@
 [
       {
-    "id": "dec19_06",
+    "id": "dec20_11",
     "teamA": {
-      "name": "Patro Eisden Maasmechelen",
-      "icon": "https://example.com/icons/patroeisden.png"
+      "name": "Juventus",
+      "icon": "https://example.com/icons/juventus.png"
     },
     "teamB": {
-      "name": "KAS Eupen",
-      "icon": "https://example.com/icons/eupen.png"
+      "name": "AS Roma",
+      "icon": "https://example.com/icons/roma.png"
     },
-    "leagueName": "Belgian Challenger Pro League",
+    "leagueName": "Serie A",
     "prediction": "DRAW",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_07",
+    "id": "dec20_12",
     "teamA": {
-      "name": "Hibernians",
-      "icon": "https://example.com/icons/hibernians.png"
+      "name": "Borussia Dortmund",
+      "icon": "https://example.com/icons/dortmund.png"
     },
     "teamB": {
-      "name": "Santa Lucia",
-      "icon": "https://example.com/icons/santalucia.png"
+      "name": "Borussia Mönchengladbach",
+      "icon": "https://example.com/icons/gladbach.png"
     },
-    "leagueName": "Maltese Premier League",
+    "leagueName": "Bundesliga",
     "prediction": "HOME WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_08",
+    "id": "dec20_13",
     "teamA": {
-      "name": "Al Khaleej",
-      "icon": "https://example.com/icons/alkhaleej.png"
+      "name": "VfL Wolfsburg",
+      "icon": "https://example.com/icons/wolfsburg.png"
     },
     "teamB": {
-      "name": "Al Ahli",
-      "icon": "https://example.com/icons/alahli.png"
+      "name": "SC Freiburg",
+      "icon": "https://example.com/icons/freiburg.png"
     },
-    "leagueName": "Saudi Pro League",
+    "leagueName": "Bundesliga",
     "prediction": "AWAY WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   }
 ]
