@@ -56,17 +56,17 @@
       "name": "Jackpot",
       "prices": [
         {
-          "amount": 3,
+          "amount": 4,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 9,
+          "amount": 10,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 15,
+          "amount": 25,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
