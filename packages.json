@@ -48,6 +48,72 @@
     "type": "BASIC",
     "isMostPopular": false
   },
+    {
+    "id": "jackpot",
+    "title": "Jackpot",
+    "subtitle": "For Big Wins",
+    "price": {
+      "name": "Jackpot",
+      "prices": [
+        {
+          "amount": 3,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 10,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 30,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "Powerful Jackpot Predictions with Massive Odds",
+      "Expertly Built Multi-Match Combinations",
+      "High-Risk, High-Reward Betting Strategies",
+      "Exclusive Picks Designed for Big Wins"
+    ],
+    "type": "JACKPOT",
+    "isMostPopular": false
+  },
+    {
+    "id": "correct",
+    "title": "Correct Score",
+    "subtitle": "High Precision Tips",
+    "price": {
+      "name": "Correct Score",
+      "prices": [
+        {
+          "amount": 5,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 10,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 20,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "Precise Correct Score Football Predictions",
+      "Deep Match Breakdown & Tactical Analysis",
+      "Clear Risk-Level Indicators per Match",
+      "Ideal for Advanced and Strategic Bettors"
+    ],
+    "type": "CORRECT_SCORE",
+    "isMostPopular": false
+  },
   {
     "id": "premium",
     "title": "Premium",
@@ -81,38 +147,5 @@
     ],
     "type": "PREMIUM",
     "isMostPopular": true
-  },
-  {
-    "id": "correct",
-    "title": "Correct Score",
-    "subtitle": "High Precision Tips",
-    "price": {
-      "name": "Correct Score",
-      "prices": [
-        {
-          "amount": 5,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 10,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 20,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
-    },
-    "features": [
-      "Precise Correct Score Football Predictions",
-      "Deep Match Breakdown & Tactical Analysis",
-      "Clear Risk-Level Indicators per Match",
-      "Ideal for Advanced and Strategic Bettors"
-    ],
-    "type": "CORRECT_SCORE",
-    "isMostPopular": false
   }
 ]
