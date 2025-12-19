@@ -1,1 +1,240 @@
-[]
+[
+  {
+    "id": "dec20_01",
+    "teamA": {
+      "name": "Queens Park Rangers",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Leicester City",
+      "icon": ""
+    },
+    "leagueName": "England",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_02",
+    "teamA": {
+      "name": "Osasuna",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Deportivo Alaves",
+      "icon": ""
+    },
+    "leagueName": "Spain",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_03",
+    "teamA": {
+      "name": "Leeds United",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Crystal Palace",
+      "icon": ""
+    },
+    "leagueName": "England",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_04",
+    "teamA": {
+      "name": "Estrela Amadora",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Moreirense FC",
+      "icon": ""
+    },
+    "leagueName": "Spain",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec21_05",
+    "teamA": {
+      "name": "Malaga CF",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "UD Almeria",
+      "icon": ""
+    },
+    "leagueName": "Spain",
+    "prediction": "DRAW",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_06",
+    "teamA": {
+      "name": "Go Ahead Eagles",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "FC Groningen",
+      "icon": ""
+    },
+    "leagueName": "Netherlands",
+    "prediction": "HOME WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_07",
+    "teamA": {
+      "name": "Sassuolo Calcio",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Torino FC",
+      "icon": ""
+    },
+    "leagueName": "Italy",
+    "prediction": "HOME WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_08",
+    "teamA": {
+      "name": "CD Mirandes",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Cordoba CF",
+      "icon": ""
+    },
+    "leagueName": "Spain",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_09",
+    "teamA": {
+      "name": "AE Larrisa FC",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Atromitos Athinon",
+      "icon": ""
+    },
+    "leagueName": "Greece",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_10",
+    "teamA": {
+      "name": "AVS Futebol SAD",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Nacional da Madeira",
+      "icon": ""
+    },
+    "leagueName": "Portugal",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_11",
+    "teamA": {
+      "name": "FC Volendam",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Sparta Rotterdam",
+      "icon": ""
+    },
+    "leagueName": "Netherlands",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_12",
+    "teamA": {
+      "name": "Mantova 1911",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Empoli FC",
+      "icon": ""
+    },
+    "leagueName": "Italy",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec21_13",
+    "teamA": {
+      "name": "Royal Antwerp FC",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "RSC Anderlecht",
+      "icon": ""
+    },
+    "leagueName": "Belgium",
+    "prediction": "DRAW",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_14",
+    "teamA": {
+      "name": "Elche CF",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Rayo Vallecano",
+      "icon": ""
+    },
+    "leagueName": "Spain",
+    "prediction": "DRAW",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_15",
+    "teamA": {
+      "name": "Oud-Heverlee Leuven",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Cercle Brugge",
+      "icon": ""
+    },
+    "leagueName": "Belgium",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-19"
+  },
+  {
+    "id": "dec21_16",
+    "teamA": {
+      "name": "FC Viktoria Cologne",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "MSV Duisburg",
+      "icon": ""
+    },
+    "leagueName": "Germany",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_17",
+    "teamA": {
+      "name": "Cadiz CF",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "CD Castellon",
+      "icon": ""
+    },
+    "leagueName": "Spain",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-21"
+  }
+]
