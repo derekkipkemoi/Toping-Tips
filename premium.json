@@ -1,283 +1,283 @@
 [
   {
-    "id": "dec19_01",
+    "id": "dec20_01",
     "teamA": {
-      "name": "Galatasaray",
-      "icon": "https://example.com/icons/galatasaray.png"
+      "name": "Newcastle United",
+      "icon": "https://example.com/icons/newcastle.png"
     },
     "teamB": {
-      "name": "Istanbul Basaksehir",
-      "icon": "https://example.com/icons/basaksehir.png"
+      "name": "Chelsea",
+      "icon": "https://example.com/icons/chelsea.png"
     },
-    "leagueName": "Turkish Super Lig",
+    "leagueName": "Premier League",
+    "prediction": "DRAW",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_02",
+    "teamA": {
+      "name": "AFC Bournemouth",
+      "icon": "https://example.com/icons/bournemouth.png"
+    },
+    "teamB": {
+      "name": "Burnley",
+      "icon": "https://example.com/icons/burnley.png"
+    },
+    "leagueName": "Premier League",
     "prediction": "HOME WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_02",
+    "id": "dec20_03",
     "teamA": {
-      "name": "Estoril Praia",
-      "icon": "https://example.com/icons/estoril.png"
+      "name": "Brighton & Hove Albion",
+      "icon": "https://example.com/icons/brighton.png"
     },
     "teamB": {
-      "name": "Sporting Braga",
-      "icon": "https://example.com/icons/braga.png"
+      "name": "Sunderland",
+      "icon": "https://example.com/icons/sunderland.png"
     },
-    "leagueName": "Primeira Liga",
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_04",
+    "teamA": {
+      "name": "Manchester City",
+      "icon": "https://example.com/icons/mancity.png"
+    },
+    "teamB": {
+      "name": "West Ham United",
+      "icon": "https://example.com/icons/westham.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_05",
+    "teamA": {
+      "name": "Wolverhampton Wanderers",
+      "icon": "https://example.com/icons/wolves.png"
+    },
+    "teamB": {
+      "name": "Brentford",
+      "icon": "https://example.com/icons/brentford.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "DRAW",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_06",
+    "teamA": {
+      "name": "Tottenham Hotspur",
+      "icon": "https://example.com/icons/tottenham.png"
+    },
+    "teamB": {
+      "name": "Liverpool",
+      "icon": "https://example.com/icons/liverpool.png"
+    },
+    "leagueName": "Premier League",
     "prediction": "AWAY WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_03",
+    "id": "dec20_07",
     "teamA": {
-      "name": "Santa Clara",
-      "icon": "https://example.com/icons/santaclara.png"
+      "name": "Everton",
+      "icon": "https://example.com/icons/everton.png"
     },
     "teamB": {
-      "name": "Sporting CP",
-      "icon": "https://example.com/icons/sportingcp.png"
+      "name": "Arsenal",
+      "icon": "https://example.com/icons/arsenal.png"
     },
-    "leagueName": "Primeira Liga",
+    "leagueName": "Premier League",
     "prediction": "AWAY WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_04",
+    "id": "dec20_08",
     "teamA": {
-      "name": "Valencia",
-      "icon": "https://example.com/icons/valencia.png"
+      "name": "Leeds United",
+      "icon": "https://example.com/icons/leeds.png"
     },
     "teamB": {
-      "name": "Mallorca",
-      "icon": "https://example.com/icons/mallorca.png"
+      "name": "Crystal Palace",
+      "icon": "https://example.com/icons/crystalpalace.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_09",
+    "teamA": {
+      "name": "Real Madrid",
+      "icon": "https://example.com/icons/realmadrid.png"
+    },
+    "teamB": {
+      "name": "Sevilla",
+      "icon": "https://example.com/icons/sevilla.png"
     },
     "leagueName": "La Liga",
     "prediction": "HOME WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_05",
+    "id": "dec20_10",
     "teamA": {
-      "name": "Diósgyőri VTK",
-      "icon": "https://example.com/icons/diosgyor.png"
+      "name": "Lazio",
+      "icon": "https://example.com/icons/lazio.png"
     },
     "teamB": {
-      "name": "Ferencváros",
-      "icon": "https://example.com/icons/ferencvaros.png"
+      "name": "Cremonese",
+      "icon": "https://example.com/icons/cremonese.png"
     },
-    "leagueName": "Hungarian NB I",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-19"
+    "leagueName": "Serie A",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_06",
+    "id": "dec20_11",
     "teamA": {
-      "name": "Patro Eisden Maasmechelen",
-      "icon": "https://example.com/icons/patroeisden.png"
+      "name": "Juventus",
+      "icon": "https://example.com/icons/juventus.png"
     },
     "teamB": {
-      "name": "KAS Eupen",
-      "icon": "https://example.com/icons/eupen.png"
+      "name": "AS Roma",
+      "icon": "https://example.com/icons/roma.png"
     },
-    "leagueName": "Belgian Challenger Pro League",
+    "leagueName": "Serie A",
     "prediction": "DRAW",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_07",
+    "id": "dec20_12",
     "teamA": {
-      "name": "Hibernians",
-      "icon": "https://example.com/icons/hibernians.png"
+      "name": "Borussia Dortmund",
+      "icon": "https://example.com/icons/dortmund.png"
     },
     "teamB": {
-      "name": "Santa Lucia",
-      "icon": "https://example.com/icons/santalucia.png"
+      "name": "Borussia Mönchengladbach",
+      "icon": "https://example.com/icons/gladbach.png"
     },
-    "leagueName": "Maltese Premier League",
+    "leagueName": "Bundesliga",
     "prediction": "HOME WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_08",
+    "id": "dec20_13",
     "teamA": {
-      "name": "Al Khaleej",
-      "icon": "https://example.com/icons/alkhaleej.png"
+      "name": "VfL Wolfsburg",
+      "icon": "https://example.com/icons/wolfsburg.png"
     },
     "teamB": {
-      "name": "Al Ahli",
-      "icon": "https://example.com/icons/alahli.png"
+      "name": "SC Freiburg",
+      "icon": "https://example.com/icons/freiburg.png"
     },
-    "leagueName": "Saudi Pro League",
+    "leagueName": "Bundesliga",
     "prediction": "AWAY WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_09",
+    "id": "dec20_14",
     "teamA": {
-      "name": "Al Qadsiah",
-      "icon": "https://example.com/icons/alqadsiah.png"
+      "name": "FC Augsburg",
+      "icon": "https://example.com/icons/augsburg.png"
     },
     "teamB": {
-      "name": "Al Nassr",
-      "icon": "https://example.com/icons/alnassr.png"
+      "name": "Werder Bremen",
+      "icon": "https://example.com/icons/werder.png"
     },
-    "leagueName": "Saudi Pro League",
+    "leagueName": "Bundesliga",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_15",
+    "teamA": {
+      "name": "VfB Stuttgart",
+      "icon": "https://example.com/icons/stuttgart.png"
+    },
+    "teamB": {
+      "name": "1899 Hoffenheim",
+      "icon": "https://example.com/icons/hoffenheim.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
+  },
+  {
+    "id": "dec20_16",
+    "teamA": {
+      "name": "Hamburger SV",
+      "icon": "https://example.com/icons/hamburg.png"
+    },
+    "teamB": {
+      "name": "Eintracht Frankfurt",
+      "icon": "https://example.com/icons/frankfurt.png"
+    },
+    "leagueName": "Bundesliga",
     "prediction": "AWAY WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_10",
+    "id": "dec20_17",
     "teamA": {
-      "name": "Al Fateh",
-      "icon": "https://example.com/icons/alfateh.png"
+      "name": "Real Oviedo",
+      "icon": "https://example.com/icons/oviedo.png"
     },
     "teamB": {
-      "name": "Al Hilal",
-      "icon": "https://example.com/icons/alhilal.png"
+      "name": "Celta Vigo",
+      "icon": "https://example.com/icons/celta.png"
     },
-    "leagueName": "Saudi Pro League",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "dec19_11",
-    "teamA": {
-      "name": "MB Rouisset",
-      "icon": "https://example.com/icons/mbrouisset.png"
-    },
-    "teamB": {
-      "name": "MC Alger",
-      "icon": "https://example.com/icons/mcalger.png"
-    },
-    "leagueName": "Algerian Ligue 1",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "dec19_12",
-    "teamA": {
-      "name": "ASO Chlef",
-      "icon": "https://example.com/icons/asochlef.png"
-    },
-    "teamB": {
-      "name": "MC Oran",
-      "icon": "https://example.com/icons/mcoran.png"
-    },
-    "leagueName": "Algerian Ligue 1",
-    "prediction": "HOME WIN",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "dec19_13",
-    "teamA": {
-      "name": "USM Alger",
-      "icon": "https://example.com/icons/usmalger.png"
-    },
-    "teamB": {
-      "name": "Ben Aknoun",
-      "icon": "https://example.com/icons/benaknoun.png"
-    },
-    "leagueName": "Algerian Ligue 1",
-    "prediction": "HOME WIN",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "dec19_14",
-    "teamA": {
-      "name": "Gor Mahia",
-      "icon": "https://example.com/icons/gormahia.png"
-    },
-    "teamB": {
-      "name": "Kakamega Homeboyz",
-      "icon": "https://example.com/icons/homeboyz.png"
-    },
-    "leagueName": "Kenyan Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "dec19_15",
-    "teamA": {
-      "name": "Al Hilal Omdurman",
-      "icon": "https://example.com/icons/alhilalomdurman.png"
-    },
-    "teamB": {
-      "name": "Other Team",
-      "icon": "https://example.com/icons/other.png"
-    },
-    "leagueName": "Sudanese Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "dec19_16",
-    "teamA": {
-      "name": "Team from Qatar Stars League",
-      "icon": "https://example.com/icons/qatar.png"
-    },
-    "teamB": {
-      "name": "Opponent",
-      "icon": "https://example.com/icons/opponent.png"
-    },
-    "leagueName": "Qatar Stars League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "dec19_17",
-    "teamA": {
-      "name": "Team from UAE Pro League",
-      "icon": "https://example.com/icons/uae.png"
-    },
-    "teamB": {
-      "name": "Opponent",
-      "icon": "https://example.com/icons/opponent.png"
-    },
-    "leagueName": "UAE Pro League",
+    "leagueName": "La Liga",
     "prediction": "DRAW",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_18",
+    "id": "dec20_18",
     "teamA": {
-      "name": "Lower League Team 1",
-      "icon": "https://example.com/icons/lower.png"
+      "name": "Atalanta",
+      "icon": "https://example.com/icons/atalanta.png"
     },
     "teamB": {
-      "name": "Lower League Team 2",
-      "icon": "https://example.com/icons/lower.png"
+      "name": "Hellas Verona",
+      "icon": "https://example.com/icons/verona.png"
     },
-    "leagueName": "Various Lower Leagues",
+    "leagueName": "Serie A",
     "prediction": "HOME WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_19",
+    "id": "dec20_19",
     "teamA": {
-      "name": "African League Team",
-      "icon": "https://example.com/icons/african.png"
+      "name": "Bayern Munich",
+      "icon": "https://example.com/icons/bayern.png"
     },
     "teamB": {
-      "name": "Opponent",
-      "icon": "https://example.com/icons/opponent.png"
+      "name": "RB Leipzig",
+      "icon": "https://example.com/icons/rbleipzig.png"
     },
-    "leagueName": "African Domestic Leagues",
+    "leagueName": "Bundesliga",
     "prediction": "HOME WIN",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
-    "id": "dec19_20",
+    "id": "dec20_20",
     "teamA": {
-      "name": "Asian League Team",
-      "icon": "https://example.com/icons/asian.png"
+      "name": "Juventus",
+      "icon": "https://example.com/icons/juventus.png"
     },
     "teamB": {
-      "name": "Rival",
-      "icon": "https://example.com/icons/rival.png"
+      "name": "Lazio",
+      "icon": "https://example.com/icons/lazio.png"
     },
-    "leagueName": "Asian Leagues",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-19"
+    "leagueName": "Serie A",
+    "prediction": "HOME WIN",
+    "date": "2025-12-20"
   }
-]
+] 
 
