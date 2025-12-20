@@ -1,44 +1,43 @@
 [
       {
-    "id": "dec20_11",
+    "id": "dec21_14",
     "teamA": {
-      "name": "Juventus",
-      "icon": "https://example.com/icons/juventus.png"
+      "name": "Metz",
+      "icon": "https://example.com/icons/metz.png"
     },
     "teamB": {
-      "name": "AS Roma",
-      "icon": "https://example.com/icons/roma.png"
+      "name": "Biesheim",
+      "icon": "https://example.com/icons/biesheim.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "DRAW",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "dec20_12",
-    "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://example.com/icons/dortmund.png"
-    },
-    "teamB": {
-      "name": "Borussia Mönchengladbach",
-      "icon": "https://example.com/icons/gladbach.png"
-    },
-    "leagueName": "Bundesliga",
+    "leagueName": "Coupe de France",
     "prediction": "HOME WIN",
-    "date": "2025-12-20"
+    "date": "2025-12-21"
   },
   {
-    "id": "dec20_13",
+    "id": "dec21_15",
     "teamA": {
-      "name": "VfL Wolfsburg",
-      "icon": "https://example.com/icons/wolfsburg.png"
+      "name": "Troyes",
+      "icon": "https://example.com/icons/troyes.png"
     },
     "teamB": {
-      "name": "SC Freiburg",
-      "icon": "https://example.com/icons/freiburg.png"
+      "name": "Olympique Marcquois",
+      "icon": "https://example.com/icons/marcquois.png"
     },
-    "leagueName": "Bundesliga",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-20"
-  }
-]
+    "leagueName": "Coupe de France",
+    "prediction": "HOME WIN",
+    "date": "2025-12-21"
+  },
+  {
+    "id": "dec21_16",
+    "teamA": {
+      "name": "Lille",
+      "icon": "https://example.com/icons/lille.png"
+    },
+    "teamB": {
+      "name": "US Lusitanos Saint-Maur",
+      "icon": "https://example.com/icons/lusitanos.png"
+    },
+    "leagueName": "Coupe de France",
+    "prediction": "HOME WIN",
+    "date": "2025-12-21"
+  }]
