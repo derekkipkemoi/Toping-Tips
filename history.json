@@ -1,5 +1,150 @@
 [
   {
+  "date": "Saturday, 20th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Newcastle United",
+      "teamB": "Chelsea",
+      "prediction": "2-2",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Manchester City",
+      "teamB": "West Ham United",
+      "prediction": "3-0",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Brighton & Hove Albion",
+      "teamB": "Sunderland",
+      "prediction": "0-0",
+      "odds": "10.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Tottenham Hotspur",
+      "teamB": "Liverpool",
+      "prediction": "HOME WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Everton",
+      "teamB": "Arsenal",
+      "prediction": "AWAY WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Leeds United",
+      "teamB": "Crystal Palace",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Real Madrid",
+      "teamB": "Sevilla",
+      "prediction": "HOME WIN",
+      "odds": "1.45",
+      "results": "Win"
+    },
+    {
+      "teamA": "Juventus",
+      "teamB": "Roma",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Fontenay Le Comte VF",
+      "teamB": "PSG",
+      "prediction": "AWAY WIN",
+      "odds": "1.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "NEC Nijmegen",
+      "teamB": "Ajax",
+      "prediction": "AWAY WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Gil Vicente",
+      "teamB": "Rio Ave",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Estrela da Amadora",
+      "teamB": "Moreirense",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "UTA Arad",
+      "teamB": "Dinamo București",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Olympiakos",
+      "teamB": "AE Kifisias",
+      "prediction": "HOME WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Union Saint-Gilloise",
+      "teamB": "Zulte Waregem",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Basel",
+      "teamB": "Servette",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Wellington Phoenix",
+      "teamB": "Central Coast Mariners",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Las Palmas",
+      "teamB": "Cultural Leonesa",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "NAC Breda",
+      "teamB": "Telstar",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Real Oviedo",
+      "teamB": "Celta Vigo",
+      "prediction": "AWAY WIN",
+      "odds": "2.30",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Friday, 19th December 2025",
   "gamesList": [
     {
