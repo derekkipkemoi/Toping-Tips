@@ -1,113 +1,45 @@
-  [{
-    "id": "dec20_03",
-    "teamA": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://example.com/icons/brighton.png"
-    },
-    "teamB": {
-      "name": "Sunderland",
-      "icon": "https://example.com/icons/sunderland.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "3-1",
-    "date": "2025-12-20"
-  },
+[
   {
-    "id": "dec20_04",
+    "id": "afc22_01",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://example.com/icons/mancity.png"
+      "name": "Mali",
+      "icon": "https://example.com/icons/mali.png"
     },
     "teamB": {
-      "name": "West Ham United",
-      "icon": "https://example.com/icons/westham.png"
+      "name": "Zambia",
+      "icon": "https://example.com/icons/zambia.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "4-0",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "dec20_05",
-    "teamA": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://example.com/icons/wolves.png"
-    },
-    "teamB": {
-      "name": "Brentford",
-      "icon": "https://example.com/icons/brentford.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "1-1",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "dec20_06",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://example.com/icons/tottenham.png"
-    },
-    "teamB": {
-      "name": "Liverpool",
-      "icon": "https://example.com/icons/liverpool.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "1-3",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "dec20_07",
-    "teamA": {
-      "name": "Everton",
-      "icon": "https://example.com/icons/everton.png"
-    },
-    "teamB": {
-      "name": "Arsenal",
-      "icon": "https://example.com/icons/arsenal.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "0-2",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "dec20_08",
-    "teamA": {
-      "name": "Leeds United",
-      "icon": "https://example.com/icons/leeds.png"
-    },
-    "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
-    },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025 - Group A",
     "prediction": "2-1",
-    "date": "2025-12-20"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec20_09",
+    "id": "afc22_02",
     "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://example.com/icons/realmadrid.png"
+      "name": "South Africa",
+      "icon": "https://example.com/icons/southafrica.png"
     },
     "teamB": {
-      "name": "Sevilla",
-      "icon": "https://example.com/icons/sevilla.png"
+      "name": "Angola",
+      "icon": "https://example.com/icons/angola.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "3-1",
-    "date": "2025-12-20"
+    "leagueName": "Africa Cup of Nations 2025 - Group B",
+    "prediction": "1-0",
+    "date": "2025-12-22"
   },
   {
-    "id": "dec20_10",
+    "id": "afc22_03",
     "teamA": {
-      "name": "Lazio",
-      "icon": "https://example.com/icons/lazio.png"
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
     },
     "teamB": {
-      "name": "Cremonese",
-      "icon": "https://example.com/icons/cremonese.png"
+      "name": "Zimbabwe",
+      "icon": "https://example.com/icons/zimbabwe.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "2-0",
-    "date": "2025-12-20"
+    "leagueName": "Africa Cup of Nations 2025 - Group B",
+    "prediction": "3-0",
+    "date": "2025-12-22"
   }
 ]
+
