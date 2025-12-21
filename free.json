@@ -1,43 +1,30 @@
 [
-      {
-    "id": "dec21_14",
+ {
+    "id": "afc02",
     "teamA": {
-      "name": "Metz",
-      "icon": "https://example.com/icons/metz.png"
+      "name": "Mali",
+      "icon": "https://example.com/icons/mali.png"
     },
     "teamB": {
-      "name": "Biesheim",
-      "icon": "https://example.com/icons/biesheim.png"
+      "name": "Zambia",
+      "icon": "https://example.com/icons/zambia.png"
     },
-    "leagueName": "Coupe de France",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_15",
+    "id": "afc03",
     "teamA": {
-      "name": "Troyes",
-      "icon": "https://example.com/icons/troyes.png"
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
     },
     "teamB": {
-      "name": "Olympique Marcquois",
-      "icon": "https://example.com/icons/marcquois.png"
+      "name": "Zimbabwe",
+      "icon": "https://example.com/icons/zimbabwe.png"
     },
-    "leagueName": "Coupe de France",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_16",
-    "teamA": {
-      "name": "Lille",
-      "icon": "https://example.com/icons/lille.png"
-    },
-    "teamB": {
-      "name": "US Lusitanos Saint-Maur",
-      "icon": "https://example.com/icons/lusitanos.png"
-    },
-    "leagueName": "Coupe de France",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  }]
+    "date": "2025-12-22"
+  }
+]
