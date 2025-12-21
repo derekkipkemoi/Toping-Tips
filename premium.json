@@ -1,283 +1,200 @@
 [
   {
-    "id": "dec21_01",
+    "id": "afc01",
     "teamA": {
-      "name": "Morocco",
-      "icon": "https://example.com/icons/morocco.png"
+      "name": "South Africa",
+      "icon": "https://example.com/icons/southafrica.png"
     },
     "teamB": {
-      "name": "Comoros",
-      "icon": "https://example.com/icons/comoros.png"
+      "name": "Angola",
+      "icon": "https://example.com/icons/angola.png"
     },
-    "leagueName": "Africa Cup of Nations",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_02",
+    "id": "afc02",
     "teamA": {
-      "name": "Aston Villa",
-      "icon": "https://example.com/icons/astonvilla.png"
+      "name": "Mali",
+      "icon": "https://example.com/icons/mali.png"
     },
     "teamB": {
-      "name": "Manchester United",
-      "icon": "https://example.com/icons/manutd.png"
+      "name": "Zambia",
+      "icon": "https://example.com/icons/zambia.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_03",
+    "id": "afc03",
     "teamA": {
-      "name": "Villarreal",
-      "icon": "https://example.com/icons/villarreal.png"
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
     },
     "teamB": {
-      "name": "Barcelona",
-      "icon": "https://example.com/icons/barcelona.png"
+      "name": "Zimbabwe",
+      "icon": "https://example.com/icons/zimbabwe.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-21"
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "HOME WIN",
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_04",
+    "id": "afc04",
     "teamA": {
-      "name": "Girona",
-      "icon": "https://example.com/icons/girona.png"
+      "name": "Other Potential Match 1",
+      "icon": "https://example.com/icons/generic.png"
     },
     "teamB": {
-      "name": "Atletico Madrid",
-      "icon": "https://example.com/icons/atleticomadrid.png"
+      "name": "Opponent 1",
+      "icon": "https://example.com/icons/generic.png"
     },
-    "leagueName": "La Liga",
+    "leagueName": "Africa Cup of Nations 2025 or Lower Leagues",
     "prediction": "DRAW",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_05",
+    "id": "afc05",
     "teamA": {
-      "name": "Elche",
-      "icon": "https://example.com/icons/elche.png"
+      "name": "Other Potential Match 2",
+      "icon": "https://example.com/icons/generic.png"
     },
     "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://example.com/icons/rayovallecano.png"
+      "name": "Opponent 2",
+      "icon": "https://example.com/icons/generic.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_06",
-    "teamA": {
-      "name": "Real Betis",
-      "icon": "https://example.com/icons/realbetis.png"
-    },
-    "teamB": {
-      "name": "Getafe",
-      "icon": "https://example.com/icons/getafe.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_07",
-    "teamA": {
-      "name": "RB Leipzig",
-      "icon": "https://example.com/icons/rbleipzig.png"
-    },
-    "teamB": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://example.com/icons/leverkusen.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "DRAW",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_08",
-    "teamA": {
-      "name": "Mainz 05",
-      "icon": "https://example.com/icons/mainz.png"
-    },
-    "teamB": {
-      "name": "St. Pauli",
-      "icon": "https://example.com/icons/stpauli.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_09",
-    "teamA": {
-      "name": "Heidenheim",
-      "icon": "https://example.com/icons/heidenheim.png"
-    },
-    "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://example.com/icons/bayern.png"
-    },
-    "leagueName": "Bundesliga",
+    "leagueName": "Africa Cup of Nations 2025 or Lower Leagues",
     "prediction": "AWAY WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
-  {
-    "id": "dec21_10",
+    {
+    "id": "prim06",
     "teamA": {
-      "name": "Juventus",
-      "icon": "https://example.com/icons/juventus.png"
+      "name": "Torino U19",
+      "icon": "https://example.com/icons/torinou19.png"
     },
     "teamB": {
-      "name": "Roma",
-      "icon": "https://example.com/icons/roma.png"
+      "name": "Lecce U19",
+      "icon": "https://example.com/icons/lecceu19.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Campionato Primavera 1",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_11",
+    "id": "prim07",
     "teamA": {
-      "name": "Cremonese",
-      "icon": "https://example.com/icons/cremonese.png"
+      "name": "Atalanta U19",
+      "icon": "https://example.com/icons/atalantau19.png"
     },
     "teamB": {
-      "name": "Lazio",
-      "icon": "https://example.com/icons/lazio.png"
+      "name": "Juventus U19",
+      "icon": "https://example.com/icons/juventusu19.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Campionato Primavera 1",
     "prediction": "AWAY WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_12",
+    "id": "prim08",
     "teamA": {
-      "name": "Lorient",
-      "icon": "https://example.com/icons/lorient.png"
+      "name": "Cesena U19",
+      "icon": "https://example.com/icons/cesenau19.png"
     },
     "teamB": {
-      "name": "AS La-Gosier",
-      "icon": "https://example.com/icons/lagosier.png"
+      "name": "Monza U19",
+      "icon": "https://example.com/icons/monzau19.png"
     },
-    "leagueName": "Coupe de France",
+    "leagueName": "Campionato Primavera 1",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
-  {
-    "id": "dec21_13",
+    {
+    "id": "bluk22_01",
     "teamA": {
-      "name": "Blois Foot 41",
-      "icon": "https://example.com/icons/blois.png"
+      "name": "26ers",
+      "icon": "https://example.com/icons/26ers.png"
     },
     "teamB": {
-      "name": "Bayeux",
-      "icon": "https://example.com/icons/bayeux.png"
+      "name": "Wembley Rangers AFC",
+      "icon": "https://example.com/icons/wembleyrangers.png"
     },
-    "leagueName": "Coupe de France",
+    "leagueName": "Baller League UK Season 2",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_14",
+    "id": "bluk22_02",
     "teamA": {
-      "name": "Metz",
-      "icon": "https://example.com/icons/metz.png"
+      "name": "Rukkas FC",
+      "icon": "https://example.com/icons/rukkasfc.png"
     },
     "teamB": {
-      "name": "Biesheim",
-      "icon": "https://example.com/icons/biesheim.png"
+      "name": "M7 FC",
+      "icon": "https://example.com/icons/m7fc.png"
     },
-    "leagueName": "Coupe de France",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_15",
-    "teamA": {
-      "name": "Troyes",
-      "icon": "https://example.com/icons/troyes.png"
-    },
-    "teamB": {
-      "name": "Olympique Marcquois",
-      "icon": "https://example.com/icons/marcquois.png"
-    },
-    "leagueName": "Coupe de France",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_16",
-    "teamA": {
-      "name": "Lille",
-      "icon": "https://example.com/icons/lille.png"
-    },
-    "teamB": {
-      "name": "US Lusitanos Saint-Maur",
-      "icon": "https://example.com/icons/lusitanos.png"
-    },
-    "leagueName": "Coupe de France",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
-  },
-  {
-    "id": "dec21_17",
-    "teamA": {
-      "name": "AS Nancy Lorraine",
-      "icon": "https://example.com/icons/nancy.png"
-    },
-    "teamB": {
-      "name": "Grenoble",
-      "icon": "https://example.com/icons/grenoble.png"
-    },
-    "leagueName": "Coupe de France",
+    "leagueName": "Baller League UK Season 2",
     "prediction": "DRAW",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_18",
+    "id": "bluk22_03",
     "teamA": {
-      "name": "Bastia",
-      "icon": "https://example.com/icons/bastia.png"
+      "name": "Deportrio",
+      "icon": "https://example.com/icons/deportrio.png"
     },
     "teamB": {
-      "name": "GSI Pontivy",
-      "icon": "https://example.com/icons/pontivy.png"
+      "name": "MVPs United",
+      "icon": "https://example.com/icons/mvpsunited.png"
     },
-    "leagueName": "Coupe de France",
-    "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "leagueName": "Baller League UK Season 2",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_19",
+    "id": "bluk22_04",
     "teamA": {
-      "name": "Toulouse",
-      "icon": "https://example.com/icons/toulouse.png"
+      "name": "Yanited",
+      "icon": "https://example.com/icons/yanited.png"
     },
     "teamB": {
-      "name": "Lyon Duchère",
-      "icon": "https://example.com/icons/lyonduchere.png"
+      "name": "NDL FC",
+      "icon": "https://example.com/icons/ndlfc.png"
     },
-    "leagueName": "Coupe de France",
+    "leagueName": "Baller League UK Season 2",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
   },
   {
-    "id": "dec21_20",
+    "id": "bluk22_05",
     "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://example.com/icons/psg.png"
+      "name": "SDS FC",
+      "icon": "https://example.com/icons/sdsfc.png"
     },
     "teamB": {
-      "name": "Fontenay Foot",
-      "icon": "https://example.com/icons/fontenay.png"
+      "name": "Clutch FC",
+      "icon": "https://example.com/icons/clutchfc.png"
     },
-    "leagueName": "Coupe de France",
+    "leagueName": "Baller League UK Season 2",
     "prediction": "HOME WIN",
-    "date": "2025-12-21"
+    "date": "2025-12-22"
+  },
+  {
+    "id": "bluk22_06",
+    "teamA": {
+      "name": "N5 FC",
+      "icon": "https://example.com/icons/n5fc.png"
+    },
+    "teamB": {
+      "name": "VZN FC",
+      "icon": "https://example.com/icons/vznfc.png"
+    },
+    "leagueName": "Baller League UK Season 2",
+    "prediction": "DRAW",
+    "date": "2025-12-22"
   }
 ]
+
 
