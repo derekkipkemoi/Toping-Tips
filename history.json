@@ -1,5 +1,150 @@
 [
   {
+  "date": "Monday, 22nd December 2025",
+  "gamesList": [
+    {
+      "teamA": "Fulham",
+      "teamB": "Nottingham Forest",
+      "prediction": "1-0",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mali",
+      "teamB": "Zambia",
+      "prediction": "1-1",
+      "odds": "6.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "South Africa",
+      "teamB": "Angola",
+      "prediction": "2-1",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Egypt",
+      "teamB": "Zimbabwe",
+      "prediction": "2-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Cosenza",
+      "teamB": "Cavese",
+      "prediction": "2-1",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Napoli",
+      "teamB": "Bologna",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Athletic Bilbao",
+      "teamB": "Espanyol",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "FeralpiSalo",
+      "teamB": "Inter Milan U23",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various AFCON Group Stage",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Italian Lower Leagues",
+      "teamB": "Various",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Spanish Cups",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Club Friendlies",
+      "teamB": "Various",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Youth/Reserve Matches",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Other European Leagues",
+      "teamB": "Various",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Additional AFCON Fixtures",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Lower Division Italy",
+      "teamB": "Various",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Premier League Highlight",
+      "teamB": "Fulham Win",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "AFCON Group A/B",
+      "teamB": "Various",
+      "prediction": "OVER 2.5 GOALS",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various International",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Monday Night Matches",
+      "teamB": "Various",
+      "prediction": "AWAY WIN",
+      "odds": "2.60",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Sunday, 21st December 2025",
   "gamesList": [
     {
