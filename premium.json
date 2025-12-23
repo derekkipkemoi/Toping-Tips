@@ -1,200 +1,256 @@
 [
   {
-    "id": "afc01",
+    "id": "afc23_01",
     "teamA": {
-      "name": "South Africa",
-      "icon": "https://example.com/icons/southafrica.png"
+      "name": "DR Congo",
+      "icon": "https://example.com/icons/drcongo.png"
     },
     "teamB": {
-      "name": "Angola",
-      "icon": "https://example.com/icons/angola.png"
+      "name": "Benin",
+      "icon": "https://example.com/icons/benin.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
+    "leagueName": "Africa Cup of Nations 2025 - Group D",
     "prediction": "HOME WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
   {
-    "id": "afc02",
+    "id": "afc23_02",
     "teamA": {
-      "name": "Mali",
-      "icon": "https://example.com/icons/mali.png"
+      "name": "Senegal",
+      "icon": "https://example.com/icons/senegal.png"
     },
     "teamB": {
-      "name": "Zambia",
-      "icon": "https://example.com/icons/zambia.png"
+      "name": "Botswana",
+      "icon": "https://example.com/icons/botswana.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
+    "leagueName": "Africa Cup of Nations 2025 - Group D",
     "prediction": "HOME WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
   {
-    "id": "afc03",
+    "id": "afc23_03",
     "teamA": {
-      "name": "Egypt",
-      "icon": "https://example.com/icons/egypt.png"
+      "name": "Nigeria",
+      "icon": "https://example.com/icons/nigeria.png"
     },
     "teamB": {
-      "name": "Zimbabwe",
-      "icon": "https://example.com/icons/zimbabwe.png"
+      "name": "Tanzania",
+      "icon": "https://example.com/icons/tanzania.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
+    "leagueName": "Africa Cup of Nations 2025 - Group C",
     "prediction": "HOME WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
   {
-    "id": "afc04",
+    "id": "afc23_04",
     "teamA": {
-      "name": "Other Potential Match 1",
+      "name": "Tunisia",
+      "icon": "https://example.com/icons/tunisia.png"
+    },
+    "teamB": {
+      "name": "Uganda",
+      "icon": "https://example.com/icons/uganda.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025 - Group C",
+    "prediction": "HOME WIN",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "bowl23_01",
+    "teamA": {
+      "name": "Team A (Boca Raton Bowl)",
       "icon": "https://example.com/icons/generic.png"
     },
     "teamB": {
-      "name": "Opponent 1",
+      "name": "Team B (Boca Raton Bowl)",
       "icon": "https://example.com/icons/generic.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 or Lower Leagues",
-    "prediction": "DRAW",
-    "date": "2025-12-22"
+    "leagueName": "NCAA College Football Bowl",
+    "prediction": "HOME WIN",
+    "date": "2025-12-23"
   },
   {
-    "id": "afc05",
+    "id": "bowl23_02",
     "teamA": {
-      "name": "Other Potential Match 2",
+      "name": "Team C (Frisco Bowl)",
       "icon": "https://example.com/icons/generic.png"
     },
     "teamB": {
-      "name": "Opponent 2",
+      "name": "Team D (Frisco Bowl)",
       "icon": "https://example.com/icons/generic.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 or Lower Leagues",
+    "leagueName": "NCAA College Football Bowl",
     "prediction": "AWAY WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
     {
-    "id": "prim06",
+    "id": "efl_qf04",
     "teamA": {
-      "name": "Torino U19",
-      "icon": "https://example.com/icons/torinou19.png"
+      "name": "Arsenal",
+      "icon": "https://example.com/icons/arsenal.png"
     },
     "teamB": {
-      "name": "Lecce U19",
-      "icon": "https://example.com/icons/lecceu19.png"
+      "name": "Crystal Palace",
+      "icon": "https://example.com/icons/crystalpalace.png"
     },
-    "leagueName": "Campionato Primavera 1",
+    "leagueName": "EFL Cup Quarter-Final",
     "prediction": "HOME WIN",
-    "date": "2025-12-22"
-  },
-  {
-    "id": "prim07",
-    "teamA": {
-      "name": "Atalanta U19",
-      "icon": "https://example.com/icons/atalantau19.png"
-    },
-    "teamB": {
-      "name": "Juventus U19",
-      "icon": "https://example.com/icons/juventusu19.png"
-    },
-    "leagueName": "Campionato Primavera 1",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-22"
-  },
-  {
-    "id": "prim08",
-    "teamA": {
-      "name": "Cesena U19",
-      "icon": "https://example.com/icons/cesenau19.png"
-    },
-    "teamB": {
-      "name": "Monza U19",
-      "icon": "https://example.com/icons/monzau19.png"
-    },
-    "leagueName": "Campionato Primavera 1",
-    "prediction": "HOME WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
     {
-    "id": "bluk22_01",
+    "id": "tk23_01",
     "teamA": {
-      "name": "26ers",
-      "icon": "https://example.com/icons/26ers.png"
+      "name": "Kocaelispor",
+      "icon": "https://example.com/icons/kocaelispor.png"
     },
     "teamB": {
-      "name": "Wembley Rangers AFC",
-      "icon": "https://example.com/icons/wembleyrangers.png"
+      "name": "BB Erzurumspor",
+      "icon": "https://example.com/icons/erzurumspor.png"
     },
-    "leagueName": "Baller League UK Season 2",
+    "leagueName": "Ziraat Türkiye Kupası Group Stage",
     "prediction": "HOME WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
   {
-    "id": "bluk22_02",
+    "id": "tk23_02",
     "teamA": {
-      "name": "Rukkas FC",
-      "icon": "https://example.com/icons/rukkasfc.png"
+      "name": "TÜMOSAN Konyaspor",
+      "icon": "https://example.com/icons/konyaspor.png"
     },
     "teamB": {
-      "name": "M7 FC",
-      "icon": "https://example.com/icons/m7fc.png"
+      "name": "Antalyaspor",
+      "icon": "https://example.com/icons/antalyaspor.png"
     },
-    "leagueName": "Baller League UK Season 2",
+    "leagueName": "Ziraat Türkiye Kupası Group Stage",
     "prediction": "DRAW",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
   {
-    "id": "bluk22_03",
+    "id": "tk23_03",
     "teamA": {
-      "name": "Deportrio",
-      "icon": "https://example.com/icons/deportrio.png"
+      "name": "Fenerbahçe",
+      "icon": "https://example.com/icons/fenerbahce.png"
     },
     "teamB": {
-      "name": "MVPs United",
-      "icon": "https://example.com/icons/mvpsunited.png"
+      "name": "Beşiktaş",
+      "icon": "https://example.com/icons/besiktas.png"
     },
-    "leagueName": "Baller League UK Season 2",
+    "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "prediction": "HOME WIN",
+    "date": "2025-12-23"
+  },
+    {
+    "id": "msl23_01",
+    "teamA": {
+      "name": "DPMM FC",
+      "icon": "https://example.com/icons/dpmmfc.png"
+    },
+    "teamB": {
+      "name": "Penang FC",
+      "icon": "https://example.com/icons/penangfc.png"
+    },
+    "leagueName": "Malaysia Super League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "msl23_02",
+    "teamA": {
+      "name": "PDRM FC",
+      "icon": "https://example.com/icons/pdrmfc.png"
+    },
+    "teamB": {
+      "name": "Selangor FC",
+      "icon": "https://example.com/icons/selangorfc.png"
+    },
+    "leagueName": "Malaysia Super League",
     "prediction": "AWAY WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
   {
-    "id": "bluk22_04",
+    "id": "msl23_03",
     "teamA": {
-      "name": "Yanited",
-      "icon": "https://example.com/icons/yanited.png"
+      "name": "Terengganu FC",
+      "icon": "https://example.com/icons/terengganufc.png"
     },
     "teamB": {
-      "name": "NDL FC",
-      "icon": "https://example.com/icons/ndlfc.png"
+      "name": "Sabah FC",
+      "icon": "https://example.com/icons/sabahfc.png"
     },
-    "leagueName": "Baller League UK Season 2",
+    "leagueName": "Malaysia Super League",
     "prediction": "HOME WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
-  {
-    "id": "bluk22_05",
+    {
+    "id": "iraq23_01",
     "teamA": {
-      "name": "SDS FC",
-      "icon": "https://example.com/icons/sdsfc.png"
+      "name": "Al Shorta",
+      "icon": "https://example.com/icons/alshorta.png"
     },
     "teamB": {
-      "name": "Clutch FC",
-      "icon": "https://example.com/icons/clutchfc.png"
+      "name": "Al Zawraa",
+      "icon": "https://example.com/icons/alzawraa.png"
     },
-    "leagueName": "Baller League UK Season 2",
+    "leagueName": "Iraq Stars League",
     "prediction": "HOME WIN",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
   },
   {
-    "id": "bluk22_06",
+    "id": "iraq23_02",
     "teamA": {
-      "name": "N5 FC",
-      "icon": "https://example.com/icons/n5fc.png"
+      "name": "Al Quwa Al Jawiya",
+      "icon": "https://example.com/icons/alquwaaljawiya.png"
     },
     "teamB": {
-      "name": "VZN FC",
-      "icon": "https://example.com/icons/vznfc.png"
+      "name": "Erbil SC",
+      "icon": "https://example.com/icons/erbilsc.png"
     },
-    "leagueName": "Baller League UK Season 2",
+    "leagueName": "Iraq Stars League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "iraq23_03",
+    "teamA": {
+      "name": "Al Najaf",
+      "icon": "https://example.com/icons/alnajaf.png"
+    },
+    "teamB": {
+      "name": "Zakho FC",
+      "icon": "https://example.com/icons/zakhofc.png"
+    },
+    "leagueName": "Iraq Stars League",
     "prediction": "DRAW",
-    "date": "2025-12-22"
+    "date": "2025-12-23"
+  },
+  {
+    "id": "iraq23_04",
+    "teamA": {
+      "name": "Naft Maysan",
+      "icon": "https://example.com/icons/naftmaysan.png"
+    },
+    "teamB": {
+      "name": "Al Karkh",
+      "icon": "https://example.com/icons/alkarkh.png"
+    },
+    "leagueName": "Iraq Stars League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "iraq23_05",
+    "teamA": {
+      "name": "Al Talaba",
+      "icon": "https://example.com/icons/altalaba.png"
+    },
+    "teamB": {
+      "name": "Al Minaa",
+      "icon": "https://example.com/icons/alminaa.png"
+    },
+    "leagueName": "Iraq Stars League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-23"
   }
 ]
 
-
+ 
