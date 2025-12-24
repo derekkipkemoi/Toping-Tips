@@ -1,144 +1,156 @@
 [
- {
-    "id": "afc23_01",
+  {
+    "id": "afc24_01",
     "teamA": {
-      "name": "DR Congo",
-      "icon": "https://example.com/icons/drcongo.png"
+      "name": "Ivory Coast",
+      "icon": "https://example.com/icons/ivorycoast.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://example.com/icons/benin.png"
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group D",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "afc23_02",
+    "id": "afc24_02",
     "teamA": {
-      "name": "Senegal",
-      "icon": "https://example.com/icons/senegal.png"
+      "name": "Cameroon",
+      "icon": "https://example.com/icons/cameroon.png"
     },
     "teamB": {
-      "name": "Botswana",
-      "icon": "https://example.com/icons/botswana.png"
+      "name": "Gabon",
+      "icon": "https://example.com/icons/gabon.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group D",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "afc23_03",
+    "id": "afc24_03",
     "teamA": {
-      "name": "Nigeria",
-      "icon": "https://example.com/icons/nigeria.png"
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
     },
     "teamB": {
-      "name": "Tanzania",
-      "icon": "https://example.com/icons/tanzania.png"
+      "name": "Sudan",
+      "icon": "https://example.com/icons/sudan.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group C",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "afc23_04",
+    "id": "afc24_04",
     "teamA": {
-      "name": "Tunisia",
-      "icon": "https://example.com/icons/tunisia.png"
+      "name": "Burkina Faso",
+      "icon": "https://example.com/icons/burkinafaso.png"
     },
     "teamB": {
-      "name": "Uganda",
-      "icon": "https://example.com/icons/uganda.png"
+      "name": "Equatorial Guinea",
+      "icon": "https://example.com/icons/equatorialguinea.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group C",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "bowl23_01",
+    "id": "bowl24_01",
     "teamA": {
-      "name": "Team A (Boca Raton Bowl)",
-      "icon": "https://example.com/icons/generic.png"
+      "name": "California Golden Bears",
+      "icon": "https://example.com/icons/california.png"
     },
     "teamB": {
-      "name": "Team B (Boca Raton Bowl)",
-      "icon": "https://example.com/icons/generic.png"
+      "name": "Hawaii Rainbow Warriors",
+      "icon": "https://example.com/icons/hawaii.png"
     },
-    "leagueName": "NCAA College Football Bowl",
-    "prediction": "HOME WIN",
-    "date": "2025-12-23"
-  },
-  {
-    "id": "bowl23_02",
-    "teamA": {
-      "name": "Team C (Frisco Bowl)",
-      "icon": "https://example.com/icons/generic.png"
-    },
-    "teamB": {
-      "name": "Team D (Frisco Bowl)",
-      "icon": "https://example.com/icons/generic.png"
-    },
-    "leagueName": "NCAA College Football Bowl",
+    "leagueName": "Sheraton Hawaii Bowl (College Football)",
     "prediction": "AWAY WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
     {
-    "id": "efl_qf04",
+    "id": "tk24_01",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://example.com/icons/arsenal.png"
+      "name": "Alagöz Holding Iğdır FK",
+      "icon": "https://example.com/icons/igdirfk.png"
     },
     "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
-    },
-    "leagueName": "EFL Cup Quarter-Final",
-    "prediction": "HOME WIN",
-    "date": "2025-12-23"
-  },
-    {
-    "id": "tk23_01",
-    "teamA": {
-      "name": "Kocaelispor",
-      "icon": "https://example.com/icons/kocaelispor.png"
-    },
-    "teamB": {
-      "name": "BB Erzurumspor",
-      "icon": "https://example.com/icons/erzurumspor.png"
+      "name": "Aliağa Futbol AŞ",
+      "icon": "https://example.com/icons/aliagafutbol.png"
     },
     "leagueName": "Ziraat Türkiye Kupası Group Stage",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "tk23_02",
+    "id": "tk24_02",
     "teamA": {
-      "name": "TÜMOSAN Konyaspor",
-      "icon": "https://example.com/icons/konyaspor.png"
+      "name": "Boluspor",
+      "icon": "https://example.com/icons/boluspor.png"
     },
     "teamB": {
-      "name": "Antalyaspor",
-      "icon": "https://example.com/icons/antalyaspor.png"
+      "name": "Fethiyespor",
+      "icon": "https://example.com/icons/fethiyespor.png"
     },
     "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "prediction": "HOME WIN",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "tk24_03",
+    "teamA": {
+      "name": "Keçiörengücü",
+      "icon": "https://example.com/icons/keciorengucu.png"
+    },
+    "teamB": {
+      "name": "Beyoğlu Yeni Çarşı",
+      "icon": "https://example.com/icons/beyogluyenicarsi.png"
+    },
+    "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "prediction": "HOME WIN",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "tk24_04",
+    "teamA": {
+      "name": "Samsunspor",
+      "icon": "https://example.com/icons/samsunspor.png"
+    },
+    "teamB": {
+      "name": "Eyüpspor",
+      "icon": "https://example.com/icons/eyupspor.png"
+    },
+    "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "prediction": "HOME WIN",
+    "date": "2025-12-24"
+  },
+   {
+    "id": "alb24_01",
+    "teamA": {
+      "name": "FK Vora",
+      "icon": "https://example.com/icons/fkvora.png"
+    },
+    "teamB": {
+      "name": "KS Bylis Ballsh",
+      "icon": "https://example.com/icons/bylisballsh.png"
+    },
+    "leagueName": "Kategoria Superiore",
     "prediction": "DRAW",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "tk23_03",
+    "id": "alb24_02",
     "teamA": {
-      "name": "Fenerbahçe",
-      "icon": "https://example.com/icons/fenerbahce.png"
+      "name": "KS Vllaznia Shkodër",
+      "icon": "https://example.com/icons/vllaznia.png"
     },
     "teamB": {
-      "name": "Beşiktaş",
-      "icon": "https://example.com/icons/besiktas.png"
+      "name": "Flamurtari FC",
+      "icon": "https://example.com/icons/flamurtari.png"
     },
-    "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "leagueName": "Kategoria Superiore",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   }
 ]
-
- 
