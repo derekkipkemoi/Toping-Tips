@@ -1,59 +1,59 @@
 [
   {
-    "id": "afc23_01",
+    "id": "afc24_01",
     "teamA": {
-      "name": "DR Congo",
-      "icon": "https://example.com/icons/drcongo.png"
+      "name": "Ivory Coast",
+      "icon": "https://example.com/icons/ivorycoast.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://example.com/icons/benin.png"
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group D",
-    "prediction": "2-0",
-    "date": "2025-12-23"
-  },
-  {
-    "id": "afc23_02",
-    "teamA": {
-      "name": "Senegal",
-      "icon": "https://example.com/icons/senegal.png"
-    },
-    "teamB": {
-      "name": "Botswana",
-      "icon": "https://example.com/icons/botswana.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025 - Group D",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "3-0",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "afc23_03",
+    "id": "afc24_02",
     "teamA": {
-      "name": "Nigeria",
-      "icon": "https://example.com/icons/nigeria.png"
+      "name": "Cameroon",
+      "icon": "https://example.com/icons/cameroon.png"
     },
     "teamB": {
-      "name": "Tanzania",
-      "icon": "https://example.com/icons/tanzania.png"
+      "name": "Gabon",
+      "icon": "https://example.com/icons/gabon.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group C",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "2-1",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "afc23_04",
+    "id": "afc24_03",
     "teamA": {
-      "name": "Tunisia",
-      "icon": "https://example.com/icons/tunisia.png"
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
     },
     "teamB": {
-      "name": "Uganda",
-      "icon": "https://example.com/icons/uganda.png"
+      "name": "Sudan",
+      "icon": "https://example.com/icons/sudan.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group C",
-    "prediction": "1-0",
-    "date": "2025-12-23"
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "4-0",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "afc24_04",
+    "teamA": {
+      "name": "Burkina Faso",
+      "icon": "https://example.com/icons/burkinafaso.png"
+    },
+    "teamB": {
+      "name": "Equatorial Guinea",
+      "icon": "https://example.com/icons/equatorialguinea.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "2-0",
+    "date": "2025-12-24"
   }
 ]
 
