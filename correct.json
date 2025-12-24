@@ -1,59 +1,45 @@
 [
   {
-    "id": "afc24_01",
+    "id": "spl25_01",
     "teamA": {
-      "name": "Ivory Coast",
-      "icon": "https://example.com/icons/ivorycoast.png"
+      "name": "Al Hazem",
+      "icon": "https://example.com/icons/alhazem.png"
     },
     "teamB": {
-      "name": "Mozambique",
-      "icon": "https://example.com/icons/mozambique.png"
+      "name": "Al Fayha",
+      "icon": "https://example.com/icons/alfayha.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "3-0",
-    "date": "2025-12-24"
+    "leagueName": "Saudi Professional League",
+    "prediction": "1-1",
+    "date": "2025-12-25"
   },
   {
-    "id": "afc24_02",
+    "id": "spl25_02",
     "teamA": {
-      "name": "Cameroon",
-      "icon": "https://example.com/icons/cameroon.png"
+      "name": "Al Ettifaq",
+      "icon": "https://example.com/icons/alettifaq.png"
     },
     "teamB": {
-      "name": "Gabon",
-      "icon": "https://example.com/icons/gabon.png"
+      "name": "Al Riyadh",
+      "icon": "https://example.com/icons/alriyadh.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "2-1",
-    "date": "2025-12-24"
+    "leagueName": "Saudi Professional League",
+    "prediction": "1-2",
+    "date": "2025-12-25"
   },
   {
-    "id": "afc24_03",
+    "id": "spl25_03",
     "teamA": {
-      "name": "Algeria",
-      "icon": "https://example.com/icons/algeria.png"
+      "name": "Al Najma",
+      "icon": "https://example.com/icons/alnajma.png"
     },
     "teamB": {
-      "name": "Sudan",
-      "icon": "https://example.com/icons/sudan.png"
+      "name": "Neom SC",
+      "icon": "https://example.com/icons/neomsc.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "4-0",
-    "date": "2025-12-24"
-  },
-  {
-    "id": "afc24_04",
-    "teamA": {
-      "name": "Burkina Faso",
-      "icon": "https://example.com/icons/burkinafaso.png"
-    },
-    "teamB": {
-      "name": "Equatorial Guinea",
-      "icon": "https://example.com/icons/equatorialguinea.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "2-0",
-    "date": "2025-12-24"
+    "leagueName": "Saudi Professional League",
+    "prediction": "0-2",
+    "date": "2025-12-25"
   }
 ]
 
