@@ -145,6 +145,151 @@
   ]
 },
   {
+  "date": "Tuesday, 23rd December 2025",
+  "gamesList": [
+    {
+      "teamA": "Nigeria",
+      "teamB": "Tanzania",
+      "prediction": "2-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "DR Congo",
+      "teamB": "Benin",
+      "prediction": "1-0",
+      "odds": "7.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Senegal",
+      "teamB": "Botswana",
+      "prediction": "3-0",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Tunisia",
+      "teamB": "Uganda",
+      "prediction": "1-1",
+      "odds": "7.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Kocaelispor",
+      "teamB": "Erzurumspor",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Caldas",
+      "teamB": "Braga",
+      "prediction": "AWAY WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Guimaraes",
+      "teamB": "Sporting Lisbon",
+      "prediction": "AWAY WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Arsenal",
+      "teamB": "Crystal Palace",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Farnham Town",
+      "teamB": "Plymouth Parkway",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Lower Leagues",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "AFCON Group Stage",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Turkish Cup",
+      "teamB": "Various",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Portuguese Cups",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "English Non-League",
+      "teamB": "Various",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Club Friendlies",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "AFCON Additional",
+      "teamB": "Various",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Lower Division Matches",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "European Cups",
+      "teamB": "Various",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "International Friendlies",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Youth/Reserve Games",
+      "teamB": "Various",
+      "prediction": "AWAY WIN",
+      "odds": "2.60",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Monday, 22nd December 2025",
   "gamesList": [
     {
