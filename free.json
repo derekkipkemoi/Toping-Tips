@@ -1,30 +1,30 @@
 [
    {
-    "id": "afc24_01",
+    "id": "spl25_01",
     "teamA": {
-      "name": "Ivory Coast",
-      "icon": "https://example.com/icons/ivorycoast.png"
+      "name": "Al Hazem",
+      "icon": "https://example.com/icons/alhazem.png"
     },
     "teamB": {
-      "name": "Mozambique",
-      "icon": "https://example.com/icons/mozambique.png"
+      "name": "Al Fayha",
+      "icon": "https://example.com/icons/alfayha.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-24"
+    "leagueName": "Saudi Professional League",
+    "prediction": "DRAW",
+    "date": "2025-12-25"
   },
   {
-    "id": "afc24_02",
+    "id": "spl25_02",
     "teamA": {
-      "name": "Cameroon",
-      "icon": "https://example.com/icons/cameroon.png"
+      "name": "Al Ettifaq",
+      "icon": "https://example.com/icons/alettifaq.png"
     },
     "teamB": {
-      "name": "Gabon",
-      "icon": "https://example.com/icons/gabon.png"
+      "name": "Al Riyadh",
+      "icon": "https://example.com/icons/alriyadh.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-24"
+    "leagueName": "Saudi Professional League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-25"
   }
 ]
