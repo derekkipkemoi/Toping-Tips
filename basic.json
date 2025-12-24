@@ -1,156 +1,114 @@
 [
   {
-    "id": "afc24_01",
+    "id": "spl25_01",
     "teamA": {
-      "name": "Ivory Coast",
-      "icon": "https://example.com/icons/ivorycoast.png"
+      "name": "Al Hazem",
+      "icon": "https://example.com/icons/alhazem.png"
     },
     "teamB": {
-      "name": "Mozambique",
-      "icon": "https://example.com/icons/mozambique.png"
+      "name": "Al Fayha",
+      "icon": "https://example.com/icons/alfayha.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-24"
+    "leagueName": "Saudi Professional League",
+    "prediction": "DRAW",
+    "date": "2025-12-25"
   },
   {
-    "id": "afc24_02",
+    "id": "spl25_02",
     "teamA": {
-      "name": "Cameroon",
-      "icon": "https://example.com/icons/cameroon.png"
+      "name": "Al Ettifaq",
+      "icon": "https://example.com/icons/alettifaq.png"
     },
     "teamB": {
-      "name": "Gabon",
-      "icon": "https://example.com/icons/gabon.png"
+      "name": "Al Riyadh",
+      "icon": "https://example.com/icons/alriyadh.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-24"
-  },
-  {
-    "id": "afc24_03",
-    "teamA": {
-      "name": "Algeria",
-      "icon": "https://example.com/icons/algeria.png"
-    },
-    "teamB": {
-      "name": "Sudan",
-      "icon": "https://example.com/icons/sudan.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-24"
-  },
-  {
-    "id": "afc24_04",
-    "teamA": {
-      "name": "Burkina Faso",
-      "icon": "https://example.com/icons/burkinafaso.png"
-    },
-    "teamB": {
-      "name": "Equatorial Guinea",
-      "icon": "https://example.com/icons/equatorialguinea.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-24"
-  },
-  {
-    "id": "bowl24_01",
-    "teamA": {
-      "name": "California Golden Bears",
-      "icon": "https://example.com/icons/california.png"
-    },
-    "teamB": {
-      "name": "Hawaii Rainbow Warriors",
-      "icon": "https://example.com/icons/hawaii.png"
-    },
-    "leagueName": "Sheraton Hawaii Bowl (College Football)",
+    "leagueName": "Saudi Professional League",
     "prediction": "AWAY WIN",
-    "date": "2025-12-24"
+    "date": "2025-12-25"
+  },
+  {
+    "id": "spl25_03",
+    "teamA": {
+      "name": "Al Najma",
+      "icon": "https://example.com/icons/alnajma.png"
+    },
+    "teamB": {
+      "name": "Neom SC",
+      "icon": "https://example.com/icons/neomsc.png"
+    },
+    "leagueName": "Saudi Professional League",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-25"
   },
     {
-    "id": "tk24_01",
+    "id": "eglc25_01",
     "teamA": {
-      "name": "Alagöz Holding Iğdır FK",
-      "icon": "https://example.com/icons/igdirfk.png"
+      "name": "Zamalek",
+      "icon": "https://example.com/icons/zamalek.png"
     },
     "teamB": {
-      "name": "Aliağa Futbol AŞ",
-      "icon": "https://example.com/icons/aliagafutbol.png"
+      "name": "Smouha",
+      "icon": "https://example.com/icons/smouha.png"
     },
-    "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "leagueName": "Egyptian League Cup",
     "prediction": "HOME WIN",
-    "date": "2025-12-24"
+    "date": "2025-12-25"
   },
   {
-    "id": "tk24_02",
+    "id": "eglc25_02",
     "teamA": {
-      "name": "Boluspor",
-      "icon": "https://example.com/icons/boluspor.png"
+      "name": "Al Masry",
+      "icon": "https://example.com/icons/almasry.png"
     },
     "teamB": {
-      "name": "Fethiyespor",
-      "icon": "https://example.com/icons/fethiyespor.png"
+      "name": "Haras El Hodoud",
+      "icon": "https://example.com/icons/haraselhodoud.png"
     },
-    "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "leagueName": "Egyptian League Cup",
     "prediction": "HOME WIN",
-    "date": "2025-12-24"
+    "date": "2025-12-25"
   },
   {
-    "id": "tk24_03",
+    "id": "eglc25_03",
     "teamA": {
-      "name": "Keçiörengücü",
-      "icon": "https://example.com/icons/keciorengucu.png"
+      "name": "El Gouna",
+      "icon": "https://example.com/icons/elgouna.png"
     },
     "teamB": {
-      "name": "Beyoğlu Yeni Çarşı",
-      "icon": "https://example.com/icons/beyogluyenicarsi.png"
+      "name": "National Bank of Egypt",
+      "icon": "https://example.com/icons/nationalbankegypt.png"
     },
-    "leagueName": "Ziraat Türkiye Kupası Group Stage",
+    "leagueName": "Egyptian League Cup",
     "prediction": "HOME WIN",
-    "date": "2025-12-24"
+    "date": "2025-12-25"
   },
   {
-    "id": "tk24_04",
+    "id": "eglc25_04",
     "teamA": {
-      "name": "Samsunspor",
-      "icon": "https://example.com/icons/samsunspor.png"
+      "name": "Pharco",
+      "icon": "https://example.com/icons/pharco.png"
     },
     "teamB": {
-      "name": "Eyüpspor",
-      "icon": "https://example.com/icons/eyupspor.png"
+      "name": "ENPPI",
+      "icon": "https://example.com/icons/enppi.png"
     },
-    "leagueName": "Ziraat Türkiye Kupası Group Stage",
-    "prediction": "HOME WIN",
-    "date": "2025-12-24"
-  },
-   {
-    "id": "alb24_01",
-    "teamA": {
-      "name": "FK Vora",
-      "icon": "https://example.com/icons/fkvora.png"
-    },
-    "teamB": {
-      "name": "KS Bylis Ballsh",
-      "icon": "https://example.com/icons/bylisballsh.png"
-    },
-    "leagueName": "Kategoria Superiore",
+    "leagueName": "Egyptian League Cup",
     "prediction": "DRAW",
-    "date": "2025-12-24"
+    "date": "2025-12-25"
   },
   {
-    "id": "alb24_02",
+    "id": "eglc25_05",
     "teamA": {
-      "name": "KS Vllaznia Shkodër",
-      "icon": "https://example.com/icons/vllaznia.png"
+      "name": "Kahrabaa Ismailia",
+      "icon": "https://example.com/icons/kahrabaaismailia.png"
     },
     "teamB": {
-      "name": "Flamurtari FC",
-      "icon": "https://example.com/icons/flamurtari.png"
+      "name": "Al Ittihad Alexandria",
+      "icon": "https://example.com/icons/alittihad.png"
     },
-    "leagueName": "Kategoria Superiore",
+    "leagueName": "Egyptian League Cup",
     "prediction": "HOME WIN",
-    "date": "2025-12-24"
+    "date": "2025-12-25"
   }
 ]
