@@ -1,30 +1,30 @@
 [
    {
-    "id": "afc23_01",
+    "id": "afc24_01",
     "teamA": {
-      "name": "DR Congo",
-      "icon": "https://example.com/icons/drcongo.png"
+      "name": "Ivory Coast",
+      "icon": "https://example.com/icons/ivorycoast.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://example.com/icons/benin.png"
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   },
   {
-    "id": "afc23_02",
+    "id": "afc24_02",
     "teamA": {
-      "name": "Nigeria",
-      "icon": "https://example.com/icons/nigeria.png"
+      "name": "Cameroon",
+      "icon": "https://example.com/icons/cameroon.png"
     },
     "teamB": {
-      "name": "Tanzania",
-      "icon": "https://example.com/icons/tanzania.png"
+      "name": "Gabon",
+      "icon": "https://example.com/icons/gabon.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
     "prediction": "HOME WIN",
-    "date": "2025-12-23"
+    "date": "2025-12-24"
   }
 ]
