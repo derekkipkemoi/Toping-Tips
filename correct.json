@@ -10,7 +10,8 @@
       "icon": "https://example.com/icons/mali.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group A",
-    "Prediction": "2-1"
+    "Prediction": "2-1",
+    "date": "2025-12-26"
   },
   {
     "id": "afcon26_02",
@@ -23,7 +24,8 @@
       "icon": "https://example.com/icons/comoros.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group A",
-    "Prediction": "1-0"
+    "Prediction": "1-0",
+    "date": "2025-12-26"
   },
   {
     "id": "afcon26_03",
@@ -36,7 +38,8 @@
       "icon": "https://example.com/icons/southafrica.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group B",
-    "Prediction": "2-2"
+    "Prediction": "2-2",
+    "date": "2025-12-26"
   },
   {
     "id": "afcon26_04",
@@ -49,7 +52,8 @@
       "icon": "https://example.com/icons/zimbabwe.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group B",
-    "Prediction": "1-1"
+    "Prediction": "1-1",
+    "date": "2025-12-26"
   },
   {
     "id": "spl26_01",
@@ -62,7 +66,8 @@
       "icon": "https://example.com/icons/alfateh.png"
     },
     "leagueName": "Saudi Professional League",
-    "Prediction": "2-0"
+    "Prediction": "2-0",
+    "date": "2025-12-26"
   },
   {
     "id": "spl26_02",
@@ -75,7 +80,8 @@
       "icon": "https://example.com/icons/alhazem.png"
     },
     "leagueName": "Saudi Professional League",
-    "Prediction": "1-1"
+    "Prediction": "1-1",
+    "date": "2025-12-26"
   },
   {
     "id": "epl26_01",
@@ -88,7 +94,8 @@
       "icon": "https://example.com/icons/newcastle.png"
     },
     "leagueName": "English Premier League",
-    "Prediction": "3-2"
+    "Prediction": "3-2",
+    "date": "2025-12-26"
   },
   {
     "id": "champ26_01",
@@ -101,7 +108,8 @@
       "icon": "https://example.com/icons/derby.png"
     },
     "leagueName": "EFL Championship",
-    "Prediction": "2-1"
+    "Prediction": "2-1",
+    "date": "2025-12-26"
   },
   {
     "id": "l1_26_01",
@@ -114,7 +122,8 @@
       "icon": "https://example.com/icons/wigan.png"
     },
     "leagueName": "EFL League One",
-    "Prediction": "3-1"
+    "Prediction": "3-1",
+    "date": "2025-12-26"
   },
   {
     "id": "l1_26_02",
@@ -127,6 +136,7 @@
       "icon": "https://example.com/icons/lincoln.png"
     },
     "leagueName": "EFL League One",
-    "Prediction": "2-0"
+    "Prediction": "2-0",
+    "date": "2025-12-26"
   }
 ]
