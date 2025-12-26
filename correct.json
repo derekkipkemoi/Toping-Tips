@@ -10,7 +10,7 @@
       "icon": "https://example.com/icons/mali.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group A",
-    "correct_score_prediction": "2-1"
+    "Prediction": "2-1"
   },
   {
     "id": "afcon26_02",
@@ -23,7 +23,7 @@
       "icon": "https://example.com/icons/comoros.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group A",
-    "correct_score_prediction": "1-0"
+    "Prediction": "1-0"
   },
   {
     "id": "afcon26_03",
@@ -36,7 +36,7 @@
       "icon": "https://example.com/icons/southafrica.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group B",
-    "correct_score_prediction": "2-2"
+    "Prediction": "2-2"
   },
   {
     "id": "afcon26_04",
@@ -49,7 +49,7 @@
       "icon": "https://example.com/icons/zimbabwe.png"
     },
     "leagueName": "Africa Cup of Nations 2025 - Group B",
-    "correct_score_prediction": "1-1"
+    "Prediction": "1-1"
   },
   {
     "id": "spl26_01",
@@ -62,7 +62,7 @@
       "icon": "https://example.com/icons/alfateh.png"
     },
     "leagueName": "Saudi Professional League",
-    "correct_score_prediction": "2-0"
+    "Prediction": "2-0"
   },
   {
     "id": "spl26_02",
@@ -75,7 +75,7 @@
       "icon": "https://example.com/icons/alhazem.png"
     },
     "leagueName": "Saudi Professional League",
-    "correct_score_prediction": "1-1"
+    "Prediction": "1-1"
   },
   {
     "id": "epl26_01",
@@ -88,7 +88,7 @@
       "icon": "https://example.com/icons/newcastle.png"
     },
     "leagueName": "English Premier League",
-    "correct_score_prediction": "3-2"
+    "Prediction": "3-2"
   },
   {
     "id": "champ26_01",
@@ -101,7 +101,7 @@
       "icon": "https://example.com/icons/derby.png"
     },
     "leagueName": "EFL Championship",
-    "correct_score_prediction": "2-1"
+    "Prediction": "2-1"
   },
   {
     "id": "l1_26_01",
@@ -114,7 +114,7 @@
       "icon": "https://example.com/icons/wigan.png"
     },
     "leagueName": "EFL League One",
-    "correct_score_prediction": "3-1"
+    "Prediction": "3-1"
   },
   {
     "id": "l1_26_02",
@@ -127,6 +127,6 @@
       "icon": "https://example.com/icons/lincoln.png"
     },
     "leagueName": "EFL League One",
-    "correct_score_prediction": "2-0"
+    "Prediction": "2-0"
   }
 ]
