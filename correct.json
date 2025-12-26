@@ -1,45 +1,132 @@
 [
   {
-    "id": "spl25_01",
+    "id": "afcon26_01",
     "teamA": {
-      "name": "Al Hazem",
-      "icon": "https://example.com/icons/alhazem.png"
+      "name": "Morocco",
+      "icon": "https://example.com/icons/morocco.png"
     },
     "teamB": {
-      "name": "Al Fayha",
-      "icon": "https://example.com/icons/alfayha.png"
+      "name": "Mali",
+      "icon": "https://example.com/icons/mali.png"
     },
-    "leagueName": "Saudi Professional League",
-    "prediction": "1-1",
-    "date": "2025-12-25"
+    "leagueName": "Africa Cup of Nations 2025 - Group A",
+    "correct_score_prediction": "2-1"
   },
   {
-    "id": "spl25_02",
+    "id": "afcon26_02",
     "teamA": {
-      "name": "Al Ettifaq",
-      "icon": "https://example.com/icons/alettifaq.png"
+      "name": "Zambia",
+      "icon": "https://example.com/icons/zambia.png"
     },
     "teamB": {
+      "name": "Comoros",
+      "icon": "https://example.com/icons/comoros.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025 - Group A",
+    "correct_score_prediction": "1-0"
+  },
+  {
+    "id": "afcon26_03",
+    "teamA": {
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
+    },
+    "teamB": {
+      "name": "South Africa",
+      "icon": "https://example.com/icons/southafrica.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025 - Group B",
+    "correct_score_prediction": "2-2"
+  },
+  {
+    "id": "afcon26_04",
+    "teamA": {
+      "name": "Angola",
+      "icon": "https://example.com/icons/angola.png"
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "icon": "https://example.com/icons/zimbabwe.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025 - Group B",
+    "correct_score_prediction": "1-1"
+  },
+  {
+    "id": "spl26_01",
+    "teamA": {
+      "name": "Al Khaleej",
+      "icon": "https://example.com/icons/alkhaleej.png"
+    },
+    "teamB": {
+      "name": "Al Fateh",
+      "icon": "https://example.com/icons/alfateh.png"
+    },
+    "leagueName": "Saudi Professional League",
+    "correct_score_prediction": "2-0"
+  },
+  {
+    "id": "spl26_02",
+    "teamA": {
       "name": "Al Riyadh",
       "icon": "https://example.com/icons/alriyadh.png"
     },
+    "teamB": {
+      "name": "Al Hazem",
+      "icon": "https://example.com/icons/alhazem.png"
+    },
     "leagueName": "Saudi Professional League",
-    "prediction": "1-2",
-    "date": "2025-12-25"
+    "correct_score_prediction": "1-1"
   },
   {
-    "id": "spl25_03",
+    "id": "epl26_01",
     "teamA": {
-      "name": "Al Najma",
-      "icon": "https://example.com/icons/alnajma.png"
+      "name": "Manchester United",
+      "icon": "https://example.com/icons/manutd.png"
     },
     "teamB": {
-      "name": "Neom SC",
-      "icon": "https://example.com/icons/neomsc.png"
+      "name": "Newcastle United",
+      "icon": "https://example.com/icons/newcastle.png"
     },
-    "leagueName": "Saudi Professional League",
-    "prediction": "0-2",
-    "date": "2025-12-25"
+    "leagueName": "English Premier League",
+    "correct_score_prediction": "3-2"
+  },
+  {
+    "id": "champ26_01",
+    "teamA": {
+      "name": "Birmingham City",
+      "icon": "https://example.com/icons/birmingham.png"
+    },
+    "teamB": {
+      "name": "Derby County",
+      "icon": "https://example.com/icons/derby.png"
+    },
+    "leagueName": "EFL Championship",
+    "correct_score_prediction": "2-1"
+  },
+  {
+    "id": "l1_26_01",
+    "teamA": {
+      "name": "Barnsley",
+      "icon": "https://example.com/icons/barnsley.png"
+    },
+    "teamB": {
+      "name": "Wigan Athletic",
+      "icon": "https://example.com/icons/wigan.png"
+    },
+    "leagueName": "EFL League One",
+    "correct_score_prediction": "3-1"
+  },
+  {
+    "id": "l1_26_02",
+    "teamA": {
+      "name": "Bolton Wanderers",
+      "icon": "https://example.com/icons/bolton.png"
+    },
+    "teamB": {
+      "name": "Lincoln City",
+      "icon": "https://example.com/icons/lincoln.png"
+    },
+    "leagueName": "EFL League One",
+    "correct_score_prediction": "2-0"
   }
 ]
-
