@@ -1,5 +1,231 @@
 [
   {
+    "id": "pl28_01",
+    "teamA": {
+      "name": "Sunderland",
+      "icon": "https://example.com/icons/sunderland.png"
+    },
+    "teamB": {
+      "name": "Leeds United",
+      "icon": "https://example.com/icons/leeds.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "2-1",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "pl28_02",
+    "teamA": {
+      "name": "Crystal Palace",
+      "icon": "https://example.com/icons/crystalpalace.png"
+    },
+    "teamB": {
+      "name": "Tottenham Hotspur",
+      "icon": "https://example.com/icons/tottenham.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "1-1",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "seriea28_01",
+    "teamA": {
+      "name": "AC Milan",
+      "icon": "https://example.com/icons/acmilan.png"
+    },
+    "teamB": {
+      "name": "Hellas Verona",
+      "icon": "https://example.com/icons/hellasverona.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "3-0",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "seriea28_02",
+    "teamA": {
+      "name": "Cremonese",
+      "icon": "https://example.com/icons/cremonese.png"
+    },
+    "teamB": {
+      "name": "Napoli",
+      "icon": "https://example.com/icons/napoli.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "0-2",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "seriea28_03",
+    "teamA": {
+      "name": "Bologna",
+      "icon": "https://example.com/icons/bologna.png"
+    },
+    "teamB": {
+      "name": "Sassuolo",
+      "icon": "https://example.com/icons/sassuolo.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "2-1",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "seriea28_04",
+    "teamA": {
+      "name": "Atalanta",
+      "icon": "https://example.com/icons/atalanta.png"
+    },
+    "teamB": {
+      "name": "Inter Milan",
+      "icon": "https://example.com/icons/intermilan.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "1-1",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "prim28_01",
+    "teamA": {
+      "name": "Famalicao",
+      "icon": "https://example.com/icons/famalicao.png"
+    },
+    "teamB": {
+      "name": "Estrela da Amadora",
+      "icon": "https://example.com/icons/estrelaamadora.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "2-0",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "prim28_02",
+    "teamA": {
+      "name": "Estoril Praia",
+      "icon": "https://example.com/icons/estorilpraia.png"
+    },
+    "teamB": {
+      "name": "AVS Futebol SAD",
+      "icon": "https://example.com/icons/avs.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "1-0",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "prim28_03",
+    "teamA": {
+      "name": "Casa Pia AC",
+      "icon": "https://example.com/icons/casapia.png"
+    },
+    "teamB": {
+      "name": "Vitoria Guimaraes",
+      "icon": "https://example.com/icons/vitoriaguimaraes.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "0-2",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "prim28_04",
+    "teamA": {
+      "name": "Arouca",
+      "icon": "https://example.com/icons/arouca.png"
+    },
+    "teamB": {
+      "name": "Gil Vicente",
+      "icon": "https://example.com/icons/gilvicente.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "1-1",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "prim28_05",
+    "teamA": {
+      "name": "SC Braga",
+      "icon": "https://example.com/icons/braga.png"
+    },
+    "teamB": {
+      "name": "Benfica",
+      "icon": "https://example.com/icons/benfica.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "1-2",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "prim28_06",
+    "teamA": {
+      "name": "Sporting CP",
+      "icon": "https://example.com/icons/sportingcp.png"
+    },
+    "teamB": {
+      "name": "Rio Ave",
+      "icon": "https://example.com/icons/rioave.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "3-0",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "afc28_01",
+    "teamA": {
+      "name": "Ivory Coast",
+      "icon": "https://example.com/icons/ivorycoast.png"
+    },
+    "teamB": {
+      "name": "Cameroon",
+      "icon": "https://example.com/icons/cameroon.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "1-1",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "afc28_02",
+    "teamA": {
+      "name": "Gabon",
+      "icon": "https://example.com/icons/gabon.png"
+    },
+    "teamB": {
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "2-0",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "afc28_03",
+    "teamA": {
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
+    },
+    "teamB": {
+      "name": "Burkina Faso",
+      "icon": "https://example.com/icons/burkinafaso.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "2-1",
+    "date": "2025-12-28"
+  },
+  {
+    "id": "afc28_04",
+    "teamA": {
+      "name": "Equatorial Guinea",
+      "icon": "https://example.com/icons/equatorialguinea.png"
+    },
+    "teamB": {
+      "name": "Sudan",
+      "icon": "https://example.com/icons/sudan.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "1-0",
+    "date": "2025-12-28"
+  }
+
+][
+  {
     "id": "pl27_01",
     "teamA": {
       "name": "Nottingham Forest",
