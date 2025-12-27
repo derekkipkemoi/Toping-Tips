@@ -1,5 +1,185 @@
 [
   {
+  "date": "Friday, 26th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Manchester United",
+      "teamB": "Newcastle United",
+      "prediction": "1-0",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Morocco",
+      "teamB": "Mali",
+      "prediction": "1-1",
+      "odds": "7.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Zambia",
+      "teamB": "Comoros",
+      "prediction": "0-0",
+      "odds": "8.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Egypt",
+      "teamB": "South Africa",
+      "prediction": "1-0",
+      "odds": "7.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Angola",
+      "teamB": "Zimbabwe",
+      "prediction": "1-1",
+      "odds": "6.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Middlesbrough",
+      "teamB": "Blackburn Rovers",
+      "prediction": "0-0",
+      "odds": "8.50",
+      "results": "Win"
+    },
+        {
+      "teamA": "Middlesbrough",
+      "teamB": "Blackburn Rovers",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Coventry City",
+      "teamB": "Swansea City",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Leeds United",
+      "teamB": "Sunderland",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sheffield United",
+      "teamB": "Derby County",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Norwich City",
+      "teamB": "Millwall",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bristol City",
+      "teamB": "Luton Town",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Stoke City",
+      "teamB": "Hull City",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Preston North End",
+      "teamB": "Oxford United",
+      "prediction": "HOME WIN",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "teamA": "Plymouth Argyle",
+      "teamB": "Cardiff City",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Queens Park Rangers",
+      "teamB": "Watford",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sheffield Wednesday",
+      "teamB": "Burnley",
+      "prediction": "AWAY WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "West Bromwich Albion",
+      "teamB": "Portsmouth",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+        {
+      "teamA": "Birmingham City",
+      "teamB": "Burton Albion",
+      "prediction": "HOME WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bolton Wanderers",
+      "teamB": "Lincoln City",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Barnsley",
+      "teamB": "Huddersfield Town",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Charlton Athletic",
+      "teamB": "Cambridge United",
+      "prediction": "HOME WIN",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "teamA": "Exeter City",
+      "teamB": "Bristol Rovers",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Leyton Orient",
+      "teamB": "Crawley Town",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mansfield Town",
+      "teamB": "Northampton Town",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Thursday, 25th December 2025",
   "gamesList": [
     {
