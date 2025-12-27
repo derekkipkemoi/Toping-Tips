@@ -1,5 +1,164 @@
 [
   {
+  "date": "Thursday, 25th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Al Riyadh",
+      "teamB": "Al Ettifaq",
+      "prediction": "0-2",
+      "odds": "10.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Fayha",
+      "teamB": "Al Hazem",
+      "prediction": "0-0",
+      "odds": "8.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Neom SC",
+      "teamB": "Al Najma",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+     {
+      "teamA": "Haras El Hodoud",
+      "teamB": "Al Masry",
+      "prediction": "AWAY WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Pyramids FC",
+      "teamB": "Ismaily",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Zamalek",
+      "teamB": "Smouha",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "El Gouna",
+      "teamB": "National Bank of Egypt",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Saint George",
+      "teamB": "Ethiopia Nigd Bank",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sheger Ketema FC",
+      "teamB": "Hawassa City",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Ethiopia Bunna (Ethiopian Coffee)",
+      "teamB": "Dire Dawa City",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mebrat Hayl (EEPCO / Ethio Electric)",
+      "teamB": "Suhul Shire",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Fasil Kenema",
+      "teamB": "Ethio Electric S.C.",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Welayta Dicha",
+      "teamB": "Arba Minch",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+        {
+      "teamA": "Hapoel Tel Aviv",
+      "teamB": "MS Ashdod",
+      "prediction": "0-3",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Hapoel Ra'anana",
+      "teamB": "Maccabi Kiryat Gat",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bnei Sakhnin",
+      "teamB": "Maccabi Kabilio Jaffa",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Hapoel Petah Tikva",
+      "teamB": "Hapoel Ironi Karmiel",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bnei Yehuda Tel Aviv",
+      "teamB": "Maccabi Kiryat Ata",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+     {
+      "teamA": "Al Hilal Benghazi",
+      "teamB": "Al Ahly Benghazi",
+      "prediction": "AWAY WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Khums",
+      "teamB": "Asswehly",
+      "prediction": "AWAY WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Madina",
+      "teamB": "Al Ahly Tripoli",
+      "prediction": "AWAY WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Dahra Tripoli",
+      "teamB": "Assabah",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Tuesday, 23rd December 2025",
   "gamesList": [
     {
