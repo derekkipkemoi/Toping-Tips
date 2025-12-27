@@ -1,142 +1,101 @@
 [
   {
-    "id": "afcon26_01",
+    "id": "pl27_01",
     "teamA": {
-      "name": "Morocco",
-      "icon": "https://example.com/icons/morocco.png"
+      "name": "Nottingham Forest",
+      "icon": "https://example.com/icons/nottinghamforest.png"
     },
     "teamB": {
-      "name": "Mali",
-      "icon": "https://example.com/icons/mali.png"
+      "name": "Manchester City",
+      "icon": "https://example.com/icons/mancity.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group A",
-    "Prediction": "2-1",
-    "date": "2025-12-26"
+    "leagueName": "Premier League",
+    "prediction": "1-3",
+    "date": "2025-12-27"
   },
   {
-    "id": "afcon26_02",
+    "id": "pl27_02",
     "teamA": {
-      "name": "Zambia",
-      "icon": "https://example.com/icons/zambia.png"
+      "name": "Arsenal",
+      "icon": "https://example.com/icons/arsenal.png"
     },
     "teamB": {
-      "name": "Comoros",
-      "icon": "https://example.com/icons/comoros.png"
+      "name": "Brighton & Hove Albion",
+      "icon": "https://example.com/icons/brighton.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group A",
-    "Prediction": "1-0",
-    "date": "2025-12-26"
+    "leagueName": "Premier League",
+    "prediction": "2-1",
+    "date": "2025-12-27"
   },
   {
-    "id": "afcon26_03",
+    "id": "pl27_03",
     "teamA": {
-      "name": "Egypt",
-      "icon": "https://example.com/icons/egypt.png"
+      "name": "Brentford",
+      "icon": "https://example.com/icons/brentford.png"
     },
     "teamB": {
-      "name": "South Africa",
-      "icon": "https://example.com/icons/southafrica.png"
+      "name": "AFC Bournemouth",
+      "icon": "https://example.com/icons/bournemouth.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group B",
-    "Prediction": "2-2",
-    "date": "2025-12-26"
+    "leagueName": "Premier League",
+    "prediction": "2-2",
+    "date": "2025-12-27"
   },
   {
-    "id": "afcon26_04",
+    "id": "pl27_04",
     "teamA": {
-      "name": "Angola",
-      "icon": "https://example.com/icons/angola.png"
+      "name": "Burnley",
+      "icon": "https://example.com/icons/burnley.png"
     },
     "teamB": {
-      "name": "Zimbabwe",
-      "icon": "https://example.com/icons/zimbabwe.png"
+      "name": "Everton",
+      "icon": "https://example.com/icons/everton.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Group B",
-    "Prediction": "1-1",
-    "date": "2025-12-26"
+    "leagueName": "Premier League",
+    "prediction": "1-1",
+    "date": "2025-12-27"
   },
   {
-    "id": "spl26_01",
+    "id": "pl27_05",
     "teamA": {
-      "name": "Al Khaleej",
-      "icon": "https://example.com/icons/alkhaleej.png"
+      "name": "Liverpool",
+      "icon": "https://example.com/icons/liverpool.png"
     },
     "teamB": {
-      "name": "Al Fateh",
-      "icon": "https://example.com/icons/alfateh.png"
+      "name": "Wolverhampton Wanderers",
+      "icon": "https://example.com/icons/wolves.png"
     },
-    "leagueName": "Saudi Professional League",
-    "Prediction": "2-0",
-    "date": "2025-12-26"
+    "leagueName": "Premier League",
+    "prediction": "3-0",
+    "date": "2025-12-27"
   },
   {
-    "id": "spl26_02",
+    "id": "pl27_06",
     "teamA": {
-      "name": "Al Riyadh",
-      "icon": "https://example.com/icons/alriyadh.png"
+      "name": "West Ham United",
+      "icon": "https://example.com/icons/westham.png"
     },
     "teamB": {
-      "name": "Al Hazem",
-      "icon": "https://example.com/icons/alhazem.png"
+      "name": "Fulham",
+      "icon": "https://example.com/icons/fulham.png"
     },
-    "leagueName": "Saudi Professional League",
-    "Prediction": "1-1",
-    "date": "2025-12-26"
+    "leagueName": "Premier League",
+    "prediction": "2-1",
+    "date": "2025-12-27"
   },
   {
-    "id": "epl26_01",
+    "id": "pl27_07",
     "teamA": {
-      "name": "Manchester United",
-      "icon": "https://example.com/icons/manutd.png"
+      "name": "Chelsea",
+      "icon": "https://example.com/icons/chelsea.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://example.com/icons/newcastle.png"
+      "name": "Aston Villa",
+      "icon": "https://example.com/icons/astonvilla.png"
     },
-    "leagueName": "English Premier League",
-    "Prediction": "3-2",
-    "date": "2025-12-26"
-  },
-  {
-    "id": "champ26_01",
-    "teamA": {
-      "name": "Birmingham City",
-      "icon": "https://example.com/icons/birmingham.png"
-    },
-    "teamB": {
-      "name": "Derby County",
-      "icon": "https://example.com/icons/derby.png"
-    },
-    "leagueName": "EFL Championship",
-    "Prediction": "2-1",
-    "date": "2025-12-26"
-  },
-  {
-    "id": "l1_26_01",
-    "teamA": {
-      "name": "Barnsley",
-      "icon": "https://example.com/icons/barnsley.png"
-    },
-    "teamB": {
-      "name": "Wigan Athletic",
-      "icon": "https://example.com/icons/wigan.png"
-    },
-    "leagueName": "EFL League One",
-    "Prediction": "3-1",
-    "date": "2025-12-26"
-  },
-  {
-    "id": "l1_26_02",
-    "teamA": {
-      "name": "Bolton Wanderers",
-      "icon": "https://example.com/icons/bolton.png"
-    },
-    "teamB": {
-      "name": "Lincoln City",
-      "icon": "https://example.com/icons/lincoln.png"
-    },
-    "leagueName": "EFL League One",
-    "Prediction": "2-0",
-    "date": "2025-12-26"
+    "leagueName": "Premier League",
+    "prediction": "2-2",
+    "date": "2025-12-27"
   }
 ]
+
