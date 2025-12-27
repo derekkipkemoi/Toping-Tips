@@ -1,44 +1,44 @@
 [
    {
-    "id": "champ26_11",
+    "id": "pl27_01",
     "teamA": {
-      "name": "Queens Park Rangers",
-      "icon": "https://example.com/icons/qpr.png"
+      "name": "Nottingham Forest",
+      "icon": "https://example.com/icons/nottinghamforest.png"
     },
     "teamB": {
-      "name": "Portsmouth",
-      "icon": "https://example.com/icons/portsmouth.png"
+      "name": "Manchester City",
+      "icon": "https://example.com/icons/mancity.png"
     },
-    "leagueName": "EFL Championship",
+    "leagueName": "Premier League",
     "prediction": "AWAY WIN",
-    "date": "2025-12-26"
+    "date": "2025-12-27"
   },
   {
-    "id": "champ26_12",
+    "id": "pl27_02",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://example.com/icons/wrexham.png"
+      "name": "Arsenal",
+      "icon": "https://example.com/icons/arsenal.png"
     },
     "teamB": {
-      "name": "Sheffield United",
-      "icon": "https://example.com/icons/sheffutd.png"
+      "name": "Brighton & Hove Albion",
+      "icon": "https://example.com/icons/brighton.png"
     },
-    "leagueName": "EFL Championship",
-    "prediction": "DRAW",
-    "date": "2025-12-26"
-  },
-    {
-    "id": "l1_26_01",
-    "teamA": {
-      "name": "Barnsley",
-      "icon": "https://example.com/icons/barnsley.png"
-    },
-    "teamB": {
-      "name": "Wigan Athletic",
-      "icon": "https://example.com/icons/wigan.png"
-    },
-    "leagueName": "EFL League One",
+    "leagueName": "Premier League",
     "prediction": "HOME WIN",
-    "date": "2025-12-26"
+    "date": "2025-12-27"
+  },
+  {
+    "id": "pl27_03",
+    "teamA": {
+      "name": "Brentford",
+      "icon": "https://example.com/icons/brentford.png"
+    },
+    "teamB": {
+      "name": "AFC Bournemouth",
+      "icon": "https://example.com/icons/bournemouth.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2025-12-27"
   }
 ]
