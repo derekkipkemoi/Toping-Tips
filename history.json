@@ -159,6 +159,151 @@
   ]
 },
   {
+  "date": "Wednesday, 24th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Ivory Coast",
+      "teamB": "Mozambique",
+      "prediction": "1-0",
+      "odds": "7.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Cameroon",
+      "teamB": "Gabon",
+      "prediction": "1-0",
+      "odds": "8.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Algeria",
+      "teamB": "Sudan",
+      "prediction": "3-0",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Burkina Faso",
+      "teamB": "Equatorial Guinea",
+      "prediction": "2-1",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "California Golden Bears",
+      "teamB": "Hawaii Rainbow Warriors",
+      "prediction": "AWAY WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Lower Leagues & Friendlies",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Club Friendlies",
+      "teamB": "Various",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Youth/Reserve Matches",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+     {
+      "teamA": "Samsunspor",
+      "teamB": "Eyüpspor",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Keçiörengücü",
+      "teamB": "Halide Edip Adıvar",
+      "prediction": "HOME WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Boluspor",
+      "teamB": "Fethiyespor",
+      "prediction": "DRAW",
+      "odds": "3.00",
+      "results": "Win"
+    },
+     {
+      "teamA": "FK Vora",
+      "teamB": "KS Bylis Ballsh",
+      "prediction": "HOME WIN",
+      "odds": "3.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "AF Elbasani",
+      "teamB": "KF Tirana",
+      "prediction": "DRAW",
+      "odds": "3.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "KS Vllaznia Shkodër",
+      "teamB": "Flamurtari FC",
+      "prediction": "HOME WIN",
+      "odds": "1.83",
+      "results": "Win"
+    },
+        {
+      "teamA": "Al Nassr",
+      "teamB": "Al Zawraa",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "FC Goa",
+      "teamB": "Istiklol",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Ahli Doha",
+      "teamB": "FC Andijon",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "FK Arkadag",
+      "teamB": "Al Khalidiya",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Group Stage",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Other AFC CL Two Fixtures",
+      "teamB": "Various",
+      "prediction": "AWAY WIN",
+      "odds": "2.30",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Tuesday, 23rd December 2025",
   "gamesList": [
     {
