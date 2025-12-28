@@ -1,5 +1,157 @@
 [
   {
+  "date": "Saturday, 27th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Nottingham Forest",
+      "teamB": "Manchester City",
+      "prediction": "1-2",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Arsenal",
+      "teamB": "Brighton & Hove Albion",
+      "prediction": "2-1",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Brentford",
+      "teamB": "AFC Bournemouth",
+      "prediction": "4-1",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Burnley",
+      "teamB": "Everton",
+      "prediction": "0-0",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Liverpool",
+      "teamB": "Wolverhampton Wanderers",
+      "prediction": "2-1",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "West Ham United",
+      "teamB": "Fulham",
+      "prediction": "0-1",
+      "odds": "10.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Chelsea",
+      "teamB": "Aston Villa",
+      "prediction": "1-2",
+      "odds": "11.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Nigeria",
+      "teamB": "Tunisia",
+      "prediction": "3-2",
+      "odds": "12.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Uganda",
+      "teamB": "Tanzania",
+      "prediction": "1-1",
+      "odds": "7.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Senegal",
+      "teamB": "DR Congo",
+      "prediction": "1-1",
+      "odds": "7.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Benin",
+      "teamB": "Botswana",
+      "prediction": "1-0",
+      "odds": "8.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Middlesbrough",
+      "teamB": "Blackburn Rovers",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Coventry City",
+      "teamB": "Swansea City",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Leeds United",
+      "teamB": "Sunderland",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sheffield United",
+      "teamB": "Derby County",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Norwich City",
+      "teamB": "Millwall",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bristol City",
+      "teamB": "Luton Town",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Stoke City",
+      "teamB": "Hull City",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Preston North End",
+      "teamB": "Oxford United",
+      "prediction": "HOME WIN",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "teamA": "Plymouth Argyle",
+      "teamB": "Cardiff City",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Queens Park Rangers",
+      "teamB": "Watford",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Friday, 26th December 2025",
   "gamesList": [
     {
