@@ -1,44 +1,30 @@
 [
    {
-    "id": "pl28_01",
+    "id": "afc29_01",
     "teamA": {
-      "name": "Sunderland",
-      "icon": "https://example.com/icons/sunderland.png"
+      "name": "Comoros",
+      "icon": "https://example.com/icons/comoros.png"
     },
     "teamB": {
-      "name": "Leeds United",
-      "icon": "https://example.com/icons/leeds.png"
+      "name": "Mali",
+      "icon": "https://example.com/icons/mali.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "leagueName": "Africa Cup of Nations 2025 - Group A",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
   },
   {
-    "id": "pl28_02",
+    "id": "afc29_02",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
+      "name": "Zambia",
+      "icon": "https://example.com/icons/zambia.png"
     },
     "teamB": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://example.com/icons/tottenham.png"
+      "name": "Morocco",
+      "icon": "https://example.com/icons/morocco.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "DRAW",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "seriea28_01",
-    "teamA": {
-      "name": "AC Milan",
-      "icon": "https://example.com/icons/acmilan.png"
-    },
-    "teamB": {
-      "name": "Hellas Verona",
-      "icon": "https://example.com/icons/hellasverona.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "leagueName": "Africa Cup of Nations 2025 - Group A",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
   }
 ]
