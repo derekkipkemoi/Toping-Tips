@@ -1,310 +1,521 @@
 [
-   {
-    "id": "pl28_01",
-    "teamA": {
-      "name": "Sunderland",
-      "icon": "https://example.com/icons/sunderland.png"
-    },
-    "teamB": {
-      "name": "Leeds United",
-      "icon": "https://example.com/icons/leeds.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
-  },
   {
-    "id": "pl28_02",
+    "id": "afc29_01",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
+      "name": "Comoros",
+      "icon": "https://example.com/icons/comoros.png"
     },
     "teamB": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://example.com/icons/tottenham.png"
+      "name": "Mali",
+      "icon": "https://example.com/icons/mali.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "DRAW",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "seriea28_01",
-    "teamA": {
-      "name": "AC Milan",
-      "icon": "https://example.com/icons/acmilan.png"
-    },
-    "teamB": {
-      "name": "Hellas Verona",
-      "icon": "https://example.com/icons/verona.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "seriea28_02",
-    "teamA": {
-      "name": "Cremonese",
-      "icon": "https://example.com/icons/cremonese.png"
-    },
-    "teamB": {
-      "name": "Napoli",
-      "icon": "https://example.com/icons/napoli.png"
-    },
-    "leagueName": "Serie A",
+    "leagueName": "Africa Cup of Nations 2025 - Group A",
     "prediction": "AWAY WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "seriea28_03",
+    "id": "afc29_02",
     "teamA": {
-      "name": "Bologna",
-      "icon": "https://example.com/icons/bologna.png"
+      "name": "Zambia",
+      "icon": "https://example.com/icons/zambia.png"
     },
     "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://example.com/icons/sassuolo.png"
+      "name": "Morocco",
+      "icon": "https://example.com/icons/morocco.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025 - Group A",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "afc29_03",
+    "teamA": {
+      "name": "Angola",
+      "icon": "https://example.com/icons/angola.png"
+    },
+    "teamB": {
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025 - Group B",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "afc29_04",
+    "teamA": {
+      "name": "Zimbabwe",
+      "icon": "https://example.com/icons/zimbabwe.png"
+    },
+    "teamB": {
+      "name": "South Africa",
+      "icon": "https://example.com/icons/southafrica.png"
+    },
+    "leagueName": "Africa Cup of Nations 2025 - Group B",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "seriea29_01",
+    "teamA": {
+      "name": "AS Roma",
+      "icon": "https://example.com/icons/asroma.png"
+    },
+    "teamB": {
+      "name": "Genoa",
+      "icon": "https://example.com/icons/genoa.png"
     },
     "leagueName": "Serie A",
     "prediction": "HOME WIN",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "seriea28_04",
-    "teamA": {
-      "name": "Atalanta",
-      "icon": "https://example.com/icons/atalanta.png"
-    },
-    "teamB": {
-      "name": "Inter Milan",
-      "icon": "https://example.com/icons/intermilan.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "DRAW",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "afc28_01",
-    "teamA": {
-      "name": "Ivory Coast",
-      "icon": "https://example.com/icons/ivorycoast.png"
-    },
-    "teamB": {
-      "name": "Cameroon",
-      "icon": "https://example.com/icons/cameroon.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "DRAW",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "afc28_02",
-    "teamA": {
-      "name": "Gabon",
-      "icon": "https://example.com/icons/gabon.png"
-    },
-    "teamB": {
-      "name": "Mozambique",
-      "icon": "https://example.com/icons/mozambique.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "afc28_03",
-    "teamA": {
-      "name": "Algeria",
-      "icon": "https://example.com/icons/algeria.png"
-    },
-    "teamB": {
-      "name": "Burkina Faso",
-      "icon": "https://example.com/icons/burkinafaso.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "afc28_04",
-    "teamA": {
-      "name": "Equatorial Guinea",
-      "icon": "https://example.com/icons/equatorialguinea.png"
-    },
-    "teamB": {
-      "name": "Sudan",
-      "icon": "https://example.com/icons/sudan.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
     {
-    "id": "prim28_01",
+    "id": "champ29_01",
     "teamA": {
-      "name": "Famalicao",
-      "icon": "https://example.com/icons/famalicao.png"
+      "name": "Blackburn Rovers",
+      "icon": "https://example.com/icons/blackburn.png"
     },
     "teamB": {
-      "name": "Estrela da Amadora",
-      "icon": "https://example.com/icons/estrelaamadora.png"
+      "name": "Sheffield Wednesday",
+      "icon": "https://example.com/icons/sheffwed.png"
     },
-    "leagueName": "Primeira Liga",
+    "leagueName": "EFL Championship",
     "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "prim28_02",
+    "id": "champ29_02",
     "teamA": {
-      "name": "Estoril Praia",
-      "icon": "https://example.com/icons/estorilpraia.png"
+      "name": "Bristol City",
+      "icon": "https://example.com/icons/bristolcity.png"
     },
     "teamB": {
-      "name": "AVS Futebol SAD",
-      "icon": "https://example.com/icons/avs.png"
+      "name": "Portsmouth",
+      "icon": "https://example.com/icons/portsmouth.png"
     },
-    "leagueName": "Primeira Liga",
+    "leagueName": "EFL Championship",
     "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "prim28_03",
+    "id": "champ29_03",
     "teamA": {
-      "name": "Casa Pia AC",
-      "icon": "https://example.com/icons/casapia.png"
+      "name": "Charlton Athletic",
+      "icon": "https://example.com/icons/charlton.png"
     },
     "teamB": {
-      "name": "Vitoria Guimaraes",
-      "icon": "https://example.com/icons/vitoriaguimaraes.png"
+      "name": "Coventry City",
+      "icon": "https://example.com/icons/coventry.png"
     },
-    "leagueName": "Primeira Liga",
+    "leagueName": "EFL Championship",
     "prediction": "AWAY WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "prim28_04",
+    "id": "champ29_04",
     "teamA": {
-      "name": "Arouca",
-      "icon": "https://example.com/icons/arouca.png"
+      "name": "Derby County",
+      "icon": "https://example.com/icons/derby.png"
     },
     "teamB": {
-      "name": "Gil Vicente",
-      "icon": "https://example.com/icons/gilvicente.png"
+      "name": "Middlesbrough",
+      "icon": "https://example.com/icons/middlesbrough.png"
     },
-    "leagueName": "Primeira Liga",
+    "leagueName": "EFL Championship",
     "prediction": "DRAW",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "prim28_05",
+    "id": "champ29_05",
     "teamA": {
-      "name": "SC Braga",
-      "icon": "https://example.com/icons/braga.png"
+      "name": "Hull City",
+      "icon": "https://example.com/icons/hull.png"
     },
     "teamB": {
-      "name": "Benfica",
-      "icon": "https://example.com/icons/benfica.png"
+      "name": "Stoke City",
+      "icon": "https://example.com/icons/stoke.png"
     },
-    "leagueName": "Primeira Liga",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "prim28_06",
-    "teamA": {
-      "name": "Sporting CP",
-      "icon": "https://example.com/icons/sportingcp.png"
-    },
-    "teamB": {
-      "name": "Rio Ave",
-      "icon": "https://example.com/icons/rioave.png"
-    },
-    "leagueName": "Primeira Liga",
+    "leagueName": "EFL Championship",
     "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
+  },
+  {
+    "id": "champ29_06",
+    "teamA": {
+      "name": "Ipswich Town",
+      "icon": "https://example.com/icons/ipswich.png"
+    },
+    "teamB": {
+      "name": "Oxford United",
+      "icon": "https://example.com/icons/oxford.png"
+    },
+    "leagueName": "EFL Championship",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "champ29_07",
+    "teamA": {
+      "name": "Preston North End",
+      "icon": "https://example.com/icons/preston.png"
+    },
+    "teamB": {
+      "name": "Wrexham",
+      "icon": "https://example.com/icons/wrexham.png"
+    },
+    "leagueName": "EFL Championship",
+    "prediction": "DRAW",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "champ29_08",
+    "teamA": {
+      "name": "Queens Park Rangers",
+      "icon": "https://example.com/icons/qpr.png"
+    },
+    "teamB": {
+      "name": "Norwich City",
+      "icon": "https://example.com/icons/norwich.png"
+    },
+    "leagueName": "EFL Championship",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
   },
     {
-    "id": "gpl28_01",
+    "id": "l1_29_01",
     "teamA": {
-      "name": "Bibiani Gold Stars",
-      "icon": "https://example.com/icons/bibianigoldstars.png"
+      "name": "Barnsley",
+      "icon": "https://example.com/icons/barnsley.png"
     },
     "teamB": {
-      "name": "Dreams FC",
-      "icon": "https://example.com/icons/dreamsfc.png"
+      "name": "Birmingham City",
+      "icon": "https://example.com/icons/birmingham.png"
     },
-    "leagueName": "Ghana Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "gpl28_02",
-    "teamA": {
-      "name": "Basake Holy Stars",
-      "icon": "https://example.com/icons/basakeholystars.png"
-    },
-    "teamB": {
-      "name": "Hohoe United",
-      "icon": "https://example.com/icons/hohoeunited.png"
-    },
-    "leagueName": "Ghana Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-28"
-  },
-  {
-    "id": "gpl28_03",
-    "teamA": {
-      "name": "Young Apostles",
-      "icon": "https://example.com/icons/youngapostles.png"
-    },
-    "teamB": {
-      "name": "Aduana Stars",
-      "icon": "https://example.com/icons/aduanastars.png"
-    },
-    "leagueName": "Ghana Premier League",
+    "leagueName": "EFL League One",
     "prediction": "AWAY WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "gpl28_04",
+    "id": "l1_29_02",
     "teamA": {
-      "name": "Swedru All Blacks",
-      "icon": "https://example.com/icons/swedruallblacks.png"
+      "name": "Bolton Wanderers",
+      "icon": "https://example.com/icons/bolton.png"
     },
     "teamB": {
-      "name": "Karela United",
-      "icon": "https://example.com/icons/karelaunited.png"
+      "name": "Lincoln City",
+      "icon": "https://example.com/icons/lincoln.png"
     },
-    "leagueName": "Ghana Premier League",
+    "leagueName": "EFL League One",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_03",
+    "teamA": {
+      "name": "Burton Albion",
+      "icon": "https://example.com/icons/burton.png"
+    },
+    "teamB": {
+      "name": "Wrexham",
+      "icon": "https://example.com/icons/wrexham.png"
+    },
+    "leagueName": "EFL League One",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_04",
+    "teamA": {
+      "name": "Cambridge United",
+      "icon": "https://example.com/icons/cambridge.png"
+    },
+    "teamB": {
+      "name": "Leyton Orient",
+      "icon": "https://example.com/icons/leytonorient.png"
+    },
+    "leagueName": "EFL League One",
     "prediction": "DRAW",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "gpl28_05",
+    "id": "l1_29_05",
     "teamA": {
-      "name": "Berekum Chelsea",
-      "icon": "https://example.com/icons/berekumchelsea.png"
+      "name": "Charlton Athletic",
+      "icon": "https://example.com/icons/charlton.png"
     },
     "teamB": {
-      "name": "Eleven Wonders",
-      "icon": "https://example.com/icons/elevenwonders.png"
+      "name": "Reading",
+      "icon": "https://example.com/icons/reading.png"
     },
-    "leagueName": "Ghana Premier League",
+    "leagueName": "EFL League One",
     "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
   },
   {
-    "id": "gpl28_06",
+    "id": "l1_29_06",
     "teamA": {
-      "name": "Asante Kotoko",
-      "icon": "https://example.com/icons/asantekotoko.png"
+      "name": "Exeter City",
+      "icon": "https://example.com/icons/exeter.png"
     },
     "teamB": {
-      "name": "Bechem United",
-      "icon": "https://example.com/icons/bechemunited.png"
+      "name": "Northampton Town",
+      "icon": "https://example.com/icons/northampton.png"
     },
-    "leagueName": "Ghana Premier League",
+    "leagueName": "EFL League One",
     "prediction": "HOME WIN",
-    "date": "2025-12-28"
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_07",
+    "teamA": {
+      "name": "Huddersfield Town",
+      "icon": "https://example.com/icons/huddersfield.png"
+    },
+    "teamB": {
+      "name": "Stockport County",
+      "icon": "https://example.com/icons/stockport.png"
+    },
+    "leagueName": "EFL League One",
+    "prediction": "DRAW",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_08",
+    "teamA": {
+      "name": "Mansfield Town",
+      "icon": "https://example.com/icons/mansfield.png"
+    },
+    "teamB": {
+      "name": "Peterborough United",
+      "icon": "https://example.com/icons/peterborough.png"
+    },
+    "leagueName": "EFL League One",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_09",
+    "teamA": {
+      "name": "Rotherham United",
+      "icon": "https://example.com/icons/rotherham.png"
+    },
+    "teamB": {
+      "name": "Wycombe Wanderers",
+      "icon": "https://example.com/icons/wycombe.png"
+    },
+    "leagueName": "EFL League One",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_10",
+    "teamA": {
+      "name": "Shrewsbury Town",
+      "icon": "https://example.com/icons/shrewsbury.png"
+    },
+    "teamB": {
+      "name": "Blackpool",
+      "icon": "https://example.com/icons/blackpool.png"
+    },
+    "leagueName": "EFL League One",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_11",
+    "teamA": {
+      "name": "Stevenage",
+      "icon": "https://example.com/icons/stevenage.png"
+    },
+    "teamB": {
+      "name": "Crawley Town",
+      "icon": "https://example.com/icons/crawley.png"
+    },
+    "leagueName": "EFL League One",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l1_29_12",
+    "teamA": {
+      "name": "Wigan Athletic",
+      "icon": "https://example.com/icons/wigan.png"
+    },
+    "teamB": {
+      "name": "Bristol Rovers",
+      "icon": "https://example.com/icons/bristolrovers.png"
+    },
+    "leagueName": "EFL League One",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+    {
+    "id": "l2_29_01",
+    "teamA": {
+      "name": "Accrington Stanley",
+      "icon": "https://example.com/icons/accrington.png"
+    },
+    "teamB": {
+      "name": "Harrogate Town",
+      "icon": "https://example.com/icons/harrogate.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_02",
+    "teamA": {
+      "name": "Barrow",
+      "icon": "https://example.com/icons/barrow.png"
+    },
+    "teamB": {
+      "name": "Fleetwood Town",
+      "icon": "https://example.com/icons/fleetwood.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_03",
+    "teamA": {
+      "name": "Bradford City",
+      "icon": "https://example.com/icons/bradford.png"
+    },
+    "teamB": {
+      "name": "Cheltenham Town",
+      "icon": "https://example.com/icons/cheltenham.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_04",
+    "teamA": {
+      "name": "Bromley",
+      "icon": "https://example.com/icons/bromley.png"
+    },
+    "teamB": {
+      "name": "Swindon Town",
+      "icon": "https://example.com/icons/swindon.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "DRAW",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_05",
+    "teamA": {
+      "name": "Carlisle United",
+      "icon": "https://example.com/icons/carlisle.png"
+    },
+    "teamB": {
+      "name": "Morecambe",
+      "icon": "https://example.com/icons/morecambe.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_06",
+    "teamA": {
+      "name": "Colchester United",
+      "icon": "https://example.com/icons/colchester.png"
+    },
+    "teamB": {
+      "name": "AFC Wimbledon",
+      "icon": "https://example.com/icons/afcwimbledon.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "AWAY WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_07",
+    "teamA": {
+      "name": "Crewe Alexandra",
+      "icon": "https://example.com/icons/crewe.png"
+    },
+    "teamB": {
+      "name": "Tranmere Rovers",
+      "icon": "https://example.com/icons/tranmere.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_08",
+    "teamA": {
+      "name": "Doncaster Rovers",
+      "icon": "https://example.com/icons/doncaster.png"
+    },
+    "teamB": {
+      "name": "Notts County",
+      "icon": "https://example.com/icons/nottscounty.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "DRAW",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_09",
+    "teamA": {
+      "name": "Gillingham",
+      "icon": "https://example.com/icons/gillingham.png"
+    },
+    "teamB": {
+      "name": "Salford City",
+      "icon": "https://example.com/icons/salford.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_10",
+    "teamA": {
+      "name": "Grimsby Town",
+      "icon": "https://example.com/icons/grimsby.png"
+    },
+    "teamB": {
+      "name": "Newport County",
+      "icon": "https://example.com/icons/newport.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_11",
+    "teamA": {
+      "name": "MK Dons",
+      "icon": "https://example.com/icons/mkdons.png"
+    },
+    "teamB": {
+      "name": "Port Vale",
+      "icon": "https://example.com/icons/portvale.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "l2_29_12",
+    "teamA": {
+      "name": "Walsall",
+      "icon": "https://example.com/icons/walsall.png"
+    },
+    "teamB": {
+      "name": "Chesterfield",
+      "icon": "https://example.com/icons/chesterfield.png"
+    },
+    "leagueName": "EFL League Two",
+    "prediction": "HOME WIN",
+    "date": "2025-12-29"
   }
 ]
+
