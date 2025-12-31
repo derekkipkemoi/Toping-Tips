@@ -1,30 +1,30 @@
 [
    {
-    "id": "pl30_01",
+    "id": "afc31_01",
     "teamA": {
-      "name": "Burnley",
-      "icon": "https://example.com/icons/burnley.png"
+      "name": "Equatorial Guinea",
+      "icon": "https://example.com/icons/equatorialguinea.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://example.com/icons/newcastle.png"
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "DRAW",
-    "date": "2025-12-30"
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "0-3",
+    "date": "2025-12-31"
   },
   {
-    "id": "pl30_02",
+    "id": "afc31_02",
     "teamA": {
-      "name": "Chelsea",
-      "icon": "https://example.com/icons/chelsea.png"
+      "name": "Sudan",
+      "icon": "https://example.com/icons/sudan.png"
     },
     "teamB": {
-      "name": "AFC Bournemouth",
-      "icon": "https://example.com/icons/bournemouth.png"
+      "name": "Burkina Faso",
+      "icon": "https://example.com/icons/burkinafaso.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-30"
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "1-2",
+    "date": "2025-12-31"
   }
 ]
