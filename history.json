@@ -1,5 +1,192 @@
 [
   {
+  "date": "Tuesday, 30th December 2025",
+  "gamesList": [
+    {
+      "teamA": "Wolverhampton Wanderers",
+      "teamB": "Chelsea",
+      "prediction": "1-3",
+      "odds": "11.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Aston Villa",
+      "teamB": "Brighton & Hove Albion",
+      "prediction": "2-1",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Manchester United",
+      "teamB": "Nottingham Forest",
+      "prediction": "0-0",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "West Ham United",
+      "teamB": "Liverpool",
+      "prediction": "0-5",
+      "odds": "25.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Fulham",
+      "teamB": "Bournemouth",
+      "prediction": "2-2",
+      "odds": "11.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Southampton",
+      "teamB": "Brentford",
+      "prediction": "1-2",
+      "odds": "10.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Everton",
+      "teamB": "Manchester City",
+      "prediction": "HOME WIN",
+      "odds": "5.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Newcastle United",
+      "teamB": "Ipswich Town",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Crystal Palace",
+      "teamB": "Arsenal",
+      "prediction": "AWAY WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Tottenham Hotspur",
+      "teamB": "Leicester City",
+      "prediction": "HOME WIN",
+      "odds": "1.45",
+      "results": "Win"
+    },
+    {
+      "teamA": "Burnley",
+      "teamB": "Sunderland",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Leeds United",
+      "teamB": "Blackburn Rovers",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Middlesbrough",
+      "teamB": "Sheffield United",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Stoke City",
+      "teamB": "Derby County",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Congo",
+      "teamB": "South Africa",
+      "prediction": "HOME WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Namibia",
+      "teamB": "Lesotho",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Togo",
+      "teamB": "Equatorial Guinea",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Genoa",
+      "teamB": "Cagliari",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Parma",
+      "teamB": "Monza",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Fiorentina",
+      "teamB": "Verona",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Lazio",
+      "teamB": "Atalanta",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Getafe",
+      "teamB": "Rayo Vallecano",
+      "prediction": "HOME WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mallorca",
+      "teamB": "Athletic Bilbao",
+      "prediction": "DRAW",
+      "odds": "3.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Osasuna",
+      "teamB": "Villarreal",
+      "prediction": "HOME WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Leganes",
+      "teamB": "Celta Vigo",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Alaves",
+      "teamB": "Las Palmas",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Monday, 29th December 2025",
   "gamesList": [
     {
