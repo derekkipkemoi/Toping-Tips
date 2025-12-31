@@ -1,129 +1,101 @@
 [
   {
-    "id": "afc30_01",
+    "id": "afc31_01",
     "teamA": {
-      "name": "Uganda",
-      "icon": "https://example.com/icons/uganda.png"
+      "name": "Equatorial Guinea",
+      "icon": "https://example.com/icons/equatorialguinea.png"
     },
     "teamB": {
-      "name": "Nigeria",
-      "icon": "https://example.com/icons/nigeria.png"
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "0-2",
-    "date": "2025-12-30"
+    "prediction": "0-3",
+    "date": "2025-12-31"
   },
   {
-    "id": "afc30_02",
+    "id": "afc31_02",
     "teamA": {
-      "name": "Tanzania",
-      "icon": "https://example.com/icons/tanzania.png"
+      "name": "Sudan",
+      "icon": "https://example.com/icons/sudan.png"
     },
     "teamB": {
-      "name": "Tunisia",
-      "icon": "https://example.com/icons/tunisia.png"
+      "name": "Burkina Faso",
+      "icon": "https://example.com/icons/burkinafaso.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
     "prediction": "1-2",
-    "date": "2025-12-30"
+    "date": "2025-12-31"
   },
   {
-    "id": "pl30_01",
+    "id": "afc31_03",
     "teamA": {
-      "name": "Burnley",
-      "icon": "https://example.com/icons/burnley.png"
+      "name": "Gabon",
+      "icon": "https://example.com/icons/gabon.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://example.com/icons/newcastle.png"
+      "name": "Ivory Coast",
+      "icon": "https://example.com/icons/ivorycoast.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "1-3",
-    "date": "2025-12-30"
-  },
-  {
-    "id": "pl30_02",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://example.com/icons/chelsea.png"
-    },
-    "teamB": {
-      "name": "AFC Bournemouth",
-      "icon": "https://example.com/icons/bournemouth.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "3-2",
-    "date": "2025-12-30"
-  },
-  {
-    "id": "pl30_03",
-    "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://example.com/icons/nottinghamforest.png"
-    },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://example.com/icons/everton.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "2-2",
-    "date": "2025-12-30"
-  },
-  {
-    "id": "pl30_04",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://example.com/icons/westham.png"
-    },
-    "teamB": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://example.com/icons/brighton.png"
-    },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025",
     "prediction": "0-2",
-    "date": "2025-12-30"
+    "date": "2025-12-31"
   },
   {
-    "id": "pl30_05",
+    "id": "afc31_04",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://example.com/icons/arsenal.png"
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://example.com/icons/astonvilla.png"
+      "name": "Cameroon",
+      "icon": "https://example.com/icons/cameroon.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "2-2",
-    "date": "2025-12-30"
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "0-2",
+    "date": "2025-12-31"
   },
   {
-    "id": "pl30_06",
+    "id": "spl31_01",
     "teamA": {
-      "name": "Manchester United",
-      "icon": "https://example.com/icons/manutd.png"
+      "name": "Al Ittihad",
+      "icon": "https://example.com/icons/alittihad.png"
     },
     "teamB": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://example.com/icons/wolves.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "3-1",
-    "date": "2025-12-30"
-  },
-  {
-    "id": "spl30_01",
-    "teamA": {
-      "name": "Al Ettifaq",
-      "icon": "https://example.com/icons/alettifaq.png"
-    },
-    "teamB": {
-      "name": "Al Nassr",
-      "icon": "https://example.com/icons/alnassr.png"
+      "name": "Neom SC",
+      "icon": "https://example.com/icons/neomsc.png"
     },
     "leagueName": "Saudi Professional League",
-    "prediction": "1-3",
-    "date": "2025-12-30"
+    "prediction": "3-1",
+    "date": "2025-12-31"
+  },
+  {
+    "id": "spl31_02",
+    "teamA": {
+      "name": "Al Qadsiah",
+      "icon": "https://example.com/icons/alqadsiah.png"
+    },
+    "teamB": {
+      "name": "Al Shabab",
+      "icon": "https://example.com/icons/alshabab.png"
+    },
+    "leagueName": "Saudi Professional League",
+    "prediction": "1-1",
+    "date": "2025-12-31"
+  },
+  {
+    "id": "spl31_03",
+    "teamA": {
+      "name": "Al Hilal",
+      "icon": "https://example.com/icons/alhilal.png"
+    },
+    "teamB": {
+      "name": "Al Kholood",
+      "icon": "https://example.com/icons/alkholood.png"
+    },
+    "leagueName": "Saudi Professional League",
+    "prediction": "4-0",
+    "date": "2025-12-31"
   }
 ]
 
