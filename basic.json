@@ -10,7 +10,7 @@
       "icon": "https://example.com/icons/algeria.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "0-3",
+    "prediction": "AWAY WIN",
     "date": "2025-12-31"
   },
   {
@@ -24,7 +24,7 @@
       "icon": "https://example.com/icons/burkinafaso.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "1-2",
+    "prediction": "AWAY WIN",
     "date": "2025-12-31"
   },
   {
@@ -38,7 +38,7 @@
       "icon": "https://example.com/icons/ivorycoast.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "0-2",
+    "prediction": "AWAY WIN",
     "date": "2025-12-31"
   },
   {
@@ -52,10 +52,10 @@
       "icon": "https://example.com/icons/cameroon.png"
     },
     "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "0-2",
+    "prediction": "AWAY WIN",
     "date": "2025-12-31"
   },
-  {
+    {
     "id": "spl31_01",
     "teamA": {
       "name": "Al Ittihad",
@@ -66,7 +66,7 @@
       "icon": "https://example.com/icons/neomsc.png"
     },
     "leagueName": "Saudi Professional League",
-    "prediction": "3-1",
+    "prediction": "HOME WIN",
     "date": "2025-12-31"
   },
   {
@@ -80,7 +80,7 @@
       "icon": "https://example.com/icons/alshabab.png"
     },
     "leagueName": "Saudi Professional League",
-    "prediction": "1-1",
+    "prediction": "DRAW",
     "date": "2025-12-31"
   },
   {
@@ -94,8 +94,35 @@
       "icon": "https://example.com/icons/alkholood.png"
     },
     "leagueName": "Saudi Professional League",
-    "prediction": "4-0",
+    "prediction": "HOME WIN",
+    "date": "2025-12-31"
+  },
+   {
+    "id": "eglc31_01",
+    "teamA": {
+      "name": "Ceramica Cleopatra",
+      "icon": "https://example.com/icons/ceramicacleopatra.png"
+    },
+    "teamB": {
+      "name": "Pharco",
+      "icon": "https://example.com/icons/pharco.png"
+    },
+    "leagueName": "Egyptian League Cup",
+    "prediction": "HOME WIN",
+    "date": "2025-12-31"
+  },
+    {
+    "id": "isrpl31_01",
+    "teamA": {
+      "name": "Hapoel Petah Tikva",
+      "icon": "https://example.com/icons/hapoelpetah.png"
+    },
+    "teamB": {
+      "name": "Maccabi Netanya",
+      "icon": "https://example.com/icons/maccabinetanya.png"
+    },
+    "leagueName": "Israeli Premier League (Ligat Ha'Al)",
+    "prediction": "HOME WIN",
     "date": "2025-12-31"
   }
 ]
-
