@@ -1,30 +1,30 @@
 [
-    {
-    "id": "afc31_02",
+     {
+    "id": "cfb02_01",
     "teamA": {
-      "name": "Sudan",
-      "icon": "https://example.com/icons/sudan.png"
+      "name": "Texas State",
+      "icon": "https://example.com/icons/texasstate.png"
     },
     "teamB": {
-      "name": "Burkina Faso",
-      "icon": "https://example.com/icons/burkinafaso.png"
+      "name": "Rice",
+      "icon": "https://example.com/icons/rice.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "1-2",
-    "date": "2025-12-31"
+    "leagueName": "Armed Forces Bowl (College Football)",
+    "prediction": "HOME WIN",
+    "date": "2026-01-02"
   },
   {
-    "id": "afc31_03",
+    "id": "cfb02_02",
     "teamA": {
-      "name": "Gabon",
-      "icon": "https://example.com/icons/gabon.png"
+      "name": "Arizona",
+      "icon": "https://example.com/icons/arizona.png"
     },
     "teamB": {
-      "name": "Ivory Coast",
-      "icon": "https://example.com/icons/ivorycoast.png"
+      "name": "SMU",
+      "icon": "https://example.com/icons/smu.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "0-2",
-    "date": "2025-12-31"
+    "leagueName": "Holiday Bowl (College Football)",
+    "prediction": "HOME WIN",
+    "date": "2026-01-02"
   }
 ]
