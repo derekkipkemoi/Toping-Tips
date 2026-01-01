@@ -1,5 +1,185 @@
 [
   {
+  "date": "Wednesday, 31st December 2025",
+  "gamesList": [
+    {
+      "teamA": "Gabon",
+      "teamB": "Côte d’Ivoire",
+      "prediction": "2-3",
+      "odds": "15.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Shabab",
+      "teamB": "Al Qadasiya Khobar",
+      "prediction": "1-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Kholood",
+      "teamB": "Al Hilal",
+      "prediction": "0-4",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Maccabi Netanya",
+      "teamB": "Hapoel Petach Tikva",
+      "prediction": "2-0",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sudan",
+      "teamB": "Burkina Faso",
+      "prediction": "0-2",
+      "odds": "10.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Equatorial Guinea",
+      "teamB": "Algeria",
+      "prediction": "0-3",
+      "odds": "11.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Fayha",
+      "teamB": "Al Hazem",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Neom SC",
+      "teamB": "Al Najma",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Riyadh",
+      "teamB": "Al Ettifaq",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Saudi Pro League",
+      "teamB": "Various",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Various Israeli Ligat ha'Al",
+      "teamB": "Various",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mozambique",
+      "teamB": "Cameroon",
+      "prediction": "AWAY WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Kholood",
+      "teamB": "Al-Hilal",
+      "prediction": "AWAY WIN",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Shabab",
+      "teamB": "Al-Qadsiah",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Fayha",
+      "teamB": "Al-Hazem",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Riyadh",
+      "teamB": "Al-Ettifaq",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Neom SC",
+      "teamB": "Al-Najma",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Ahli",
+      "teamB": "Al-Fateh",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Ittihad",
+      "teamB": "Al-Taawoun",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Nassr",
+      "teamB": "Al-Orobah",
+      "prediction": "HOME WIN",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Damac",
+      "teamB": "Al-Wehda",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Raed",
+      "teamB": "Al-Okhdood",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+        {
+      "teamA": "Al Gharraf",
+      "teamB": "Al-Karma",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Talaba",
+      "teamB": "Al Musel",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Zakho",
+      "teamB": "Al Karkh",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Tuesday, 30th December 2025",
   "gamesList": [
     {
