@@ -1,30 +1,28 @@
-[
-     {
-    "id": "cfb02_01",
+{
+    "id": "pl03_01",
     "teamA": {
-      "name": "Texas State",
-      "icon": "https://example.com/icons/texasstate.png"
+      "name": "AFC Bournemouth",
+      "icon": "https://example.com/icons/bournemouth.png"
     },
     "teamB": {
-      "name": "Rice",
-      "icon": "https://example.com/icons/rice.png"
+      "name": "Arsenal",
+      "icon": "https://example.com/icons/arsenal.png"
     },
-    "leagueName": "Armed Forces Bowl (College Football)",
-    "prediction": "HOME WIN",
-    "date": "2026-01-02"
+    "leagueName": "Premier League",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-03"
   },
   {
-    "id": "cfb02_02",
+    "id": "pl03_02",
     "teamA": {
-      "name": "Arizona",
-      "icon": "https://example.com/icons/arizona.png"
+      "name": "Everton",
+      "icon": "https://example.com/icons/everton.png"
     },
     "teamB": {
-      "name": "SMU",
-      "icon": "https://example.com/icons/smu.png"
+      "name": "Brentford",
+      "icon": "https://example.com/icons/brentford.png"
     },
-    "leagueName": "Holiday Bowl (College Football)",
+    "leagueName": "Premier League",
     "prediction": "HOME WIN",
-    "date": "2026-01-02"
+    "date": "2026-01-03"
   }
-]
