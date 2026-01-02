@@ -1,5 +1,407 @@
 [
   {
+  "date": "Friday, 2nd January 2026",
+  "gamesList": [
+    {
+      "teamA": "Al Ahli",
+      "teamB": "Al Nassr",
+      "prediction": "3-2",
+      "odds": "10.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Kholood",
+      "teamB": "Al Hilal",
+      "prediction": "0-3",
+      "odds": "11.00",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Al-Shabab",
+      "teamB": "Al Qadasiya",
+      "prediction": "1-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Melbourne Victory",
+      "teamB": "Perth Glory",
+      "prediction": "3-2",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Gil Vicente",
+      "teamB": "Sporting CP",
+      "prediction": "1-1",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Ettifaq",
+      "teamB": "Al Akhdoud",
+      "prediction": "2-0",
+      "odds": "8.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Najma",
+      "teamB": "Al Khaleej",
+      "prediction": "DRAW",
+      "odds": "2.50",
+      "results": "win"
+    },
+    {
+      "teamA": "Rayo Vallecano",
+      "teamB": "Getafe",
+      "prediction": "HOME WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Cagliari",
+      "teamB": "AC Milan",
+      "prediction": "AWAY WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Eibar",
+      "teamB": "CD Mirandés",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Fayha",
+      "teamB": "Al Hazem",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Neom SC",
+      "teamB": "Al Najma",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Riyadh",
+      "teamB": "Al Ettifaq",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Al Ahli Doha",
+      "teamB": "FC Andijon",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "FK Arkadag",
+      "teamB": "Al Khalidiya",
+      "prediction": "HOME WIN",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "FC Goa",
+      "teamB": "Istiklol",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Al Wasl",
+      "teamB": "Al Wahda",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Khor Fakkan",
+      "teamB": "Al Dhafra",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Baniyas",
+      "teamB": "Al Nasr Dubai",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Al Ain",
+      "teamB": "Sharjah",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Genoa",
+      "teamB": "Pisa",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sassuolo",
+      "teamB": "Parma",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Brisbane Roar",
+      "teamB": "Wellington Phoenix",
+      "prediction": "HOME WIN",
+      "odds": "2.30",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Connah's Quay Nomads",
+      "teamB": "Barry Town",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "The New Saints FC",
+      "teamB": "Bala Town FC",
+      "prediction": "HOME WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Toulouse",
+      "teamB": "Lens",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Gil Vicente",
+      "teamB": "Sporting CP",
+      "prediction": "AWAY WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Vitória Guimarães",
+      "teamB": "Nacional",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Rayo Vallecano",
+      "teamB": "Getafe",
+      "prediction": "HOME WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Cagliari",
+      "teamB": "Milan",
+      "prediction": "AWAY WIN",
+      "odds": "1.70",
+      "results": "Win"
+    }
+  ]
+},
+  {
+  "date": "Thursday, 1st January 2026",
+  "gamesList": [
+    {
+      "teamA": "Al Hilal",
+      "teamB": "Al Kholood",
+      "prediction": "4-2",
+      "odds": "9.50",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Al Nassr",
+      "teamB": "Al Ahli",
+      "prediction": "3-1",
+      "odds": "10.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Qadasiya",
+      "teamB": "Al Shabab",
+      "prediction": "1-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Ettifaq",
+      "teamB": "Al Riyadh",
+      "prediction": "2-0",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Hazem",
+      "teamB": "Al Fayha",
+      "prediction": "0-1",
+      "odds": "10.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Najma",
+      "teamB": "Neom SC",
+      "prediction": "1-2",
+      "odds": "11.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Fateh",
+      "teamB": "Al Ahli",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Taawoun",
+      "teamB": "Al Ittihad",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Orobah",
+      "teamB": "Al Nassr",
+      "prediction": "AWAY WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Wehda",
+      "teamB": "Damac",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Okhdood",
+      "teamB": "Al Raed",
+      "prediction": "HOME WIN",
+      "odds": "3.20",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Al Wasl",
+      "teamB": "Sharjah",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Ain",
+      "teamB": "Al Wahda",
+      "prediction": "HOME WIN",
+      "odds": "1.70",
+      "results": "Win"
+    },
+    {
+      "teamA": "Baniyas",
+      "teamB": "Khor Fakkan",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Nasr Dubai",
+      "teamB": "Ajman",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Dhafra",
+      "teamB": "Al Bataeh",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Melbourne Victory",
+      "teamB": "Western United",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Sydney FC",
+      "teamB": "Central Coast Mariners",
+      "prediction": "DRAW",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "teamA": "Brisbane Roar",
+      "teamB": "Newcastle Jets",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Perth Glory",
+      "teamB": "Adelaide United",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Wellington Phoenix",
+      "teamB": "Macarthur FC",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Western Sydney Wanderers",
+      "teamB": "Auckland FC",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Connah's Quay Nomads",
+      "teamB": "The New Saints",
+      "prediction": "AWAY WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Barry Town",
+      "teamB": "Cardiff Met",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Bala Town",
+      "teamB": "Caernarfon Town",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Haverfordwest County",
+      "teamB": "Penybont",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Wednesday, 31st December 2025",
   "gamesList": [
     {
