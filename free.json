@@ -1,4 +1,4 @@
-{
+[{
     "id": "pl03_01",
     "teamA": {
       "name": "AFC Bournemouth",
@@ -25,4 +25,4 @@
     "leagueName": "Premier League",
     "prediction": "HOME WIN",
     "date": "2026-01-03"
-  }
+  }]
