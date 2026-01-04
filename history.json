@@ -1,5 +1,206 @@
 [
   {
+  "date": "Saturday, 3rd January 2026",
+  "gamesList": [
+    {
+      "teamA": "Aston Villa",
+      "teamB": "Nottingham Forest",
+      "prediction": "3-1",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Brighton & Hove Albion",
+      "teamB": "Burnley",
+      "prediction": "2-0",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Wolverhampton Wanderers",
+      "teamB": "West Ham United",
+      "prediction": "3-0",
+      "odds": "11.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "AFC Bournemouth",
+      "teamB": "Arsenal",
+      "prediction": "1-3",
+      "odds": "10.50",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Celtic",
+      "teamB": "Rangers",
+      "prediction": "1-3",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Senegal",
+      "teamB": "Sudan",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mali",
+      "teamB": "Tunisia",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Larne",
+      "teamB": "Coleraine",
+      "prediction": "HOME WIN",
+      "odds": "1.80",
+      "results": "Win"
+    },
+    {
+      "teamA": "Aveley",
+      "teamB": "Canvey Island",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Melbourne Victory",
+      "teamB": "Perth Glory",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Toulouse",
+      "teamB": "RC Lens",
+      "prediction": "AWAY WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Ballymena United",
+      "teamB": "Glenavon",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Carrick Rangers",
+      "teamB": "Glentoran",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Crusaders",
+      "teamB": "Dungannon Swifts",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Linfield",
+      "teamB": "Bangor",
+      "prediction": "HOME WIN",
+      "odds": "1.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Portadown",
+      "teamB": "Cliftonville",
+      "prediction": "AWAY WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Annagh United",
+      "teamB": "Institute",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Ards",
+      "teamB": "Limavady United",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "HW Welders",
+      "teamB": "Armagh City",
+      "prediction": "HOME WIN",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "teamA": "Loughgall",
+      "teamB": "Ballinamallard United",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Newington",
+      "teamB": "Dundela",
+      "prediction": "AWAY WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Queen's University",
+      "teamB": "Warrenpoint Town",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Coagh United",
+      "teamB": "Dollingstown",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Oxford Sunnyside",
+      "teamB": "Rathfriland Rangers",
+      "prediction": "AWAY WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Portstewart",
+      "teamB": "Ballymacash Rangers",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Strabane Athletic",
+      "teamB": "Lisburn Distillery",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Ballyclare Comrades",
+      "teamB": "Newry City",
+      "prediction": "DRAW",
+      "odds": "1.85",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Dergview",
+      "teamB": "Knockbreda",
+      "prediction": "AWAY WIN",
+      "odds": "2.40",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Friday, 2nd January 2026",
   "gamesList": [
     {
