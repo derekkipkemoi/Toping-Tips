@@ -1,171 +1,86 @@
 [
-  {
-    "id": "pl04_01",
+   {
+    "id": "afc_ro16_01",
     "teamA": {
-      "name": "Leeds United",
-      "icon": "https://example.com/icons/leeds.png"
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
     },
     "teamB": {
-      "name": "Manchester United",
-      "icon": "https://example.com/icons/manutd.png"
+      "name": "Benin",
+      "icon": "https://example.com/icons/benin.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "1-2",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "pl04_02",
-    "teamA": {
-      "name": "Everton",
-      "icon": "https://example.com/icons/everton.png"
-    },
-    "teamB": {
-      "name": "Brentford",
-      "icon": "https://example.com/icons/brentford.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "1-0",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "pl04_03",
-    "teamA": {
-      "name": "Fulham",
-      "icon": "https://example.com/icons/fulham.png"
-    },
-    "teamB": {
-      "name": "Liverpool",
-      "icon": "https://example.com/icons/liverpool.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "0-3",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "pl04_04",
-    "teamA": {
-      "name": "Newcastle United",
-      "icon": "https://example.com/icons/newcastle.png"
-    },
-    "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "2-1",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "pl04_05",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://example.com/icons/tottenham.png"
-    },
-    "teamB": {
-      "name": "Sunderland",
-      "icon": "https://example.com/icons/sunderland.png"
-    },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
     "prediction": "3-0",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "pl04_06",
+    "id": "afc_ro16_02",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://example.com/icons/mancity.png"
+      "name": "Nigeria",
+      "icon": "https://example.com/icons/nigeria.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://example.com/icons/chelsea.png"
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
     "prediction": "2-1",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "laliga04_01",
+    "id": "clubfriendly_01",
     "teamA": {
-      "name": "Sevilla",
-      "icon": "https://example.com/icons/sevilla.png"
+      "name": "VfB Stuttgart",
+      "icon": "https://example.com/icons/vfbstuttgart.png"
     },
     "teamB": {
-      "name": "Levante",
-      "icon": "https://example.com/icons/levante.png"
+      "name": "FC Luzern",
+      "icon": "https://example.com/icons/fcluzern.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "2-0",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "laliga04_02",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://example.com/icons/realmadrid.png"
-    },
-    "teamB": {
-      "name": "Real Betis",
-      "icon": "https://example.com/icons/realbetis.png"
-    },
-    "leagueName": "La Liga",
+    "leagueName": "Club Friendlies 2026",
     "prediction": "3-1",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "seriea04_01",
+    "id": "clubfriendly_02",
     "teamA": {
-      "name": "Lazio",
-      "icon": "https://example.com/icons/lazio.png"
+      "name": "Malaga CF",
+      "icon": "https://example.com/icons/malagacf.png"
     },
     "teamB": {
-      "name": "Napoli",
-      "icon": "https://example.com/icons/napoli.png"
+      "name": "SC Telstar",
+      "icon": "https://example.com/icons/sctelstar.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "2-1",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "seriea04_02",
-    "teamA": {
-      "name": "Fiorentina",
-      "icon": "https://example.com/icons/fiorentina.png"
-    },
-    "teamB": {
-      "name": "Cremonese",
-      "icon": "https://example.com/icons/cremonese.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "3-0",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "seriea04_03",
-    "teamA": {
-      "name": "Hellas Verona",
-      "icon": "https://example.com/icons/hellasverona.png"
-    },
-    "teamB": {
-      "name": "Torino",
-      "icon": "https://example.com/icons/torino.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "1-1",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "seriea04_04",
-    "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://example.com/icons/intermilan.png"
-    },
-    "teamB": {
-      "name": "Bologna",
-      "icon": "https://example.com/icons/bologna.png"
-    },
-    "leagueName": "Serie A",
+    "leagueName": "Club Friendlies 2026",
     "prediction": "2-0",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
+  },
+  {
+    "id": "egcup_01",
+    "teamA": {
+      "name": "Al Masry",
+      "icon": "https://example.com/icons/almasry.png"
+    },
+    "teamB": {
+      "name": "Smouha",
+      "icon": "https://example.com/icons/smouha.png"
+    },
+    "leagueName": "Egyptian League Cup",
+    "prediction": "2-1",
+    "date": "2026-01-05"
+  },
+  {
+    "id": "egcup_02",
+    "teamA": {
+      "name": "National Bank of Egypt",
+      "icon": "https://example.com/icons/nationalbankegypt.png"
+    },
+    "teamB": {
+      "name": "Wadi Degla",
+      "icon": "https://example.com/icons/wadidegla.png"
+    },
+    "leagueName": "Egyptian League Cup",
+    "prediction": "1-1",
+    "date": "2026-01-05"
   }
 ]
-
