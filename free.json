@@ -1,30 +1,30 @@
 [
     {
-    "id": "pl04_01",
+    "id": "afc_ro16_01",
     "teamA": {
-      "name": "Leeds United",
-      "icon": "https://example.com/icons/leeds.png"
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
     },
     "teamB": {
-      "name": "Manchester United",
-      "icon": "https://example.com/icons/manutd.png"
+      "name": "Benin",
+      "icon": "https://example.com/icons/benin.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
+    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
+    "prediction": "HOME WIN",
+    "date": "2026-01-05"
   },
   {
-    "id": "pl04_02",
+    "id": "afc_ro16_02",
     "teamA": {
-      "name": "Everton",
-      "icon": "https://example.com/icons/everton.png"
+      "name": "Nigeria",
+      "icon": "https://example.com/icons/nigeria.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://example.com/icons/brentford.png"
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   }
 ]
