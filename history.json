@@ -1,5 +1,199 @@
 [
   {
+  "date": "Sunday, 4th January 2026",
+  "gamesList": [
+    {
+      "teamA": "Leeds United",
+      "teamB": "Manchester United",
+      "prediction": "1-1",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Everton",
+      "teamB": "Brentford",
+      "prediction": "2-4",
+      "odds": "12.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Fulham",
+      "teamB": "Liverpool",
+      "prediction": "2-2",
+      "odds": "11.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Newcastle United",
+      "teamB": "Crystal Palace",
+      "prediction": "2-0",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Tottenham Hotspur",
+      "teamB": "Sunderland",
+      "prediction": "1-1",
+      "odds": "10.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Manchester City",
+      "teamB": "Chelsea",
+      "prediction": "2-1",
+      "odds": "9.50",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Morocco",
+      "teamB": "Tanzania",
+      "prediction": "HOME WIN",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "South Africa",
+      "teamB": "Cameroon",
+      "prediction": "AWAY WIN",
+      "odds": "2.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Inter Milan",
+      "teamB": "Bologna",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Brest",
+      "teamB": "Auxerre",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Le Havre",
+      "teamB": "Angers",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Birmingham City",
+      "teamB": "Coventry City",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Middlesbrough",
+      "teamB": "Southampton",
+      "prediction": "HOME WIN",
+      "odds": "1.95",
+      "results": "Win"
+    },
+    {
+      "teamA": "Charlton Athletic",
+      "teamB": "Derby County",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Coventry City",
+      "teamB": "Millwall",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Ipswich Town",
+      "teamB": "Bristol City",
+      "prediction": "HOME WIN",
+      "odds": "1.85",
+      "results": "Win"
+    },
+    {
+      "teamA": "Oxford United",
+      "teamB": "Queens Park Rangers",
+      "prediction": "HOME WIN",
+      "odds": "2.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Doncaster Rovers",
+      "teamB": "Bolton Wanderers",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Exeter City",
+      "teamB": "Luton Town",
+      "prediction": "DRAW",
+      "odds": "2.10",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Leyton Orient",
+      "teamB": "AFC Wimbledon",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Mansfield Town",
+      "teamB": "Bradford City",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Lincoln City",
+      "teamB": "Huddersfield Town",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Chelmsford City",
+      "teamB": "Slough Town",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Port Vale",
+      "teamB": "Blackpool",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Northampton Town",
+      "teamB": "Stockport County",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Reading",
+      "teamB": "Mansfield Town",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Chelmsford City",
+      "teamB": "Slough Town",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Saturday, 3rd January 2026",
   "gamesList": [
     {
