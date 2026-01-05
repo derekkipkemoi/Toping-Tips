@@ -1,478 +1,213 @@
 [
-    {
-    "id": "pl04_01",
-    "teamA": {
-      "name": "Leeds United",
-      "icon": "https://example.com/icons/leeds.png"
-    },
-    "teamB": {
-      "name": "Manchester United",
-      "icon": "https://example.com/icons/manutd.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
-  },
   {
-    "id": "pl04_02",
+    "id": "afc_ro16_01",
     "teamA": {
-      "name": "Everton",
-      "icon": "https://example.com/icons/everton.png"
+      "name": "Egypt",
+      "icon": "https://example.com/icons/egypt.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://example.com/icons/brentford.png"
+      "name": "Benin",
+      "icon": "https://example.com/icons/benin.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "pl04_03",
+    "id": "afc_ro16_02",
     "teamA": {
-      "name": "Fulham",
-      "icon": "https://example.com/icons/fulham.png"
+      "name": "Nigeria",
+      "icon": "https://example.com/icons/nigeria.png"
     },
     "teamB": {
-      "name": "Liverpool",
-      "icon": "https://example.com/icons/liverpool.png"
+      "name": "Mozambique",
+      "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "pl04_04",
-    "teamA": {
-      "name": "Newcastle United",
-      "icon": "https://example.com/icons/newcastle.png"
-    },
-    "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
-    },
-    "leagueName": "Premier League",
+    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "pl04_05",
+    "id": "clubfriendly_01",
     "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://example.com/icons/tottenham.png"
+      "name": "VfB Stuttgart",
+      "icon": "https://example.com/icons/vfbstuttgart.png"
     },
     "teamB": {
-      "name": "Sunderland",
-      "icon": "https://example.com/icons/sunderland.png"
+      "name": "FC Luzern",
+      "icon": "https://example.com/icons/fcluzern.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Club Friendlies 2026",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "pl04_06",
+    "id": "clubfriendly_02",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://example.com/icons/mancity.png"
+      "name": "Malaga CF",
+      "icon": "https://example.com/icons/malagacf.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://example.com/icons/chelsea.png"
+      "name": "SC Telstar",
+      "icon": "https://example.com/icons/sctelstar.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Club Friendlies 2026",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-   {
-    "id": "laliga04_01",
-    "teamA": {
-      "name": "Sevilla",
-      "icon": "https://example.com/icons/sevilla.png"
-    },
-    "teamB": {
-      "name": "Levante",
-      "icon": "https://example.com/icons/levante.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "laliga04_02",
+    "id": "clubfriendly_03",
     "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://example.com/icons/realmadrid.png"
+      "name": "SSV Ulm 1846",
+      "icon": "https://example.com/icons/ssvulm.png"
     },
     "teamB": {
-      "name": "Real Betis",
-      "icon": "https://example.com/icons/realbetis.png"
+      "name": "Bonner SC",
+      "icon": "https://example.com/icons/bonnersc.png"
     },
-    "leagueName": "La Liga",
+    "leagueName": "Club Friendlies 2026",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "seriea04_01",
+    "id": "baller_01",
     "teamA": {
-      "name": "Lazio",
-      "icon": "https://example.com/icons/lazio.png"
+      "name": "Team A (Baller League UK)",
+      "icon": "https://example.com/icons/generic.png"
     },
     "teamB": {
-      "name": "Napoli",
-      "icon": "https://example.com/icons/napoli.png"
+      "name": "Team B (Baller League UK)",
+      "icon": "https://example.com/icons/generic.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Baller League UK Season 2",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "seriea04_02",
+    "id": "egcup_01",
     "teamA": {
-      "name": "Fiorentina",
-      "icon": "https://example.com/icons/fiorentina.png"
+      "name": "Al Masry",
+      "icon": "https://example.com/icons/almasry.png"
     },
     "teamB": {
-      "name": "Cremonese",
-      "icon": "https://example.com/icons/cremonese.png"
+      "name": "Smouha",
+      "icon": "https://example.com/icons/smouha.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Egyptian League Cup",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "seriea04_03",
+    "id": "egcup_02",
     "teamA": {
-      "name": "Hellas Verona",
-      "icon": "https://example.com/icons/hellasverona.png"
+      "name": "National Bank of Egypt",
+      "icon": "https://example.com/icons/nationalbankegypt.png"
     },
     "teamB": {
-      "name": "Torino",
-      "icon": "https://example.com/icons/torino.png"
+      "name": "Wadi Degla",
+      "icon": "https://example.com/icons/wadidegla.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Egyptian League Cup",
     "prediction": "DRAW",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "seriea04_04",
+    "id": "iraq_01",
     "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://example.com/icons/intermilan.png"
+      "name": "Al Kahrabaa",
+      "icon": "https://example.com/icons/alkahrabaa.png"
     },
     "teamB": {
-      "name": "Bologna",
-      "icon": "https://example.com/icons/bologna.png"
+      "name": "Al Minaa",
+      "icon": "https://example.com/icons/alminaa.png"
     },
-    "leagueName": "Serie A",
+    "leagueName": "Iraq Stars League",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "ligue1_04_01",
+    "id": "iraq_02",
     "teamA": {
-      "name": "Olympique de Marseille",
-      "icon": "https://example.com/icons/marseille.png"
+      "name": "Al Naft",
+      "icon": "https://example.com/icons/alnaft.png"
     },
     "teamB": {
-      "name": "FC Nantes",
-      "icon": "https://example.com/icons/nantes.png"
+      "name": "Newroz",
+      "icon": "https://example.com/icons/newroz.png"
     },
-    "leagueName": "Ligue 1",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "ligue1_04_02",
-    "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://example.com/icons/psg.png"
-    },
-    "teamB": {
-      "name": "Paris FC",
-      "icon": "https://example.com/icons/parisfc.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "champ04_01",
-    "teamA": {
-      "name": "Blackburn Rovers",
-      "icon": "https://example.com/icons/blackburnrovers.png"
-    },
-    "teamB": {
-      "name": "Wrexham",
-      "icon": "https://example.com/icons/wrexham.png"
-    },
-    "leagueName": "EFL Championship",
+    "leagueName": "Iraq Stars League",
     "prediction": "DRAW",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "champ04_02",
+    "id": "isrleumit_01",
     "teamA": {
-      "name": "Bristol City",
-      "icon": "https://example.com/icons/bristolcity.png"
+      "name": "Team from Liga Leumit",
+      "icon": "https://example.com/icons/generic.png"
     },
     "teamB": {
-      "name": "Portsmouth",
-      "icon": "https://example.com/icons/portsmouth.png"
+      "name": "Opponent",
+      "icon": "https://example.com/icons/generic.png"
     },
-    "leagueName": "EFL Championship",
+    "leagueName": "Liga Leumit",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "champ04_03",
+    "id": "seriec_01",
     "teamA": {
-      "name": "Charlton Athletic",
-      "icon": "https://example.com/icons/charltonathletic.png"
+      "name": "Alcione Milano",
+      "icon": "https://example.com/icons/alcione.png"
     },
     "teamB": {
-      "name": "Coventry City",
-      "icon": "https://example.com/icons/coventrycity.png"
+      "name": "Triestina",
+      "icon": "https://example.com/icons/triestina.png"
     },
-    "leagueName": "EFL Championship",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
+    "leagueName": "Serie C Group A",
+    "prediction": "HOME WIN",
+    "date": "2026-01-05"
   },
   {
-    "id": "champ04_04",
+    "id": "seriec_02",
     "teamA": {
-      "name": "Derby County",
-      "icon": "https://example.com/icons/derbycounty.png"
+      "name": "Casertana",
+      "icon": "https://example.com/icons/casertana.png"
     },
     "teamB": {
-      "name": "Middlesbrough",
-      "icon": "https://example.com/icons/middlesbrough.png"
+      "name": "Altamura",
+      "icon": "https://example.com/icons/altamura.png"
     },
-    "leagueName": "EFL Championship",
+    "leagueName": "Serie C Group C",
+    "prediction": "HOME WIN",
+    "date": "2026-01-05"
+  },
+  {
+    "id": "seriec_03",
+    "teamA": {
+      "name": "Crotone",
+      "icon": "https://example.com/icons/crotone.png"
+    },
+    "teamB": {
+      "name": "Benevento",
+      "icon": "https://example.com/icons/benevento.png"
+    },
+    "leagueName": "Serie C Group C",
     "prediction": "DRAW",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   },
   {
-    "id": "champ04_05",
+    "id": "champ_01",
     "teamA": {
-      "name": "Hull City",
-      "icon": "https://example.com/icons/hullcity.png"
+      "name": "Team from Championship",
+      "icon": "https://example.com/icons/generic.png"
     },
     "teamB": {
-      "name": "Stoke City",
-      "icon": "https://example.com/icons/stokecity.png"
+      "name": "Opponent",
+      "icon": "https://example.com/icons/generic.png"
     },
     "leagueName": "EFL Championship",
     "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "champ04_06",
-    "teamA": {
-      "name": "Ipswich Town",
-      "icon": "https://example.com/icons/ipswichtown.png"
-    },
-    "teamB": {
-      "name": "Oxford United",
-      "icon": "https://example.com/icons/oxfordunited.png"
-    },
-    "leagueName": "EFL Championship",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "champ04_07",
-    "teamA": {
-      "name": "Preston North End",
-      "icon": "https://example.com/icons/prestonnorthend.png"
-    },
-    "teamB": {
-      "name": "Sheffield Wednesday",
-      "icon": "https://example.com/icons/sheffieldwednesday.png"
-    },
-    "leagueName": "EFL Championship",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "champ04_08",
-    "teamA": {
-      "name": "Queens Park Rangers",
-      "icon": "https://example.com/icons/qpr.png"
-    },
-    "teamB": {
-      "name": "Norwich City",
-      "icon": "https://example.com/icons/norwichcity.png"
-    },
-    "leagueName": "EFL Championship",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_01",
-    "teamA": {
-      "name": "Barnsley",
-      "icon": "https://example.com/icons/barnsley.png"
-    },
-    "teamB": {
-      "name": "Birmingham City",
-      "icon": "https://example.com/icons/birminghamcity.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_02",
-    "teamA": {
-      "name": "Bolton Wanderers",
-      "icon": "https://example.com/icons/boltonwanderers.png"
-    },
-    "teamB": {
-      "name": "Lincoln City",
-      "icon": "https://example.com/icons/lincolncity.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_03",
-    "teamA": {
-      "name": "Burton Albion",
-      "icon": "https://example.com/icons/burtonalbion.png"
-    },
-    "teamB": {
-      "name": "Wrexham",
-      "icon": "https://example.com/icons/wrexham.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_04",
-    "teamA": {
-      "name": "Cambridge United",
-      "icon": "https://example.com/icons/cambridgeunited.png"
-    },
-    "teamB": {
-      "name": "Leyton Orient",
-      "icon": "https://example.com/icons/leytonorient.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "DRAW",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_05",
-    "teamA": {
-      "name": "Charlton Athletic",
-      "icon": "https://example.com/icons/charltonathletic.png"
-    },
-    "teamB": {
-      "name": "Reading",
-      "icon": "https://example.com/icons/reading.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_06",
-    "teamA": {
-      "name": "Exeter City",
-      "icon": "https://example.com/icons/exetercity.png"
-    },
-    "teamB": {
-      "name": "Northampton Town",
-      "icon": "https://example.com/icons/northamptontown.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_07",
-    "teamA": {
-      "name": "Huddersfield Town",
-      "icon": "https://example.com/icons/huddersfieldtown.png"
-    },
-    "teamB": {
-      "name": "Stockport County",
-      "icon": "https://example.com/icons/stockportcounty.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "DRAW",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_08",
-    "teamA": {
-      "name": "Mansfield Town",
-      "icon": "https://example.com/icons/mansfieldtown.png"
-    },
-    "teamB": {
-      "name": "Peterborough United",
-      "icon": "https://example.com/icons/peterboroughunited.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_09",
-    "teamA": {
-      "name": "Rotherham United",
-      "icon": "https://example.com/icons/rotherhamunited.png"
-    },
-    "teamB": {
-      "name": "Wycombe Wanderers",
-      "icon": "https://example.com/icons/wycombewanderers.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_10",
-    "teamA": {
-      "name": "Shrewsbury Town",
-      "icon": "https://example.com/icons/shrewsburytown.png"
-    },
-    "teamB": {
-      "name": "Blackpool",
-      "icon": "https://example.com/icons/blackpool.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_11",
-    "teamA": {
-      "name": "Stevenage",
-      "icon": "https://example.com/icons/stevenage.png"
-    },
-    "teamB": {
-      "name": "Crawley Town",
-      "icon": "https://example.com/icons/crawleytown.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
-  },
-  {
-    "id": "l1_04_12",
-    "teamA": {
-      "name": "Wigan Athletic",
-      "icon": "https://example.com/icons/wiganathletic.png"
-    },
-    "teamB": {
-      "name": "Bristol Rovers",
-      "icon": "https://example.com/icons/bristolrovers.png"
-    },
-    "leagueName": "EFL League One",
-    "prediction": "HOME WIN",
-    "date": "2026-01-04"
+    "date": "2026-01-05"
   }
 ]
+
