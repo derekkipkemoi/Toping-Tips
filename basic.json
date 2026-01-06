@@ -1,114 +1,58 @@
 [
   {
-    "id": "pl06_01",
+    "id": "pl2-20260107",
     "teamA": {
-      "name": "West Ham United",
-      "icon": "https://example.com/icons/westham.png"
+      "name": "Fulham",
+      "icon": "https://example.com/icons/fulham.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://example.com/icons/nottinghamforest.png"
+      "name": "Chelsea",
+      "icon": "https://example.com/icons/chelsea.png"
     },
-    "leagueName": "Premier League England",
-    "prediction": "HOME WIN",
-    "date": "2026-01-06"
+    "leagueName": "Premier League",
+    "prediction": "AWAY",
+    "date": "2026-01-07"
   },
   {
-    "id": "seriea06_01",
+    "id": "pl3-20260107",
     "teamA": {
-      "name": "Pisa",
-      "icon": "https://example.com/icons/pisa.png"
+      "name": "Everton",
+      "icon": "https://example.com/icons/everton.png"
     },
     "teamB": {
-      "name": "Como",
-      "icon": "https://example.com/icons/como.png"
+      "name": "Wolves",
+      "icon": "https://example.com/icons/wolves.png"
     },
-    "leagueName": "Serie A Italy",
-    "prediction": "HOME WIN",
-    "date": "2026-01-06"
+    "leagueName": "Premier League",
+    "prediction": "HOME",
+    "date": "2026-01-07"
   },
   {
-    "id": "seriea06_02",
+    "id": "pl4-20260107",
     "teamA": {
-      "name": "Lecce",
-      "icon": "https://example.com/icons/lecce.png"
+      "name": "Crystal Palace",
+      "icon": "https://example.com/icons/crystalpalace.png"
     },
     "teamB": {
-      "name": "AS Roma",
-      "icon": "https://example.com/icons/asroma.png"
+      "name": "Aston Villa",
+      "icon": "https://example.com/icons/astonvilla.png"
     },
-    "leagueName": "Serie A Italy",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-06"
+    "leagueName": "Premier League",
+    "prediction": "AWAY",
+    "date": "2026-01-07"
   },
   {
-    "id": "seriea06_03",
+    "id": "pl5-20260107",
     "teamA": {
-      "name": "Sassuolo",
-      "icon": "https://example.com/icons/sassuolo.png"
+      "name": "Brentford",
+      "icon": "https://example.com/icons/brentford.png"
     },
     "teamB": {
-      "name": "Juventus",
-      "icon": "https://example.com/icons/juventus.png"
+      "name": "Sunderland",
+      "icon": "https://example.com/icons/sunderland.png"
     },
-    "leagueName": "Serie A Italy",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "seriea06_04",
-    "teamA": {
-      "name": "Napoli",
-      "icon": "https://example.com/icons/napoli.png"
-    },
-    "teamB": {
-      "name": "Parma",
-      "icon": "https://example.com/icons/parma.png"
-    },
-    "leagueName": "Serie A Italy",
-    "prediction": "HOME WIN",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "seriea06_05",
-    "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://example.com/icons/intermilan.png"
-    },
-    "teamB": {
-      "name": "Lecce",
-      "icon": "https://example.com/icons/lecce.png"
-    },
-    "leagueName": "Serie A Italy",
-    "prediction": "HOME WIN",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "afc06_01",
-    "teamA": {
-      "name": "Algeria",
-      "icon": "https://example.com/icons/algeria.png"
-    },
-    "teamB": {
-      "name": "DR Congo",
-      "icon": "https://example.com/icons/drcongo.png"
-    },
-    "leagueName": "Africa Cup of Nations",
-    "prediction": "HOME WIN",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "afc06_02",
-    "teamA": {
-      "name": "Nigeria",
-      "icon": "https://example.com/icons/nigeria.png"
-    },
-    "teamB": {
-      "name": "Mozambique",
-      "icon": "https://example.com/icons/mozambique.png"
-    },
-    "leagueName": "Africa Cup of Nations",
-    "prediction": "HOME WIN",
-    "date": "2026-01-06"
+    "leagueName": "Premier League",
+    "prediction": "HOME",
+    "date": "2026-01-07"
   }
 ]
