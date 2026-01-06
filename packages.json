@@ -49,39 +49,6 @@
     "isMostPopular": false
   },
     {
-    "id": "jackpot",
-    "title": "SportPesa Jackpot",
-    "subtitle": "Guaranteed Bonus Win",
-    "price": {
-      "name": "Jackpot",
-      "prices": [
-        {
-          "amount": 4,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 10,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 25,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
-    },
-    "features": [
-      "Powerful Jackpot Predictions with Massive Odds",
-      "Expertly Built Multi-Match Combinations",
-      "High-Risk, High-Reward Betting Strategies",
-      "Exclusive Picks Designed for Big Wins"
-    ],
-    "type": "JACKPOT",
-    "isMostPopular": false
-  },
-    {
     "id": "correct",
     "title": "Correct Score",
     "subtitle": "High Precision Tips",
