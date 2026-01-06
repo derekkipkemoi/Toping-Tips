@@ -1,20 +1,19 @@
-[
-   {
-    "id": "afc_ro16_01",
+[  {
+    "id": "afc06_01",
     "teamA": {
-      "name": "Egypt",
-      "icon": "https://example.com/icons/egypt.png"
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://example.com/icons/benin.png"
+      "name": "DR Congo",
+      "icon": "https://example.com/icons/drcongo.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
-    "prediction": "3-0",
-    "date": "2026-01-05"
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "2-0",
+    "date": "2026-01-06"
   },
   {
-    "id": "afc_ro16_02",
+    "id": "afc06_02",
     "teamA": {
       "name": "Nigeria",
       "icon": "https://example.com/icons/nigeria.png"
@@ -23,9 +22,37 @@
       "name": "Mozambique",
       "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
-    "prediction": "2-1",
-    "date": "2026-01-05"
+    "leagueName": "Africa Cup of Nations 2025",
+    "prediction": "3-1",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "u23afc_01",
+    "teamA": {
+      "name": "Vietnam U23",
+      "icon": "https://example.com/icons/vietnamu23.png"
+    },
+    "teamB": {
+      "name": "Jordan U23",
+      "icon": "https://example.com/icons/jordanu23.png"
+    },
+    "leagueName": "AFC U23 Asian Cup 2026",
+    "prediction": "1-1",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "u23afc_02",
+    "teamA": {
+      "name": "Saudi Arabia U23",
+      "icon": "https://example.com/icons/saudiarabiau23.png"
+    },
+    "teamB": {
+      "name": "Kyrgyzstan U23",
+      "icon": "https://example.com/icons/kyrgyzstanu23.png"
+    },
+    "leagueName": "AFC U23 Asian Cup 2026",
+    "prediction": "3-0",
+    "date": "2026-01-06"
   },
   {
     "id": "clubfriendly_01",
@@ -39,7 +66,7 @@
     },
     "leagueName": "Club Friendlies 2026",
     "prediction": "3-1",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
     "id": "clubfriendly_02",
@@ -53,34 +80,35 @@
     },
     "leagueName": "Club Friendlies 2026",
     "prediction": "2-0",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
-    "id": "egcup_01",
+    "id": "clubfriendly_03",
     "teamA": {
-      "name": "Al Masry",
-      "icon": "https://example.com/icons/almasry.png"
+      "name": "SSV Ulm 1846",
+      "icon": "https://example.com/icons/ssvulm.png"
     },
     "teamB": {
-      "name": "Smouha",
-      "icon": "https://example.com/icons/smouha.png"
+      "name": "Bonner SC",
+      "icon": "https://example.com/icons/bonnersc.png"
     },
-    "leagueName": "Egyptian League Cup",
-    "prediction": "2-1",
-    "date": "2026-01-05"
+    "leagueName": "Club Friendlies 2026",
+    "prediction": "4-0",
+    "date": "2026-01-06"
   },
   {
-    "id": "egcup_02",
+    "id": "seried_01",
     "teamA": {
-      "name": "National Bank of Egypt",
-      "icon": "https://example.com/icons/nationalbankegypt.png"
+      "name": "SCD Progresso",
+      "icon": "https://example.com/icons/scdprogresso.png"
     },
     "teamB": {
-      "name": "Wadi Degla",
-      "icon": "https://example.com/icons/wadidegla.png"
+      "name": "Pro Sesto",
+      "icon": "https://example.com/icons/prosesto.png"
     },
-    "leagueName": "Egyptian League Cup",
-    "prediction": "1-1",
-    "date": "2026-01-05"
+    "leagueName": "Serie D Italy",
+    "prediction": "1-2",
+    "date": "2026-01-06"
   }
+
 ]
