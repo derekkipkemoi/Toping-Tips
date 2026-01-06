@@ -1,5 +1,150 @@
 [
   {
+  "date": "Monday, 5th January 2026",
+  "gamesList": [
+    {
+      "teamA": "Egypt",
+      "teamB": "Benin",
+      "prediction": "2-0",
+      "odds": "8.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Nigeria",
+      "teamB": "Mozambique",
+      "prediction": "3-1",
+      "odds": "12.00",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Algeria",
+      "teamB": "DR Congo",
+      "prediction": "2-1",
+      "odds": "9.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Ivory Coast",
+      "teamB": "Burkina Faso",
+      "prediction": "1-0",
+      "odds": "8.50",
+      "results": "Win"
+    },
+    {
+      "teamA": "Chelmsford City",
+      "teamB": "Slough Town",
+      "prediction": "2-1",
+      "odds": "10.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Triestina",
+      "teamB": "ASD Alcione",
+      "prediction": "1-0",
+      "odds": "9.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Kholood",
+      "teamB": "Al Hilal",
+      "prediction": "AWAY WIN",
+      "odds": "1.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Shabab",
+      "teamB": "Al Qadasiya",
+      "prediction": "DRAW",
+      "odds": "3.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Fayha",
+      "teamB": "Al Hazem",
+      "prediction": "HOME WIN",
+      "odds": "2.10",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al-Riyadh",
+      "teamB": "Al Ettifaq",
+      "prediction": "DRAW",
+      "odds": "2.20",
+      "results": "Lost"
+    },
+    {
+      "teamA": "Neom SC",
+      "teamB": "Al Najma",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Ahli",
+      "teamB": "Al Fateh",
+      "prediction": "HOME WIN",
+      "odds": "1.60",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Ittihad",
+      "teamB": "Al Taawoun",
+      "prediction": "HOME WIN",
+      "odds": "1.75",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Nassr",
+      "teamB": "Al Orobah",
+      "prediction": "HOME WIN",
+      "odds": "1.40",
+      "results": "Win"
+    },
+    {
+      "teamA": "Damac",
+      "teamB": "Al Wehda",
+      "prediction": "DRAW",
+      "odds": "3.30",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Raed",
+      "teamB": "Al Okhdood",
+      "prediction": "HOME WIN",
+      "odds": "2.00",
+      "results": "Win"
+    },
+    {
+      "teamA": "Maccabi Netanya",
+      "teamB": "Hapoel Petach Tikva",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Gharraf",
+      "teamB": "Al-Karma",
+      "prediction": "HOME WIN",
+      "odds": "2.20",
+      "results": "Win"
+    },
+    {
+      "teamA": "Al Talaba",
+      "teamB": "Al Musel",
+      "prediction": "HOME WIN",
+      "odds": "1.90",
+      "results": "Win"
+    },
+    {
+      "teamA": "Zakho",
+      "teamB": "Al Karkh",
+      "prediction": "DRAW",
+      "odds": "3.20",
+      "results": "Win"
+    }
+  ]
+},
+  {
   "date": "Sunday, 4th January 2026",
   "gamesList": [
     {
