@@ -1,114 +1,58 @@
-[  {
-    "id": "afc06_01",
-    "teamA": {
-      "name": "Algeria",
-      "icon": "https://example.com/icons/algeria.png"
-    },
-    "teamB": {
-      "name": "DR Congo",
-      "icon": "https://example.com/icons/drcongo.png"
-    },
-    "leagueName": "Africa Cup of Nations 2025",
-    "prediction": "2-0",
-    "date": "2026-01-06"
-  },
+[
   {
-    "id": "afc06_02",
+    "id": "pl1-20260107",
     "teamA": {
-      "name": "Nigeria",
-      "icon": "https://example.com/icons/nigeria.png"
+      "name": "Manchester City",
+      "icon": "https://example.com/icons/mancity.png"
     },
     "teamB": {
-      "name": "Mozambique",
-      "icon": "https://example.com/icons/mozambique.png"
+      "name": "Brighton",
+      "icon": "https://example.com/icons/brighton.png"
     },
-    "leagueName": "Africa Cup of Nations 2025",
+    "leagueName": "Premier League",
     "prediction": "3-1",
-    "date": "2026-01-06"
+    "date": "2026-01-07"
   },
   {
-    "id": "u23afc_01",
+    "id": "pl8-20260107",
     "teamA": {
-      "name": "Vietnam U23",
-      "icon": "https://example.com/icons/vietnamu23.png"
+      "name": "Burnley",
+      "icon": "https://example.com/icons/burnley.png"
     },
     "teamB": {
-      "name": "Jordan U23",
-      "icon": "https://example.com/icons/jordanu23.png"
+      "name": "Manchester United",
+      "icon": "https://example.com/icons/manutd.png"
     },
-    "leagueName": "AFC U23 Asian Cup 2026",
-    "prediction": "1-1",
-    "date": "2026-01-06"
+    "leagueName": "Premier League",
+    "prediction": "0-2",
+    "date": "2026-01-07"
   },
   {
-    "id": "u23afc_02",
+    "id": "sa4-20260107",
     "teamA": {
-      "name": "Saudi Arabia U23",
-      "icon": "https://example.com/icons/saudiarabiau23.png"
+      "name": "Parma",
+      "icon": "https://example.com/icons/parma.png"
     },
     "teamB": {
-      "name": "Kyrgyzstan U23",
-      "icon": "https://example.com/icons/kyrgyzstanu23.png"
+      "name": "Inter Milan",
+      "icon": "https://example.com/icons/inter.png"
     },
-    "leagueName": "AFC U23 Asian Cup 2026",
-    "prediction": "3-0",
-    "date": "2026-01-06"
+    "leagueName": "Serie A",
+    "prediction": "0-3",
+    "date": "2026-01-07"
   },
   {
-    "id": "clubfriendly_01",
+    "id": "sup1-20260107",
     "teamA": {
-      "name": "VfB Stuttgart",
-      "icon": "https://example.com/icons/vfbstuttgart.png"
+      "name": "Barcelona",
+      "icon": "https://example.com/icons/barcelona.png"
     },
     "teamB": {
-      "name": "FC Luzern",
-      "icon": "https://example.com/icons/fcluzern.png"
+      "name": "Athletic Bilbao",
+      "icon": "https://example.com/icons/athleticbilbao.png"
     },
-    "leagueName": "Club Friendlies 2026",
+    "leagueName": "Supercopa de España",
     "prediction": "3-1",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "clubfriendly_02",
-    "teamA": {
-      "name": "Malaga CF",
-      "icon": "https://example.com/icons/malagacf.png"
-    },
-    "teamB": {
-      "name": "SC Telstar",
-      "icon": "https://example.com/icons/sctelstar.png"
-    },
-    "leagueName": "Club Friendlies 2026",
-    "prediction": "2-0",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "clubfriendly_03",
-    "teamA": {
-      "name": "SSV Ulm 1846",
-      "icon": "https://example.com/icons/ssvulm.png"
-    },
-    "teamB": {
-      "name": "Bonner SC",
-      "icon": "https://example.com/icons/bonnersc.png"
-    },
-    "leagueName": "Club Friendlies 2026",
-    "prediction": "4-0",
-    "date": "2026-01-06"
-  },
-  {
-    "id": "seried_01",
-    "teamA": {
-      "name": "SCD Progresso",
-      "icon": "https://example.com/icons/scdprogresso.png"
-    },
-    "teamB": {
-      "name": "Pro Sesto",
-      "icon": "https://example.com/icons/prosesto.png"
-    },
-    "leagueName": "Serie D Italy",
-    "prediction": "1-2",
-    "date": "2026-01-06"
+    "date": "2026-01-07"
   }
-
 ]
