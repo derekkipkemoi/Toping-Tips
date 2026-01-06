@@ -1,20 +1,104 @@
 [
   {
-    "id": "afc_ro16_01",
+    "id": "pl06_01",
     "teamA": {
-      "name": "Egypt",
-      "icon": "https://example.com/icons/egypt.png"
+      "name": "West Ham United",
+      "icon": "https://example.com/icons/westham.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://example.com/icons/benin.png"
+      "name": "Nottingham Forest",
+      "icon": "https://example.com/icons/nottinghamforest.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
+    "leagueName": "Premier League England",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
-    "id": "afc_ro16_02",
+    "id": "seriea06_01",
+    "teamA": {
+      "name": "Pisa",
+      "icon": "https://example.com/icons/pisa.png"
+    },
+    "teamB": {
+      "name": "Como",
+      "icon": "https://example.com/icons/como.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_02",
+    "teamA": {
+      "name": "Lecce",
+      "icon": "https://example.com/icons/lecce.png"
+    },
+    "teamB": {
+      "name": "AS Roma",
+      "icon": "https://example.com/icons/asroma.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_03",
+    "teamA": {
+      "name": "Sassuolo",
+      "icon": "https://example.com/icons/sassuolo.png"
+    },
+    "teamB": {
+      "name": "Juventus",
+      "icon": "https://example.com/icons/juventus.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_04",
+    "teamA": {
+      "name": "Napoli",
+      "icon": "https://example.com/icons/napoli.png"
+    },
+    "teamB": {
+      "name": "Parma",
+      "icon": "https://example.com/icons/parma.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_05",
+    "teamA": {
+      "name": "Inter Milan",
+      "icon": "https://example.com/icons/intermilan.png"
+    },
+    "teamB": {
+      "name": "Lecce",
+      "icon": "https://example.com/icons/lecce.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "afc06_01",
+    "teamA": {
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
+    },
+    "teamB": {
+      "name": "DR Congo",
+      "icon": "https://example.com/icons/drcongo.png"
+    },
+    "leagueName": "Africa Cup of Nations",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "afc06_02",
     "teamA": {
       "name": "Nigeria",
       "icon": "https://example.com/icons/nigeria.png"
@@ -23,78 +107,8 @@
       "name": "Mozambique",
       "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
+    "leagueName": "Africa Cup of Nations",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "clubfriendly_01",
-    "teamA": {
-      "name": "VfB Stuttgart",
-      "icon": "https://example.com/icons/vfbstuttgart.png"
-    },
-    "teamB": {
-      "name": "FC Luzern",
-      "icon": "https://example.com/icons/fcluzern.png"
-    },
-    "leagueName": "Club Friendlies 2026",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "clubfriendly_02",
-    "teamA": {
-      "name": "Malaga CF",
-      "icon": "https://example.com/icons/malagacf.png"
-    },
-    "teamB": {
-      "name": "SC Telstar",
-      "icon": "https://example.com/icons/sctelstar.png"
-    },
-    "leagueName": "Club Friendlies 2026",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "clubfriendly_03",
-    "teamA": {
-      "name": "SSV Ulm 1846",
-      "icon": "https://example.com/icons/ssvulm.png"
-    },
-    "teamB": {
-      "name": "Bonner SC",
-      "icon": "https://example.com/icons/bonnersc.png"
-    },
-    "leagueName": "Club Friendlies 2026",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "baller_01",
-    "teamA": {
-      "name": "Team A (Baller League UK)",
-      "icon": "https://example.com/icons/generic.png"
-    },
-    "teamB": {
-      "name": "Team B (Baller League UK)",
-      "icon": "https://example.com/icons/generic.png"
-    },
-    "leagueName": "Baller League UK Season 2",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "egcup_01",
-    "teamA": {
-      "name": "Al Masry",
-      "icon": "https://example.com/icons/almasry.png"
-    },
-    "teamB": {
-      "name": "Smouha",
-      "icon": "https://example.com/icons/smouha.png"
-    },
-    "leagueName": "Egyptian League Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   }
 ]
