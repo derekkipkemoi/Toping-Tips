@@ -1,20 +1,104 @@
 [
   {
-    "id": "afc_ro16_01",
+    "id": "pl06_01",
     "teamA": {
-      "name": "Egypt",
-      "icon": "https://example.com/icons/egypt.png"
+      "name": "West Ham United",
+      "icon": "https://example.com/icons/westham.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://example.com/icons/benin.png"
+      "name": "Nottingham Forest",
+      "icon": "https://example.com/icons/nottinghamforest.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
+    "leagueName": "Premier League England",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
-    "id": "afc_ro16_02",
+    "id": "seriea06_01",
+    "teamA": {
+      "name": "Pisa",
+      "icon": "https://example.com/icons/pisa.png"
+    },
+    "teamB": {
+      "name": "Como",
+      "icon": "https://example.com/icons/como.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_02",
+    "teamA": {
+      "name": "Lecce",
+      "icon": "https://example.com/icons/lecce.png"
+    },
+    "teamB": {
+      "name": "AS Roma",
+      "icon": "https://example.com/icons/asroma.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_03",
+    "teamA": {
+      "name": "Sassuolo",
+      "icon": "https://example.com/icons/sassuolo.png"
+    },
+    "teamB": {
+      "name": "Juventus",
+      "icon": "https://example.com/icons/juventus.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_04",
+    "teamA": {
+      "name": "Napoli",
+      "icon": "https://example.com/icons/napoli.png"
+    },
+    "teamB": {
+      "name": "Parma",
+      "icon": "https://example.com/icons/parma.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "seriea06_05",
+    "teamA": {
+      "name": "Inter Milan",
+      "icon": "https://example.com/icons/intermilan.png"
+    },
+    "teamB": {
+      "name": "Lecce",
+      "icon": "https://example.com/icons/lecce.png"
+    },
+    "leagueName": "Serie A Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "afc06_01",
+    "teamA": {
+      "name": "Algeria",
+      "icon": "https://example.com/icons/algeria.png"
+    },
+    "teamB": {
+      "name": "DR Congo",
+      "icon": "https://example.com/icons/drcongo.png"
+    },
+    "leagueName": "Africa Cup of Nations",
+    "prediction": "HOME WIN",
+    "date": "2026-01-06"
+  },
+  {
+    "id": "afc06_02",
     "teamA": {
       "name": "Nigeria",
       "icon": "https://example.com/icons/nigeria.png"
@@ -23,9 +107,9 @@
       "name": "Mozambique",
       "icon": "https://example.com/icons/mozambique.png"
     },
-    "leagueName": "Africa Cup of Nations 2025 - Round of 16",
+    "leagueName": "Africa Cup of Nations",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
     "id": "clubfriendly_01",
@@ -39,7 +123,7 @@
     },
     "leagueName": "Club Friendlies 2026",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
     "id": "clubfriendly_02",
@@ -53,7 +137,7 @@
     },
     "leagueName": "Club Friendlies 2026",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
     "id": "clubfriendly_03",
@@ -67,147 +151,63 @@
     },
     "leagueName": "Club Friendlies 2026",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
-    "id": "baller_01",
+    "id": "u23afc_01",
     "teamA": {
-      "name": "Team A (Baller League UK)",
-      "icon": "https://example.com/icons/generic.png"
+      "name": "Vietnam U23",
+      "icon": "https://example.com/icons/vietnamu23.png"
     },
     "teamB": {
-      "name": "Team B (Baller League UK)",
-      "icon": "https://example.com/icons/generic.png"
+      "name": "Jordan U23",
+      "icon": "https://example.com/icons/jordanu23.png"
     },
-    "leagueName": "Baller League UK Season 2",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "egcup_01",
-    "teamA": {
-      "name": "Al Masry",
-      "icon": "https://example.com/icons/almasry.png"
-    },
-    "teamB": {
-      "name": "Smouha",
-      "icon": "https://example.com/icons/smouha.png"
-    },
-    "leagueName": "Egyptian League Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "egcup_02",
-    "teamA": {
-      "name": "National Bank of Egypt",
-      "icon": "https://example.com/icons/nationalbankegypt.png"
-    },
-    "teamB": {
-      "name": "Wadi Degla",
-      "icon": "https://example.com/icons/wadidegla.png"
-    },
-    "leagueName": "Egyptian League Cup",
+    "leagueName": "Asian Cup U23 AFC",
     "prediction": "DRAW",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
-    "id": "iraq_01",
+    "id": "u23afc_02",
     "teamA": {
-      "name": "Al Kahrabaa",
-      "icon": "https://example.com/icons/alkahrabaa.png"
+      "name": "Saudi Arabia U23",
+      "icon": "https://example.com/icons/saudiarabiau23.png"
     },
     "teamB": {
-      "name": "Al Minaa",
-      "icon": "https://example.com/icons/alminaa.png"
+      "name": "Kyrgyzstan U23",
+      "icon": "https://example.com/icons/kyrgyzstanu23.png"
     },
-    "leagueName": "Iraq Stars League",
+    "leagueName": "Asian Cup U23 AFC",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   },
   {
-    "id": "iraq_02",
+    "id": "seried_01",
     "teamA": {
-      "name": "Al Naft",
-      "icon": "https://example.com/icons/alnaft.png"
+      "name": "SCD Progresso",
+      "icon": "https://example.com/icons/scdprogresso.png"
     },
     "teamB": {
-      "name": "Newroz",
-      "icon": "https://example.com/icons/newroz.png"
+      "name": "Pro Sesto",
+      "icon": "https://example.com/icons/prosesto.png"
     },
-    "leagueName": "Iraq Stars League",
-    "prediction": "DRAW",
-    "date": "2026-01-05"
+    "leagueName": "Serie D Italy",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-06"
   },
   {
-    "id": "isrleumit_01",
+    "id": "challenge_cup_01",
     "teamA": {
-      "name": "Team from Liga Leumit",
-      "icon": "https://example.com/icons/generic.png"
+      "name": "Partick Thistle",
+      "icon": "https://example.com/icons/partickthistle.png"
     },
     "teamB": {
-      "name": "Opponent",
-      "icon": "https://example.com/icons/generic.png"
+      "name": "Inverness Caledonian Thistle",
+      "icon": "https://example.com/icons/inverness.png"
     },
-    "leagueName": "Liga Leumit",
+    "leagueName": "Challenge Cup Scotland",
     "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "seriec_01",
-    "teamA": {
-      "name": "Alcione Milano",
-      "icon": "https://example.com/icons/alcione.png"
-    },
-    "teamB": {
-      "name": "Triestina",
-      "icon": "https://example.com/icons/triestina.png"
-    },
-    "leagueName": "Serie C Group A",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "seriec_02",
-    "teamA": {
-      "name": "Casertana",
-      "icon": "https://example.com/icons/casertana.png"
-    },
-    "teamB": {
-      "name": "Altamura",
-      "icon": "https://example.com/icons/altamura.png"
-    },
-    "leagueName": "Serie C Group C",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "seriec_03",
-    "teamA": {
-      "name": "Crotone",
-      "icon": "https://example.com/icons/crotone.png"
-    },
-    "teamB": {
-      "name": "Benevento",
-      "icon": "https://example.com/icons/benevento.png"
-    },
-    "leagueName": "Serie C Group C",
-    "prediction": "DRAW",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "champ_01",
-    "teamA": {
-      "name": "Team from Championship",
-      "icon": "https://example.com/icons/generic.png"
-    },
-    "teamB": {
-      "name": "Opponent",
-      "icon": "https://example.com/icons/generic.png"
-    },
-    "leagueName": "EFL Championship",
-    "prediction": "HOME WIN",
-    "date": "2026-01-05"
+    "date": "2026-01-06"
   }
 ]
 
