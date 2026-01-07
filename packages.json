@@ -23,17 +23,17 @@
       "name": "Basic",
       "prices": [
         {
-          "amount": 3,
+          "amount": 2,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 8,
+          "amount": 4,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 15,
+          "amount": 10,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -56,17 +56,17 @@
       "name": "Betika Jackpot",
       "prices": [
         {
-          "amount": 15,
+          "amount": 10,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 25,
+          "amount": 15,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 30,
+          "amount": 25,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -122,17 +122,17 @@
       "name": "Premium",
       "prices": [
         {
-          "amount": 2,
+          "amount": 6,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 5,
+          "amount": 12,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 15,
+          "amount": 20,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
