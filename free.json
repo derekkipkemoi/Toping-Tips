@@ -10,7 +10,7 @@
       "icon": "https://media.api-sports.io/football/teams/2945.png"
     },
     "leagueName": "Pro League",
-    "prediction": "HOME",
+    "prediction": "HOME WIN",
     "date": "2026-01-08"
   },
   {
@@ -24,7 +24,7 @@
       "icon": "https://media.api-sports.io/football/teams/2933.png"
     },
     "leagueName": "Pro League",
-    "prediction": "HOME",
+    "prediction": "HOME WIN",
     "date": "2026-01-08"
   },
   {
@@ -38,7 +38,7 @@
       "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "leagueName": "Premier League",
-    "prediction": "HOME",
+    "prediction": "HOME WIN",
     "date": "2026-01-08"
   }
 ]
