@@ -1,5 +1,87 @@
 [
   {
+  "date": "Wednesday, 7th January 2026",
+  "gamesList":[
+  {
+    "teamA": "Everton",
+    "teamB": "Wolves",
+    "prediction": "1-0",
+    "odds": "2.10",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Fulham",
+    "teamB": "Chelsea",
+    "prediction": "AWAY WIN",
+    "odds": "4.20",
+    "results": "Loss"
+  },
+  {
+    "teamA": "Crystal Palace",
+    "teamB": "Aston Villa",
+    "prediction": "AWAY/DRAW",
+    "odds": "2.80",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Brentford",
+    "teamB": "Sunderland",
+    "prediction": "2-0 (CS)",
+    "odds": "9.90",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Bournemouth",
+    "teamB": "Spurs",
+    "prediction": "AWAY WIN",
+    "odds": "2.50",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Newcastle",
+    "teamB": "Leeds",
+    "prediction": "HOME WIN",
+    "odds": "1.75",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Napoli",
+    "teamB": "Hellas Verona",
+    "prediction": "2-0 (CS)",
+    "odds": "15.40",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Bologna",
+    "teamB": "Atalanta",
+    "prediction": "HOME WIN",
+    "odds": "2.60",
+    "results": "Win"
+  },
+  {
+    "teamA": "Torino",
+    "teamB": "Udinese",
+    "prediction": "AWAY",
+    "odds": "2.20",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Lazio",
+    "teamB": "Fiorentina",
+    "prediction": "1-1 DRAW",
+    "odds": "7.40",
+    "results": "WIN"
+  },
+  {
+    "teamA": "Benfica",
+    "teamB": "Braga",
+    "prediction": "2-1 HOME WIN",
+    "odds": "1.85",
+    "results": "WIN"
+  }
+]
+},
+  {
   "date": "Monday, 5th January 2026",
   "gamesList": [
     {
