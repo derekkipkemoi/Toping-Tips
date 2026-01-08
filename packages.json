@@ -89,17 +89,17 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 3,
+          "amount": 10,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 5,
+          "amount": 15,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 10,
+          "amount": 30,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
