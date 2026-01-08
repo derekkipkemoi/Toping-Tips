@@ -1,58 +1,142 @@
 [
   {
-    "id": "pl2-20260107",
+    "id": "1378048",
     "teamA": {
-      "name": "Fulham",
-      "icon": "https://example.com/icons/fulham.png"
+      "name": "AC Milan",
+      "icon": "https://media.api-sports.io/football/teams/489.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://example.com/icons/chelsea.png"
+      "name": "Genoa",
+      "icon": "https://media.api-sports.io/football/teams/495.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY",
-    "date": "2026-01-07"
-  },
-  {
-    "id": "pl3-20260107",
-    "teamA": {
-      "name": "Everton",
-      "icon": "https://example.com/icons/everton.png"
-    },
-    "teamB": {
-      "name": "Wolves",
-      "icon": "https://example.com/icons/wolves.png"
-    },
-    "leagueName": "Premier League",
+    "leagueName": "Serie A",
     "prediction": "HOME",
-    "date": "2026-01-07"
+    "date": "2026-01-08"
   },
   {
-    "id": "pl4-20260107",
+    "id": "1405524",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystalpalace.png"
+      "name": "Atletico Madrid",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://example.com/icons/astonvilla.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY",
-    "date": "2026-01-07"
+    "leagueName": "Super Cup",
+    "prediction": "DRAW",
+    "date": "2026-01-08"
   },
   {
-    "id": "pl5-20260107",
+    "id": "1501283",
     "teamA": {
-      "name": "Brentford",
-      "icon": "https://example.com/icons/brentford.png"
+      "name": "Paris Saint Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Sunderland",
-      "icon": "https://example.com/icons/sunderland.png"
+      "name": "Marseille",
+      "icon": "https://media.api-sports.io/football/teams/81.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Trophée des Champions",
     "prediction": "HOME",
-    "date": "2026-01-07"
+    "date": "2026-01-08"
+  },
+  {
+    "id": "1491605",
+    "teamA": {
+      "name": "Qatar SC",
+      "icon": "https://media.api-sports.io/football/teams/2907.png"
+    },
+    "teamB": {
+      "name": "Al Sadd",
+      "icon": "https://media.api-sports.io/football/teams/2895.png"
+    },
+    "leagueName": "Stars League",
+    "prediction": "AWAY",
+    "date": "2026-01-08"
+  },
+  {
+    "id": "1485359",
+    "teamA": {
+      "name": "Al-Jazira",
+      "icon": "https://media.api-sports.io/football/teams/2871.png"
+    },
+    "teamB": {
+      "name": "Ajman",
+      "icon": "https://media.api-sports.io/football/teams/2879.png"
+    },
+    "leagueName": "Pro League",
+    "prediction": "HOME",
+    "date": "2026-01-08"
+  },
+  {
+    "id": "1485361",
+    "teamA": {
+      "name": "Al-Dhafra",
+      "icon": "https://media.api-sports.io/football/teams/2873.png"
+    },
+    "teamB": {
+      "name": "Al Ain",
+      "icon": "https://media.api-sports.io/football/teams/2865.png"
+    },
+    "leagueName": "Pro League",
+    "prediction": "AWAY",
+    "date": "2026-01-08"
+  },
+  {
+    "id": "1378045",
+    "teamA": {
+      "name": "Cremonese",
+      "icon": "https://media.api-sports.io/football/teams/520.png"
+    },
+    "teamB": {
+      "name": "Cagliari",
+      "icon": "https://media.api-sports.io/football/teams/490.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "HOME/DRAW",
+    "date": "2026-01-08"
+  },
+  {
+    "id": "1501698",
+    "teamA": {
+      "name": "QFC U20",
+      "icon": "https://media.api-sports.io/football/teams/24835.png"
+    },
+    "teamB": {
+      "name": "Atlético Mineiro U20",
+      "icon": "https://media.api-sports.io/football/teams/12952.png"
+    },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "AWAY",
+    "date": "2026-01-08"
+  },
+  {
+    "id": "1501699",
+    "teamA": {
+      "name": "Estrela De Marco U20",
+      "icon": "https://media.api-sports.io/football/teams/23278.png"
+    },
+    "teamB": {
+      "name": "Botafogo U20",
+      "icon": "https://media.api-sports.io/football/teams/22875.png"
+    },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "AWAY",
+    "date": "2026-01-08"
+  },
+  {
+    "id": "1500386",
+    "teamA": {
+      "name": "Avai",
+      "icon": "https://media.api-sports.io/football/teams/145.png"
+    },
+    "teamB": {
+      "name": "Barra",
+      "icon": "https://media.api-sports.io/football/teams/18271.png"
+    },
+    "leagueName": "Catarinense - 1",
+    "prediction": "HOME",
+    "date": "2026-01-08"
   }
 ]
