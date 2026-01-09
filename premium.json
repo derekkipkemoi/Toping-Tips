@@ -1,121 +1,186 @@
 [
   {
-    "teamA": "CD Olimpia",
-    "teamB": "CD Marathon",
-    "prediction": "HOME",
-    "odds": "2.10",
-    "results": "WON"
+    "id": "1456974",
+    "teamA": { "name": "FC Santiago", "icon": "https://media.api-sports.io/football/teams/22055.png" },
+    "teamB": { "name": "Zacatepec 1948", "icon": "https://media.api-sports.io/football/teams/2303.png" },
+    "leagueName": "Liga Premier Serie A",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Australia U23",
-    "teamB": "Thailand U23",
+    "id": "1482983",
+    "teamA": { "name": "La Fama", "icon": "https://media.api-sports.io/football/teams/8239.png" },
+    "teamB": { "name": "Britannia", "icon": "https://media.api-sports.io/football/teams/8234.png" },
+    "leagueName": "Division di Honor",
     "prediction": "HOME",
-    "odds": "1.65",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Iraq U23",
-    "teamB": "China PR U23",
+    "id": "1501723",
+    "teamA": { "name": "Araçatuba U20", "icon": "https://media.api-sports.io/football/teams/26009.png" },
+    "teamB": { "name": "Athletico PR U20", "icon": "https://media.api-sports.io/football/teams/12984.png" },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1501792",
+    "teamA": { "name": "Assisense U20", "icon": "https://media.api-sports.io/football/teams/12983.png" },
+    "teamB": { "name": "Athletic Club MG U20", "icon": "https://media.api-sports.io/football/teams/23643.png" },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1503504",
+    "teamA": { "name": "Santa Fe", "icon": "https://media.api-sports.io/football/teams/1139.png" },
+    "teamB": { "name": "Deportivo Tachira FC", "icon": "https://media.api-sports.io/football/teams/2807.png" },
+    "leagueName": "Friendlies Clubs",
     "prediction": "HOME/DRAW",
-    "odds": "1.38",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Al-Qasim",
-    "teamB": "Al Shorta",
-    "prediction": "AWAY",
-    "odds": "1.85",
-    "results": "LOSS"
+    "id": "1501724",
+    "teamA": { "name": "Francana U20", "icon": "https://media.api-sports.io/football/teams/13010.png" },
+    "teamB": { "name": "Cruzeiro U20", "icon": "https://media.api-sports.io/football/teams/13000.png" },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Al Shahaniya",
-    "teamB": "Al-Duhail SC",
-    "prediction": "AWAY",
-    "odds": "1.55",
-    "results": "DRAW"
-  },
-  {
-    "teamA": "Al-Jazira",
-    "teamB": "Ajman",
+    "id": "1457130",
+    "teamA": { "name": "Cañoneros Marina", "icon": "https://media.api-sports.io/football/teams/15924.png" },
+    "teamB": { "name": "Chapulineros", "icon": "https://media.api-sports.io/football/teams/26525.png" },
+    "leagueName": "Liga Premier Serie A",
     "prediction": "HOME/DRAW",
-    "odds": "1.42",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Dibba Al-Fujairah",
-    "teamB": "Khorfakkan",
+    "id": "1491793",
+    "teamA": { "name": "Mazatlán", "icon": "https://media.api-sports.io/football/teams/14002.png" },
+    "teamB": { "name": "FC Juarez", "icon": "https://media.api-sports.io/football/teams/2298.png" },
+    "leagueName": "Liga MX",
     "prediction": "HOME/DRAW",
-    "odds": "1.50",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Jaraaf",
-    "teamB": "Génération Foot",
-    "prediction": "HOME",
-    "odds": "2.25",
-    "results": "WON"
+    "id": "1493270",
+    "teamA": { "name": "Atlético San Luis W", "icon": "https://media.api-sports.io/football/teams/14874.png" },
+    "teamB": { "name": "Pumas UNAM W", "icon": "https://media.api-sports.io/football/teams/14870.png" },
+    "leagueName": "Liga MX Femenil",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "teamA": "ES Setif",
-    "teamB": "Paradou AC",
-    "prediction": "HOME",
-    "odds": "2.00",
-    "results": "WON"
-  },
-  {
-    "teamA": "USM Alger",
-    "teamB": "MC Oran",
+    "id": "1494083",
+    "teamA": { "name": "Venados FC", "icon": "https://media.api-sports.io/football/teams/2311.png" },
+    "teamB": { "name": "Irapuato", "icon": "https://media.api-sports.io/football/teams/15932.png" },
+    "leagueName": "Liga de Expansión MX",
     "prediction": "HOME/DRAW",
-    "odds": "1.40",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Morvant Caledonia United",
-    "teamB": "Defence Force",
-    "prediction": "AWAY",
-    "odds": "1.95",
-    "results": "WON"
-  },
-  {
-    "teamA": "Palmeiras U20",
-    "teamB": "Batalhão FC U20",
+    "id": "1466425",
+    "teamA": { "name": "Asteras Kaisarianis", "icon": "https://media.api-sports.io/football/teams/22271.png" },
+    "teamB": { "name": "Kentavros", "icon": "https://media.api-sports.io/football/teams/26590.png" },
+    "leagueName": "Gamma Ethniki - Group 5",
     "prediction": "HOME",
-    "odds": "1.30",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Mirassol U20",
-    "teamB": "Sport Recife U20",
+    "id": "1482251",
+    "teamA": { "name": "Fasil Ketema", "icon": "https://media.api-sports.io/football/teams/4117.png" },
+    "teamB": { "name": "Ethiopia Bunna", "icon": "https://media.api-sports.io/football/teams/4116.png" },
+    "leagueName": "Premier League",
     "prediction": "HOME/DRAW",
-    "odds": "1.35",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Andraus Brasil",
-    "teamB": "Atletico Paranaense",
-    "prediction": "AWAY",
-    "odds": "1.70",
-    "results": "WON"
-  },
-  {
-    "teamA": "Lusitânia Lourosa",
-    "teamB": "Leixoes",
+    "id": "1483957",
+    "teamA": { "name": "Manzini Sea Birds", "icon": "https://media.api-sports.io/football/teams/16817.png" },
+    "teamB": { "name": "Malanti Chiefs", "icon": "https://media.api-sports.io/football/teams/16816.png" },
+    "leagueName": "Premier League",
     "prediction": "HOME/DRAW",
-    "odds": "1.62",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Santa Cruz",
-    "teamB": "Defensa Y Justicia",
-    "prediction": "HOME",
-    "odds": "3.40",
-    "results": "LOSS"
+    "id": "1483961",
+    "teamA": { "name": "Tabankulu", "icon": "https://media.api-sports.io/football/teams/26848.png" },
+    "teamB": { "name": "Ezulwini United", "icon": "https://media.api-sports.io/football/teams/22544.png" },
+    "leagueName": "Premier League",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Club Brugge KV",
-    "teamB": "Sturm Graz",
+    "id": "1483962",
+    "teamA": { "name": "Sisonkhe", "icon": "https://media.api-sports.io/football/teams/25019.png" },
+    "teamB": { "name": "Green Mamba", "icon": "https://media.api-sports.io/football/teams/6421.png" },
+    "leagueName": "Premier League",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1483963",
+    "teamA": { "name": "Young Buffaloes", "icon": "https://media.api-sports.io/football/teams/8076.png" },
+    "teamB": { "name": "Ubombo Sugar", "icon": "https://media.api-sports.io/football/teams/26849.png" },
+    "leagueName": "Premier League",
     "prediction": "HOME",
-    "odds": "1.75",
-    "results": "WON"
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1490906",
+    "teamA": { "name": "KR Reykjavik", "icon": "https://media.api-sports.io/football/teams/271.png" },
+    "teamB": { "name": "Fylkir", "icon": "https://media.api-sports.io/football/teams/267.png" },
+    "leagueName": "Reykjavik Cup",
+    "prediction": "HOME/DRAW",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1495115",
+    "teamA": { "name": "Birzebbuga", "icon": "https://media.api-sports.io/football/teams/16533.png" },
+    "teamB": { "name": "St. Andrews", "icon": "https://media.api-sports.io/football/teams/4610.png" },
+    "leagueName": "Challenge League",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1495116",
+    "teamA": { "name": "Mgarr United", "icon": "https://media.api-sports.io/football/teams/17710.png" },
+    "teamB": { "name": "Swieqi United", "icon": "https://media.api-sports.io/football/teams/4612.png" },
+    "leagueName": "Challenge League",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1500243",
+    "teamA": { "name": "Garage Express", "icon": "https://media.api-sports.io/football/teams/26333.png" },
+    "teamB": { "name": "Kayanza United", "icon": "https://media.api-sports.io/football/teams/12181.png" },
+    "leagueName": "Ligue A",
+    "prediction": "HOME/DRAW",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1501859",
+    "teamA": { "name": "JIPPO", "icon": "https://media.api-sports.io/football/teams/9172.png" },
+    "teamB": { "name": "KuPS Akatemia", "icon": "https://media.api-sports.io/football/teams/18758.png" },
+    "leagueName": "Friendlies Clubs",
+    "prediction": "HOME/DRAW",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1501861",
+    "teamA": { "name": "FC Luzern", "icon": "https://media.api-sports.io/football/teams/644.png" },
+    "teamB": { "name": "SCR Altach", "icon": "https://media.api-sports.io/football/teams/618.png" },
+    "leagueName": "Friendlies Clubs",
+    "prediction": "HOME/DRAW",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1501863",
+    "teamA": { "name": "Raków Częstochowa", "icon": "https://media.api-sports.io/football/teams/3491.png" },
+    "teamB": { "name": "Red Bull Salzburg", "icon": "https://media.api-sports.io/football/teams/571.png" },
+    "leagueName": "Friendlies Clubs",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   }
 ]
