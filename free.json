@@ -1,44 +1,18 @@
 [
-  {
-    "id": "1436034",
-    "teamA": {
-      "name": "Al-Hilal Saudi FC",
-      "icon": "https://media.api-sports.io/football/teams/2932.png"
-    },
-    "teamB": {
-      "name": "Al-Hazm",
-      "icon": "https://media.api-sports.io/football/teams/2945.png"
-    },
-    "leagueName": "Pro League",
-    "prediction": "HOME WIN",
-    "date": "2026-01-08"
+   {
+    "id": "1456974",
+    "teamA": { "name": "FC Santiago", "icon": "https://media.api-sports.io/football/teams/22055.png" },
+    "teamB": { "name": "Zacatepec 1948", "icon": "https://media.api-sports.io/football/teams/2303.png" },
+    "leagueName": "Liga Premier Serie A",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "id": "1436032",
-    "teamA": {
-      "name": "Al-Nassr",
-      "icon": "https://media.api-sports.io/football/teams/2939.png"
-    },
-    "teamB": {
-      "name": "Al-Qadisiyah FC",
-      "icon": "https://media.api-sports.io/football/teams/2933.png"
-    },
-    "leagueName": "Pro League",
-    "prediction": "HOME WIN",
-    "date": "2026-01-08"
-  },
-  {
-    "id": "1379169",
-    "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
-    },
-    "teamB": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-01-08"
+    "id": "1482983",
+    "teamA": { "name": "La Fama", "icon": "https://media.api-sports.io/football/teams/8239.png" },
+    "teamB": { "name": "Britannia", "icon": "https://media.api-sports.io/football/teams/8234.png" },
+    "leagueName": "Division di Honor",
+    "prediction": "HOME",
+    "date": "2026-01-10"
   }
 ]
