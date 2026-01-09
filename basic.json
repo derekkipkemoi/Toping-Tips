@@ -1,79 +1,82 @@
 [
   {
-    "teamA": "CD Olimpia",
-    "teamB": "CD Marathon",
+    "id": "1456974",
+    "teamA": { "name": "FC Santiago", "icon": "https://media.api-sports.io/football/teams/22055.png" },
+    "teamB": { "name": "Zacatepec 1948", "icon": "https://media.api-sports.io/football/teams/2303.png" },
+    "leagueName": "Liga Premier Serie A",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1482983",
+    "teamA": { "name": "La Fama", "icon": "https://media.api-sports.io/football/teams/8239.png" },
+    "teamB": { "name": "Britannia", "icon": "https://media.api-sports.io/football/teams/8234.png" },
+    "leagueName": "Division di Honor",
     "prediction": "HOME",
-    "odds": "2.10",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Australia U23",
-    "teamB": "Thailand U23",
-    "prediction": "HOME",
-    "odds": "1.65",
-    "results": "WON"
+    "id": "1501723",
+    "teamA": { "name": "Araçatuba U20", "icon": "https://media.api-sports.io/football/teams/26009.png" },
+    "teamB": { "name": "Athletico PR U20", "icon": "https://media.api-sports.io/football/teams/12984.png" },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Iraq U23",
-    "teamB": "China PR U23",
+    "id": "1501792",
+    "teamA": { "name": "Assisense U20", "icon": "https://media.api-sports.io/football/teams/12983.png" },
+    "teamB": { "name": "Athletic Club MG U20", "icon": "https://media.api-sports.io/football/teams/23643.png" },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "1503504",
+    "teamA": { "name": "Santa Fe", "icon": "https://media.api-sports.io/football/teams/1139.png" },
+    "teamB": { "name": "Deportivo Tachira FC", "icon": "https://media.api-sports.io/football/teams/2807.png" },
+    "leagueName": "Friendlies Clubs",
     "prediction": "HOME/DRAW",
-    "odds": "1.38",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Al-Qasim",
-    "teamB": "Al Shorta",
-    "prediction": "AWAY",
-    "odds": "1.85",
-    "results": "LOSS"
+    "id": "1501724",
+    "teamA": { "name": "Francana U20", "icon": "https://media.api-sports.io/football/teams/13010.png" },
+    "teamB": { "name": "Cruzeiro U20", "icon": "https://media.api-sports.io/football/teams/13000.png" },
+    "leagueName": "São Paulo Youth Cup",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Al Shahaniya",
-    "teamB": "Al-Duhail SC",
-    "prediction": "AWAY",
-    "odds": "1.55",
-    "results": "DRAW"
-  },
-  {
-    "teamA": "Al-Jazira",
-    "teamB": "Ajman",
+    "id": "1457130",
+    "teamA": { "name": "Cañoneros Marina", "icon": "https://media.api-sports.io/football/teams/15924.png" },
+    "teamB": { "name": "Chapulineros", "icon": "https://media.api-sports.io/football/teams/26525.png" },
+    "leagueName": "Liga Premier Serie A",
     "prediction": "HOME/DRAW",
-    "odds": "1.42",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Dibba Al-Fujairah",
-    "teamB": "Khorfakkan",
+    "id": "1491793",
+    "teamA": { "name": "Mazatlán", "icon": "https://media.api-sports.io/football/teams/14002.png" },
+    "teamB": { "name": "FC Juarez", "icon": "https://media.api-sports.io/football/teams/2298.png" },
+    "leagueName": "Liga MX",
     "prediction": "HOME/DRAW",
-    "odds": "1.50",
-    "results": "WON"
+    "date": "2026-01-10"
   },
   {
-    "teamA": "Jaraaf",
-    "teamB": "Génération Foot",
-    "prediction": "HOME",
-    "odds": "2.25",
-    "results": "WON"
+    "id": "1493270",
+    "teamA": { "name": "Atlético San Luis W", "icon": "https://media.api-sports.io/football/teams/14874.png" },
+    "teamB": { "name": "Pumas UNAM W", "icon": "https://media.api-sports.io/football/teams/14870.png" },
+    "leagueName": "Liga MX Femenil",
+    "prediction": "DRAW/AWAY",
+    "date": "2026-01-10"
   },
   {
-    "teamA": "ES Setif",
-    "teamB": "Paradou AC",
-    "prediction": "HOME",
-    "odds": "2.00",
-    "results": "WON"
-  },
-  {
-    "teamA": "USM Alger",
-    "teamB": "MC Oran",
+    "id": "1494083",
+    "teamA": { "name": "Venados FC", "icon": "https://media.api-sports.io/football/teams/2311.png" },
+    "teamB": { "name": "Irapuato", "icon": "https://media.api-sports.io/football/teams/15932.png" },
+    "leagueName": "Liga de Expansión MX",
     "prediction": "HOME/DRAW",
-    "odds": "1.40",
-    "results": "WON"
-  },
-  {
-    "teamA": "Morvant Caledonia United",
-    "teamB": "Defence Force",
-    "prediction": "AWAY",
-    "odds": "1.95",
-    "results": "WON"
+    "date": "2026-01-10"
   }
 ]
