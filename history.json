@@ -7,21 +7,21 @@
         "teamB": "CD Marathon",
         "prediction": "HOME",
         "odds": "2.10",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Australia U23",
         "teamB": "Thailand U23",
         "prediction": "HOME",
         "odds": "1.65",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Iraq U23",
         "teamB": "China PR U23",
         "prediction": "HOME/DRAW",
         "odds": "1.38",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Al-Qasim",
@@ -42,70 +42,70 @@
         "teamB": "Ajman",
         "prediction": "HOME/DRAW",
         "odds": "1.42",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Dibba Al-Fujairah",
         "teamB": "Khorfakkan",
         "prediction": "HOME/DRAW",
         "odds": "1.50",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Jaraaf",
         "teamB": "Génération Foot",
         "prediction": "HOME",
         "odds": "2.25",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "ES Setif",
         "teamB": "Paradou AC",
         "prediction": "HOME",
         "odds": "2.00",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "USM Alger",
         "teamB": "MC Oran",
         "prediction": "HOME/DRAW",
         "odds": "1.40",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Morvant Caledonia United",
         "teamB": "Defence Force",
         "prediction": "AWAY",
         "odds": "1.95",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Palmeiras U20",
         "teamB": "Batalhão FC U20",
         "prediction": "HOME",
         "odds": "1.30",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Mirassol U20",
         "teamB": "Sport Recife U20",
         "prediction": "HOME/DRAW",
         "odds": "1.35",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Andraus Brasil",
         "teamB": "Atletico Paranaense",
         "prediction": "AWAY",
         "odds": "1.70",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Lusitânia Lourosa",
         "teamB": "Leixoes",
         "prediction": "HOME/DRAW",
         "odds": "1.62",
-        "results": "WON"
+        "results": "WIN"
       },
       {
         "teamA": "Santa Cruz",
@@ -119,7 +119,7 @@
         "teamB": "Sturm Graz",
         "prediction": "HOME",
         "odds": "1.75",
-        "results": "WON"
+        "results": "WIN"
       }
     ]
   },
