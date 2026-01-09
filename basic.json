@@ -1,142 +1,79 @@
 [
   {
-    "id": "1378048",
-    "teamA": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
-    },
-    "teamB": {
-      "name": "Genoa",
-      "icon": "https://media.api-sports.io/football/teams/495.png"
-    },
-    "leagueName": "Serie A",
+    "teamA": "CD Olimpia",
+    "teamB": "CD Marathon",
     "prediction": "HOME",
-    "date": "2026-01-08"
+    "odds": "2.10",
+    "results": "WON"
   },
   {
-    "id": "1405524",
-    "teamA": {
-      "name": "Atletico Madrid",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
-    },
-    "teamB": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "leagueName": "Super Cup",
-    "prediction": "DRAW",
-    "date": "2026-01-08"
-  },
-  {
-    "id": "1501283",
-    "teamA": {
-      "name": "Paris Saint Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "Marseille",
-      "icon": "https://media.api-sports.io/football/teams/81.png"
-    },
-    "leagueName": "Trophée des Champions",
+    "teamA": "Australia U23",
+    "teamB": "Thailand U23",
     "prediction": "HOME",
-    "date": "2026-01-08"
+    "odds": "1.65",
+    "results": "WON"
   },
   {
-    "id": "1491605",
-    "teamA": {
-      "name": "Qatar SC",
-      "icon": "https://media.api-sports.io/football/teams/2907.png"
-    },
-    "teamB": {
-      "name": "Al Sadd",
-      "icon": "https://media.api-sports.io/football/teams/2895.png"
-    },
-    "leagueName": "Stars League",
-    "prediction": "AWAY",
-    "date": "2026-01-08"
-  },
-  {
-    "id": "1485359",
-    "teamA": {
-      "name": "Al-Jazira",
-      "icon": "https://media.api-sports.io/football/teams/2871.png"
-    },
-    "teamB": {
-      "name": "Ajman",
-      "icon": "https://media.api-sports.io/football/teams/2879.png"
-    },
-    "leagueName": "Pro League",
-    "prediction": "HOME",
-    "date": "2026-01-08"
-  },
-  {
-    "id": "1485361",
-    "teamA": {
-      "name": "Al-Dhafra",
-      "icon": "https://media.api-sports.io/football/teams/2873.png"
-    },
-    "teamB": {
-      "name": "Al Ain",
-      "icon": "https://media.api-sports.io/football/teams/2865.png"
-    },
-    "leagueName": "Pro League",
-    "prediction": "AWAY",
-    "date": "2026-01-08"
-  },
-  {
-    "id": "1378045",
-    "teamA": {
-      "name": "Cremonese",
-      "icon": "https://media.api-sports.io/football/teams/520.png"
-    },
-    "teamB": {
-      "name": "Cagliari",
-      "icon": "https://media.api-sports.io/football/teams/490.png"
-    },
-    "leagueName": "Serie A",
+    "teamA": "Iraq U23",
+    "teamB": "China PR U23",
     "prediction": "HOME/DRAW",
-    "date": "2026-01-08"
+    "odds": "1.38",
+    "results": "WON"
   },
   {
-    "id": "1501698",
-    "teamA": {
-      "name": "QFC U20",
-      "icon": "https://media.api-sports.io/football/teams/24835.png"
-    },
-    "teamB": {
-      "name": "Atlético Mineiro U20",
-      "icon": "https://media.api-sports.io/football/teams/12952.png"
-    },
-    "leagueName": "São Paulo Youth Cup",
+    "teamA": "Al-Qasim",
+    "teamB": "Al Shorta",
     "prediction": "AWAY",
-    "date": "2026-01-08"
+    "odds": "1.85",
+    "results": "LOSS"
   },
   {
-    "id": "1501699",
-    "teamA": {
-      "name": "Estrela De Marco U20",
-      "icon": "https://media.api-sports.io/football/teams/23278.png"
-    },
-    "teamB": {
-      "name": "Botafogo U20",
-      "icon": "https://media.api-sports.io/football/teams/22875.png"
-    },
-    "leagueName": "São Paulo Youth Cup",
+    "teamA": "Al Shahaniya",
+    "teamB": "Al-Duhail SC",
     "prediction": "AWAY",
-    "date": "2026-01-08"
+    "odds": "1.55",
+    "results": "DRAW"
   },
   {
-    "id": "1500386",
-    "teamA": {
-      "name": "Avai",
-      "icon": "https://media.api-sports.io/football/teams/145.png"
-    },
-    "teamB": {
-      "name": "Barra",
-      "icon": "https://media.api-sports.io/football/teams/18271.png"
-    },
-    "leagueName": "Catarinense - 1",
+    "teamA": "Al-Jazira",
+    "teamB": "Ajman",
+    "prediction": "HOME/DRAW",
+    "odds": "1.42",
+    "results": "WON"
+  },
+  {
+    "teamA": "Dibba Al-Fujairah",
+    "teamB": "Khorfakkan",
+    "prediction": "HOME/DRAW",
+    "odds": "1.50",
+    "results": "WON"
+  },
+  {
+    "teamA": "Jaraaf",
+    "teamB": "Génération Foot",
     "prediction": "HOME",
-    "date": "2026-01-08"
+    "odds": "2.25",
+    "results": "WON"
+  },
+  {
+    "teamA": "ES Setif",
+    "teamB": "Paradou AC",
+    "prediction": "HOME",
+    "odds": "2.00",
+    "results": "WON"
+  },
+  {
+    "teamA": "USM Alger",
+    "teamB": "MC Oran",
+    "prediction": "HOME/DRAW",
+    "odds": "1.40",
+    "results": "WON"
+  },
+  {
+    "teamA": "Morvant Caledonia United",
+    "teamB": "Defence Force",
+    "prediction": "AWAY",
+    "odds": "1.95",
+    "results": "WON"
   }
 ]
