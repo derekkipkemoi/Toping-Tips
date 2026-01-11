@@ -3,6 +3,172 @@
     "date": "Friday, 9th January 2026",
     "gamesList": [
       {
+        "teamA": "FC Santiago",
+        "teamB": "Zacatepec 1948",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "La Fama",
+        "teamB": "Britannia",
+        "prediction": "HOME",
+        "odds": "2.20",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Araçatuba U20",
+        "teamB": "Athletico PR U20",
+        "prediction": "DRAW/AWAY",
+        "odds": "1.75",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Assisense U20",
+        "teamB": "Athletic Club MG U20",
+        "prediction": "HOME",
+        "odds": "1.90",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Santa Fe",
+        "teamB": "Deportivo Tachira FC",
+        "prediction": "HOME/DRAW",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Francana U20",
+        "teamB": "Cruzeiro U20",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.05",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cañoneros Marina",
+        "teamB": "Chapulineros",
+        "prediction": "HOME/DRAW",
+        "odds": "2.30",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mazatlán",
+        "teamB": "FC Juarez",
+        "prediction": "HOME/DRAW",
+        "odds": "2.15",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atlético San Luis W",
+        "teamB": "Pumas UNAM W",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Venados FC",
+        "teamB": "Irapuato",
+        "prediction": "HOME/DRAW",
+        "odds": "2.00",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Asteras Kaisarianis",
+        "teamB": "Kentavros",
+        "prediction": "HOME",
+        "odds": "2.60",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fasil Ketema",
+        "teamB": "Ethiopia Bunna",
+        "prediction": "HOME/DRAW",
+        "odds": "2.20",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Manzini Sea Birds",
+        "teamB": "Malanti Chiefs",
+        "prediction": "HOME/DRAW",
+        "odds": "2.25",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tabankulu",
+        "teamB": "Ezulwini United",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sisonkhe",
+        "teamB": "Green Mamba",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.05",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Young Buffaloes",
+        "teamB": "Ubombo Sugar",
+        "prediction": "HOME",
+        "odds": "2.35",
+        "results": "WIN"
+      },
+      {
+        "teamA": "KR Reykjavik",
+        "teamB": "Fylkir",
+        "prediction": "HOME/DRAW",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Birzebbuga",
+        "teamB": "St. Andrews",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.15",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mgarr United",
+        "teamB": "Swieqi United",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.18",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Garage Express",
+        "teamB": "Kayanza United",
+        "prediction": "HOME/DRAW",
+        "odds": "2.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "JIPPO",
+        "teamB": "KuPS Akatemia",
+        "prediction": "HOME/DRAW",
+        "odds": "2.30",
+        "results": "WIN"
+      },
+      {
+        "teamA": "FC Luzern",
+        "teamB": "SCR Altach",
+        "prediction": "HOME/DRAW",
+        "odds": "2.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Raków Częstochowa",
+        "teamB": "Red Bull Salzburg",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.75",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Friday, 9th January 2026",
+    "gamesList": [
+      {
         "teamA": "CD Olimpia",
         "teamB": "CD Marathon",
         "prediction": "HOME",
