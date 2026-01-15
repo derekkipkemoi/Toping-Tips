@@ -1,170 +1,128 @@
 [
-{
-    "id": "1445513",
+ {
+    "id": "liga_mx_1491806",
     "teamA": {
-      "name": "Tigres de Alica",
-      "icon": "https://media.api-sports.io/football/teams/24952.png"
+      "name": "Club Queretaro",
+      "icon": "https://media.api-sports.io/football/teams/2290.png"
     },
     "teamB": {
-      "name": "Leones Negros",
-      "icon": "https://media.api-sports.io/football/teams/15933.png"
+      "name": "Club Tijuana",
+      "icon": "https://media.api-sports.io/football/teams/2280.png"
     },
-    "leagueName": "Liga Premier Serie A",
-    "prediction": "OVER 2.5",
-    "date": "2026-01-11"
+    "leagueName": "Liga MX Clausura",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-15"
   },
   {
-    "id": "1483656",
+    "id": "liga_mx_1491805",
     "teamA": {
-      "name": "Prison Service",
-      "icon": "https://media.api-sports.io/football/teams/20974.png"
+      "name": "Club America",
+      "icon": "https://media.api-sports.io/football/teams/2287.png"
     },
     "teamB": {
-      "name": "Point Fortin",
-      "icon": "https://media.api-sports.io/football/teams/12566.png"
+      "name": "Atletico San Luis",
+      "icon": "https://media.api-sports.io/football/teams/2314.png"
     },
-    "leagueName": "Pro League",
-    "prediction": "OVER 2.5",
-    "date": "2026-01-11"
+    "leagueName": "Liga MX Clausura",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
   },
   {
-    "id": "1500743",
+    "id": "liga_mx_1491807",
     "teamA": {
-      "name": "Avenida",
-      "icon": "https://media.api-sports.io/football/teams/2205.png"
+      "name": "Tigres UANL",
+      "icon": "https://media.api-sports.io/football/teams/2279.png"
     },
     "teamB": {
-      "name": "Gremio",
-      "icon": "https://media.api-sports.io/football/teams/130.png"
+      "name": "U.N.A.M. - Pumas",
+      "icon": "https://media.api-sports.io/football/teams/2286.png"
     },
-    "leagueName": "Gaúcho - 1",
-    "prediction": "AWAY",
-    "date": "2026-01-11"
+    "leagueName": "Liga MX Clausura",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
   },
   {
-    "id": "1501743",
+    "id": "liga_mx_1491808",
     "teamA": {
-      "name": "Osasco Audax U20",
-      "icon": "https://media.api-sports.io/football/teams/13037.png"
+      "name": "Toluca",
+      "icon": "https://media.api-sports.io/football/teams/2281.png"
     },
     "teamB": {
-      "name": "Atlético Mineiro U20",
-      "icon": "https://media.api-sports.io/football/teams/12952.png"
-    },
-    "leagueName": "São Paulo Youth Cup",
-    "prediction": "AWAY",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1504187",
-    "teamA": {
-      "name": "Old Road",
-      "icon": "https://media.api-sports.io/football/teams/22797.png"
-    },
-    "teamB": {
-      "name": "Attacking Saints",
-      "icon": "https://media.api-sports.io/football/teams/25286.png"
-    },
-    "leagueName": "Premier Division",
-    "prediction": "OVER 2.5",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1482985",
-    "teamA": {
-      "name": "Real Koyari",
-      "icon": "https://media.api-sports.io/football/teams/26894.png"
-    },
-    "teamB": {
-      "name": "Sporting",
-      "icon": "https://media.api-sports.io/football/teams/26895.png"
-    },
-    "leagueName": "Division di Honor",
-    "prediction": "OVER 2.5",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1505331",
-    "teamA": {
-      "name": "Juventud",
-      "icon": "https://media.api-sports.io/football/teams/2353.png"
-    },
-    "teamB": {
-      "name": "Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/2360.png"
-    },
-    "leagueName": "Copa De La Liga Auf",
-    "prediction": "OVER 1.5",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1456978",
-    "teamA": {
-      "name": "Lobos ULMX",
-      "icon": "https://media.api-sports.io/football/teams/17787.png"
-    },
-    "teamB": {
-      "name": "Correcaminos UAT II",
-      "icon": "https://media.api-sports.io/football/teams/17782.png"
-    },
-    "leagueName": "Liga Premier Serie A",
-    "prediction": "HOME",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1457133",
-    "teamA": {
-      "name": "Jaguares de Chiapas",
-      "icon": "https://media.api-sports.io/football/teams/2293.png"
-    },
-    "teamB": {
-      "name": "Héroes de Zaci",
-      "icon": "https://media.api-sports.io/football/teams/26526.png"
-    },
-    "leagueName": "Liga Premier Serie A",
-    "prediction": "HOME",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1491795",
-    "teamA": {
-      "name": "Leon",
-      "icon": "https://media.api-sports.io/football/teams/2289.png"
-    },
-    "teamB": {
-      "name": "Cruz Azul",
-      "icon": "https://media.api-sports.io/football/teams/2295.png"
-    },
-    "leagueName": "Liga MX",
-    "prediction": "OVER 1.5",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1491796",
-    "teamA": {
       "name": "Santos Laguna",
       "icon": "https://media.api-sports.io/football/teams/2285.png"
     },
-    "teamB": {
-      "name": "Necaxa",
-      "icon": "https://media.api-sports.io/football/teams/2288.png"
-    },
-    "leagueName": "Liga MX",
-    "prediction": "OVER 2.5",
-    "date": "2026-01-11"
+    "leagueName": "Liga MX Clausura",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
   },
   {
-    "id": "1494086",
+    "id": "friendlies_1506285",
     "teamA": {
-      "name": "Monarcas",
-      "icon": "https://media.api-sports.io/football/teams/2284.png"
+      "name": "Gamba Osaka",
+      "icon": "https://media.api-sports.io/football/teams/293.png"
     },
     "teamB": {
-      "name": "Correcaminos Uat",
-      "icon": "https://media.api-sports.io/football/teams/2313.png"
+      "name": "Machida Zelvia",
+      "icon": "https://media.api-sports.io/football/teams/303.png"
     },
-    "leagueName": "Liga de Expansión MX",
-    "prediction": "HOME",
-    "date": "2026-01-11"
+    "leagueName": "Friendlies Clubs",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
+  },
+  {
+    "id": "tipsport_1502428",
+    "teamA": {
+      "name": "Chrudim",
+      "icon": "https://media.api-sports.io/football/teams/3722.png"
+    },
+    "teamB": {
+      "name": "Hradec Králové II",
+      "icon": "https://media.api-sports.io/football/teams/14495.png"
+    },
+    "leagueName": "Tipsport Liga",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
+  },
+  {
+    "id": "friendlies_1507581",
+    "teamA": {
+      "name": "Arda Kardzhali",
+      "icon": "https://media.api-sports.io/football/teams/1430.png"
+    },
+    "teamB": {
+      "name": "Levski Karlovo",
+      "icon": "https://media.api-sports.io/football/teams/1408.png"
+    },
+    "leagueName": "Friendlies Clubs",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
+  },
+  {
+    "id": "superliga_1415491",
+    "teamA": {
+      "name": "Partizani",
+      "icon": "https://media.api-sports.io/football/teams/708.png"
+    },
+    "teamB": {
+      "name": "Vora",
+      "icon": "https://media.api-sports.io/football/teams/3340.png"
+    },
+    "leagueName": "Superliga Albania",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
+  },
+  {
+    "id": "turkiye_kupasi_1489328",
+    "teamA": {
+      "name": "Erzurum BB",
+      "icon": "https://media.api-sports.io/football/teams/1009.png"
+    },
+    "teamB": {
+      "name": "Rizespor",
+      "icon": "https://media.api-sports.io/football/teams/1007.png"
+    },
+    "leagueName": "Türkiye Kupası",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-15"
   }
 ]
