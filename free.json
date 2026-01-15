@@ -1,44 +1,30 @@
 [
    {
-    "id": "1445513",
+    "id": "liga_mx_1491806",
     "teamA": {
-      "name": "Tigres de Alica",
-      "icon": "https://media.api-sports.io/football/teams/24952.png"
+      "name": "Club Queretaro",
+      "icon": "https://media.api-sports.io/football/teams/2290.png"
     },
     "teamB": {
-      "name": "Leones Negros",
-      "icon": "https://media.api-sports.io/football/teams/15933.png"
+      "name": "Club Tijuana",
+      "icon": "https://media.api-sports.io/football/teams/2280.png"
     },
-    "leagueName": "Liga Premier Serie A",
-    "prediction": "OVER 2.5",
-    "date": "2026-01-11"
+    "leagueName": "Liga MX Clausura",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-15"
   },
   {
-    "id": "1483656",
+    "id": "liga_mx_1491805",
     "teamA": {
-      "name": "Prison Service",
-      "icon": "https://media.api-sports.io/football/teams/20974.png"
+      "name": "Club America",
+      "icon": "https://media.api-sports.io/football/teams/2287.png"
     },
     "teamB": {
-      "name": "Point Fortin",
-      "icon": "https://media.api-sports.io/football/teams/12566.png"
+      "name": "Atletico San Luis",
+      "icon": "https://media.api-sports.io/football/teams/2314.png"
     },
-    "leagueName": "Pro League",
-    "prediction": "OVER 2.5",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "1500743",
-    "teamA": {
-      "name": "Avenida",
-      "icon": "https://media.api-sports.io/football/teams/2205.png"
-    },
-    "teamB": {
-      "name": "Gremio",
-      "icon": "https://media.api-sports.io/football/teams/130.png"
-    },
-    "leagueName": "Gaúcho - 1",
-    "prediction": "AWAY",
-    "date": "2026-01-11"
+    "leagueName": "Liga MX Clausura",
+    "prediction": "HOME WIN",
+    "date": "2026-01-15"
   }
 ]
