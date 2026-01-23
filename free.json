@@ -1,30 +1,44 @@
 [
    {
-    "id": "liga_mx_1491806",
+    "id": "cr_1489106",
     "teamA": {
-      "name": "Club Queretaro",
-      "icon": "https://media.api-sports.io/football/teams/2290.png"
+      "name": "Municipal Liberia",
+      "icon": "https://media.api-sports.io/football/teams/826.png"
     },
     "teamB": {
-      "name": "Club Tijuana",
-      "icon": "https://media.api-sports.io/football/teams/2280.png"
+      "name": "Perez Zeledon",
+      "icon": "https://media.api-sports.io/football/teams/819.png"
     },
-    "leagueName": "Liga MX Clausura",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-15"
+    "leagueName": "Primera División Costa-Rica",
+    "prediction": "DRAW",
+    "date": "2026-01-23"
   },
   {
-    "id": "liga_mx_1491805",
+    "id": "gt_1499122",
     "teamA": {
-      "name": "Club America",
-      "icon": "https://media.api-sports.io/football/teams/2287.png"
+      "name": "Guastatoya",
+      "icon": "https://media.api-sports.io/football/teams/3662.png"
     },
     "teamB": {
-      "name": "Atletico San Luis",
-      "icon": "https://media.api-sports.io/football/teams/2314.png"
+      "name": "Mixco",
+      "icon": "https://media.api-sports.io/football/teams/3645.png"
     },
-    "leagueName": "Liga MX Clausura",
+    "leagueName": "Liga Nacional Guatemala",
     "prediction": "HOME WIN",
-    "date": "2026-01-15"
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_acre_1500993",
+    "teamA": {
+      "name": "Rio Branco",
+      "icon": "https://media.api-sports.io/football/teams/2220.png"
+    },
+    "teamB": {
+      "name": "Galvez",
+      "icon": "https://media.api-sports.io/football/teams/1228.png"
+    },
+    "leagueName": "Acreano Brazil",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
   }
 ]
