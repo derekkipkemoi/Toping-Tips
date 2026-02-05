@@ -1,0 +1,49 @@
+[
+  {
+    "id": "daily_full",
+    "name": "Daily Full Access",
+    "price": 1.99,
+    "currency": "USD",
+    "duration_days": 1,
+    "features": [
+      "Unlimited access to all predictions for 24 hours",
+      "Includes all free tips + higher-confidence picks (68%+)",
+      "Full probabilities, reasoning, confidence level & main recommendation",
+      "Push notifications for new high-value picks during the day",
+      "Ad-free experience while active",
+      "Perfect for testing or big match days"
+    ]
+  },
+  {
+    "id": "weekly_full",
+    "name": "Weekly Full Access",
+    "price": 6.99,
+    "currency": "USD",
+    "duration_days": 7,
+    "features": [
+      "Unlimited access to all predictions for 7 full days",
+      "Everything in Daily package",
+      "Early access to picks (1–2 hours before free public posts)",
+      "Daily push notifications for new picks",
+      "Ad-free experience for the entire week",
+      "Weekly performance summary in-app (your personal hit rate & trends)",
+      "Best value for a full week of games"
+    ]
+  },
+  {
+    "id": "monthly_full",
+    "name": "Monthly Full Access",
+    "price": 19.99,
+    "currency": "USD",
+    "duration_days": 30,
+    "features": [
+      "Unlimited access to all predictions for 30 days",
+      "Everything in Weekly package",
+      "Priority high-confidence alerts (71%+ picks)",
+      "Monthly performance report (detailed stats & ROI tracking)",
+      "Ad-free experience for the whole month",
+      "Exclusive access to any accumulator/system bets (when generated)",
+      "Best long-term value — only ~$0.67 per day"
+    ]
+  }
+]
