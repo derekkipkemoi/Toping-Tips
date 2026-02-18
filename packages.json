@@ -1,28 +1,28 @@
 [
   {
-    "id": "premium",
-    "title": "Premium",
-    "subtitle": "Top Choice for Serious Bettors",
-    "price": {
-      "name": "Premium",
-      "prices": [
-        {
-          "amount": 5,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 2,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 10,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
-    },
+		"id": "basic",
+		"title": "Basic",
+		"subtitle": "Best Value",
+		"price": {
+			"name": "Basic",
+			"prices": [
+				{
+					"amount": 1,
+					"duration": "DAILY",
+					"baseCurrency": "USD"
+				},
+				{
+					"amount": 3,
+					"duration": "WEEKLY",
+					"baseCurrency": "USD"
+				},
+				{
+					"amount": 7,
+					"duration": "MONTHLY",
+					"baseCurrency": "USD"
+				}
+			]
+		},
     "features": [
       "15–30 High-Confidence Football Predictions Daily",
       "Elite Match Selection with Higher Success Rates",
@@ -98,5 +98,29 @@
     ],
     "type": "CORRECT_SCORE",
     "isMostPopular": false
-  }
+  },
+  {
+    "id": "premium",
+    "title": "Premium",
+    "subtitle": "Top Choice for Serious Bettors",
+    "price": {
+      "name": "Premium",
+      "prices": [
+        {
+          "amount": 5,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 2,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 10,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    }
 ]
