@@ -7,13 +7,13 @@
       "name": "Premium",
       "prices": [
         {
-          "amount": 6,
-          "duration": "DAILY",
+          "amount": 12,
+          "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 12,
-          "duration": "WEEKLY",
+          "amount": 6,
+          "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
@@ -41,13 +41,13 @@
       "name": "Betika Jackpot",
       "prices": [
         {
-          "amount": 2,
-          "duration": "DAILY",
+          "amount": 5,
+          "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 5,
-          "duration": "WEEKLY",
+          "amount": 2,
+          "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
@@ -74,13 +74,13 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 10,
-          "duration": "DAILY",
+          "amount": 15,
+          "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 15,
-          "duration": "WEEKLY",
+          "amount": 10,
+          "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
