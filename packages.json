@@ -1,4 +1,38 @@
 [
+	{
+    "id": "premium",
+    "title": "Premium",
+    "subtitle": "Top Choice for Serious Bettors",
+    "price": {
+      "name": "Premium",
+      "prices": [
+        {
+          "amount": 5,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 2,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 10,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "15–30 High-Confidence Football Predictions Daily",
+      "Elite Match Selection with Higher Success Rates",
+      "Advanced Win Trend & Performance Insights",
+      "Built for High-Stakes and Serious Bettors",
+      "Priority Support for Premium Members"
+    ],
+    "type": "PREMIUM",
+    "isMostPopular": true
+  },
   {
 		"id": "basic",
 		"title": "Basic",
@@ -97,39 +131,5 @@
     ],
     "type": "CORRECT_SCORE",
     "isMostPopular": false
-  },
-    {
-    "id": "premium",
-    "title": "Premium",
-    "subtitle": "Top Choice for Serious Bettors",
-    "price": {
-      "name": "Premium",
-      "prices": [
-        {
-          "amount": 5,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 2,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 10,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
-    },
-    "features": [
-      "15–30 High-Confidence Football Predictions Daily",
-      "Elite Match Selection with Higher Success Rates",
-      "Advanced Win Trend & Performance Insights",
-      "Built for High-Stakes and Serious Bettors",
-      "Priority Support for Premium Members"
-    ],
-    "type": "PREMIUM",
-    "isMostPopular": true
   }
 ]
