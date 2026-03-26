@@ -69,22 +69,22 @@
   {
     "id": "jackpot",
     "title": "SportPesa Mega Jackpot",
-    "subtitle": "MEGA Jackpot Pro 13. KSH 14,210,006",
+    "subtitle": "MEGA Jackpot Pro 17. KSH 126,380,774",
     "price": {
       "name": "Betika Jackpot",
       "prices": [
         {
-          "amount": 10,
+          "amount": 5,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 5,
+          "amount": 2,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 20,
+          "amount": 10,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
@@ -107,17 +107,17 @@
       "name": "Correct Score",
       "prices": [
         {
-          "amount": 15,
+          "amount": 10,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 10,
+          "amount": 5,
           "duration": "DAILY",
           "baseCurrency": "USD"
         },
         {
-          "amount": 30,
+          "amount": 15,
           "duration": "MONTHLY",
           "baseCurrency": "USD"
         }
