@@ -41,13 +41,13 @@
 			"name": "Basic",
 			"prices": [
 				{
-					"amount": 3,
-					"duration": "WEEKLY",
+					"amount": 1,
+					"duration": "DAILY",
 					"baseCurrency": "USD"
 				},
 				{
-					"amount": 1,
-					"duration": "DAILY",
+					"amount": 3,
+					"duration": "WEEKLY",
 					"baseCurrency": "USD"
 				},
 				{
